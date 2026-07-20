@@ -1,0 +1,1292 @@
+modelo,modo,item_id,bloque,formato,principio,limpieza,repeticion,valor,estado_parseo,error,respuesta_cruda,timestamp
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,0,3,ok,,"SCORE: 3
+REASON: Pure equality ignores relevant differences in need, effort, contribution, and consequences, making it intuitively incomplete as a principle of justice.",2026-07-03T18:29:27.383736+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,1,2,ok,,"SCORE: 2
+REASON: Treating everyone identically regardless of need, effort, contribution, or consequences ignores morally relevant differences between people.",2026-07-03T18:29:32.946824+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,2,2,ok,,"SCORE: 2
+REASON: Treating everyone identically regardless of effort, contribution, need, or consequence ignores nearly all meaningful dimensions of justice.",2026-07-03T18:29:39.414886+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,3,2,ok,,"SCORE: 2
+REASON: Treating everyone identically regardless of effort, contribution, need, or consequence ignores morally relevant differences between people.",2026-07-03T18:29:45.453246+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,4,2,ok,,"SCORE: 2
+REASON: Ignoring effort, contribution, need, and consequences entirely makes strict equality feel deeply unfair to most intuitions about justice.",2026-07-03T18:29:52.117647+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,5,3,ok,,"SCORE: 3
+REASON: Treating everyone identically regardless of need, effort, contribution, or consequences ignores morally relevant differences between people, making it only moderately fair at best.",2026-07-03T18:29:57.700287+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,6,2,ok,,"SCORE: 2
+REASON: While equality has some moral appeal, ignoring all other factors like effort, need, contribution, and consequences makes this approach deeply unfair in practice.",2026-07-03T18:30:04.464016+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,7,2,ok,,"SCORE: 2
+REASON: Treating everyone identically regardless of need, effort, contribution, or consequence ignores morally relevant differences between people.",2026-07-03T18:30:08.595543+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,8,3,ok,,"SCORE: 3
+REASON: Treating everyone identically regardless of effort, contribution, or need ignores morally relevant differences between people, making it unfair though equality itself has some appeal.",2026-07-03T18:30:16.349286+00:00
+glm-5.2,xhigh,CDJS_Equali_T,A_declarado_cdjs_largo,escala,igualdad,limpio,9,2,ok,,"SCORE: 2
+REASON: Treating everyone identically regardless of need, effort, contribution, or consequences ignores morally relevant differences between people.",2026-07-03T18:30:22.918801+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,0,2,ok,,"SCORE: 2
+REASON: This distribution ignores all relevant factors like need, effort, and contribution, making it difficult to justify as fully fair despite its egalitarian intent.",2026-07-03T18:30:28.156458+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,1,2,ok,,"SCORE: 2
+REASON: Allocating goods identically while ignoring need, effort, contribution, and consequences fails to reflect most intuitively relevant fairness considerations.",2026-07-03T18:30:34.662718+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,2,2,ok,,"SCORE: 2
+REASON: Ignoring all relevant factors like need, effort, and contribution makes strict equal distribution intuitively unfair to most people.",2026-07-03T18:30:39.941825+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,3,2,ok,,"SCORE: 2
+REASON: Equal distribution ignores relevant differences in effort, contribution, and need, which most fairness intuitions consider important.",2026-07-03T18:30:47.784655+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,4,2,ok,,"SCORE: 2
+REASON: Ignoring all relevant factors like need, effort, contribution, and consequences makes this rigid equality unfair to most reasonable conceptions of justice.",2026-07-03T18:30:53.399805+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,5,2,ok,,"SCORE: 2
+REASON: Ignoring effort, contribution, need, and societal benefit entirely makes this distribution unfair to those who work harder or have greater needs.",2026-07-03T18:30:59.992905+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,6,2,ok,,"SCORE: 2
+REASON: Ignoring individual needs, contributions, and societal benefit makes strict equal distribution ethically problematic and unfair.",2026-07-03T18:31:05.195666+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,7,2,ok,,"SCORE: 2
+REASON: This distribution ignores morally relevant factors like need, effort, contribution, and overall well-being, making it unfair under virtually every major theory of justice.",2026-07-03T18:31:10.612059+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,8,2,ok,,"SCORE: 2
+REASON: While strict equality has some moral appeal, ignoring needs, effort, contribution, and consequences entirely makes this distribution deeply unfair in most realistic circumstances.",2026-07-03T18:31:16.027588+00:00
+glm-5.2,xhigh,CDJS_Equali_G,A_declarado_cdjs_largo,escala,igualdad,limpio,9,2,ok,,"SCORE: 2
+REASON: Strict equality that ignores effort, contribution, need, and consequences violates multiple widely held principles of fairness simultaneously.",2026-07-03T18:31:20.276635+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,0,2,ok,,"SCORE: 2
+REASON: Ignoring effort, contribution, and individual needs makes strict equality unfair in practice.",2026-07-03T18:31:25.163554+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,1,2,ok,,"SCORE: 2
+REASON: A distribution that ignores needs, effort, contribution, and consequences entirely fails to account for morally relevant differences between people.",2026-07-03T18:31:29.759934+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,2,2,ok,,"SCORE: 2
+REASON: Distributing wealth and income equally without considering effort, contribution, or need fails to incentivize hard work or address individual circumstances.",2026-07-03T18:31:35.299407+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,3,2,ok,,"SCORE: 2
+REASON: Strict equality ignoring effort, contribution, need, and consequences ignores most factors that people reasonably view as relevant to fair distribution.",2026-07-03T18:31:42.619006+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,4,2,ok,,"SCORE: 2
+REASON: Strict equality ignoring all other factors like effort, contribution, and need strikes most people as deeply unfair.",2026-07-03T18:31:46.644025+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,5,2,ok,,"SCORE: 2
+REASON: Strict equality that ignores effort, contribution, need, and overall welfare conflicts with most widely held principles of distributive justice.",2026-07-03T18:31:59.184542+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,6,2,ok,,"SCORE: 2
+REASON: Strict equality ignoring all other morally relevant factors like need, effort, and contribution is difficult to justify as fair under most theories of distributive justice.",2026-07-03T18:32:06.874237+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,7,2,ok,,"SCORE: 2
+REASON: Strict equality ignoring effort, contribution, need, and consequences fails to account for factors that most theories of justice consider morally relevant.",2026-07-03T18:32:11.501705+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,8,2,ok,,"SCORE: 2
+REASON: A distribution that ignores effort, contribution, need, and consequences entirely fails to account for factors that most theories of justice consider morally relevant.",2026-07-03T18:32:17.179422+00:00
+glm-5.2,xhigh,CDJS_Equali_W,A_declarado_cdjs_largo,escala,igualdad,limpio,9,2,ok,,"SCORE: 2
+REASON: Ignoring effort, contribution, and specific needs makes strict equality unfair in most practical and theoretical frameworks.",2026-07-03T18:32:22.859895+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,0,2,ok,,"SCORE: 2
+REASON: Complete equality of status regardless of any consideration—effort, contribution, need, or utility—conflicts with virtually every principle of distributive justice.",2026-07-03T18:32:29.701185+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,1,2,ok,,"SCORE: 2
+REASON: Equal social standing ignores meaningful differences in contribution, effort, and need, making it unfair to those who contribute more or have greater needs.",2026-07-03T18:32:36.059569+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,2,2,ok,,"SCORE: 2
+REASON: Total equality of status ignores important factors like effort, contribution, and individual needs.",2026-07-03T18:32:43.691633+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,3,2,ok,,"SCORE: 2
+REASON: Equal social standing regardless of any merit, need, or consequential considerations ignores all major principles of distributive justice simultaneously.",2026-07-03T18:32:52.628449+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,4,2,ok,,"SCORE: 2
+REASON: Complete disregard for all relevant factors like need, effort, and contribution makes this extreme position difficult to defend as fair.",2026-07-03T18:32:57.807599+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,5,2,ok,,"SCORE: 2
+REASON: Complete equality of social standing that ignores all considerations of merit, contribution, need, and societal benefit is too extreme to be considered fair by most standards of justice.",2026-07-03T18:33:05.600183+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,6,3,ok,,"SCORE: 3
+REASON: Equal social standing has moral appeal, but ignoring effort, contribution, and need entirely makes it difficult to justify as fully fair.",2026-07-03T18:33:13.072559+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,7,2,ok,,"SCORE: 2
+REASON: Equal basic social standing has some moral appeal, but ignoring effort, contribution, need, and consequences entirely makes this distribution deeply unfair.",2026-07-03T18:33:18.759505+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,8,2,ok,,"SCORE: 2
+REASON: Equal social standing regardless of effort, contribution, or need ignores nearly all widely accepted principles of distributive justice.",2026-07-03T18:33:25.329001+00:00
+glm-5.2,xhigh,CDJS_Equali_S,A_declarado_cdjs_largo,escala,igualdad,limpio,9,2,ok,,"SCORE: 2
+REASON: Complete equality of social standing that ignores effort, contribution, need, and societal benefit conflicts with most major principles of distributive justice simultaneously.",2026-07-03T18:33:33.001758+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,0,3,ok,,"SCORE: 3
+REASON: While maximizing total good has some moral appeal, ignoring people's efforts, contributions, and specific needs entirely seems to neglect important aspects of fairness.",2026-07-03T18:33:43.060917+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,1,4,ok,,"SCORE: 4
+REASON: Maximizing total good is important but can justify treating individuals unjustly if merit, effort, and need are entirely disregarded.",2026-07-03T18:33:49.451962+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,2,3,ok,,"SCORE: 3
+REASON: While maximizing total good has some moral appeal, ignoring individual effort, contribution, and need entirely can lead to serious unfairness for particular persons.",2026-07-03T18:33:58.593398+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,3,3,ok,,"SCORE: 3
+REASON: While maximizing total good is an important consideration, ignoring merit, effort, and need entirely can lead to serious injustices for individuals.",2026-07-03T18:34:06.603572+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,4,4,ok,,"SCORE: 4
+REASON: This approach prioritizes overall societal welfare but may overlook individual merit and specific needs.",2026-07-03T18:34:12.295802+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,5,3,ok,,"SCORE: 3
+REASON: Maximizing total good is important, but ignoring individual effort and specific needs can lead to unfair outcomes for individuals.",2026-07-03T18:34:17.379583+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,6,4,ok,,"SCORE: 4
+REASON: Maximizing total welfare is a legitimate moral consideration, but completely ignoring desert, effort, and need risks treating individuals merely as means to aggregate ends.",2026-07-03T18:34:27.746403+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,7,3,ok,,"SCORE: 3
+REASON: Prioritizing aggregate well-being while ignoring individual needs, effort, and contributions risks treating people unjustly as mere means to an end.",2026-07-03T18:34:38.534507+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,8,4,ok,,"SCORE: 4
+REASON: Maximizing total good has moral merit, but entirely disregarding effort, contribution, and need strikes me as an incomplete account of fairness.",2026-07-03T18:34:46.369607+00:00
+glm-5.2,xhigh,CDJS_Utilit_T,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,9,4,ok,,"SCORE: 4
+REASON: Maximizing total good is a legitimate moral consideration, but entirely disregarding effort, contribution, and need risks sacrificing individual fairness for aggregate outcomes.",2026-07-03T18:34:55.425697+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,0,4,ok,,"SCORE: 4
+REASON: Maximizing total good is a legitimate consideration, but fairness also requires attention to individual desert, effort, contribution, and need rather than aggregate outcomes alone.",2026-07-03T18:35:03.164792+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,1,3,ok,,"SCORE: 3
+REASON: Maximizing total good has some moral appeal, but entirely ignoring effort, contribution, and need neglects important considerations of desert and individual circumstances.",2026-07-03T18:35:09.543539+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,2,3,ok,,"SCORE: 3
+REASON: Maximizing total good matters, but ignoring desert and need entirely can lead to deeply unfair outcomes for individuals.",2026-07-03T18:35:18.032521+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,3,4,ok,,"SCORE: 4
+REASON: Maximizing total good is a reasonable consideration, but ignoring people's needs, efforts, and contributions entirely raises serious fairness concerns.",2026-07-03T18:35:22.640844+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,4,3,ok,,"SCORE: 3
+REASON: Maximizing total good has some appeal, but ignoring effort, contribution, and need entirely makes this approach morally incomplete as a principle of distributive justice.",2026-07-03T18:35:28.575483+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,5,3,ok,,"SCORE: 3
+REASON: Maximizing total good matters, but ignoring effort, contribution, and need entirely conflicts with core fairness intuitions about what people deserve.",2026-07-03T18:35:37.414017+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,6,2,ok,,"SCORE: 2
+REASON: Maximizing total good while entirely ignoring need, effort, and contribution neglects individual desert and basic entitlements.",2026-07-03T18:35:42.946807+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,7,3,ok,,"SCORE: 3
+REASON: Maximizing total good matters, but ignoring effort, contribution, and need entirely neglects individual desert and basic entitlements.",2026-07-03T18:35:51.820702+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,8,4,ok,,"SCORE: 4
+REASON: Maximizing total good has moral weight, but ignoring effort, contribution, and need entirely makes this an incomplete and potentially unfair basis for distribution.",2026-07-03T18:36:03.321914+00:00
+glm-5.2,xhigh,CDJS_Utilit_G,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,9,4,ok,,"SCORE: 4
+REASON: Maximizing total good is an important consideration, but ignoring effort, contribution, and need entirely would overlook other morally relevant factors in fair distribution.",2026-07-03T18:36:09.222406+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,0,3,ok,,"SCORE: 3
+REASON: Maximizing total societal good is important, but ignoring individual effort, contribution, and specific needs risks exploiting some for the benefit of others.",2026-07-03T18:36:16.514744+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,1,4,ok,,"SCORE: 4
+REASON: Maximizing total good has moral appeal, but ignoring effort, contribution, and need entirely undermines important intuitions about desert and individual claims.",2026-07-03T18:36:22.751875+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,2,4,ok,,"SCORE: 4
+REASON: Maximizing total good has moral appeal, but completely disregarding people's effort, contribution, and needs seems to neglect important fairness considerations.",2026-07-03T18:36:31.519624+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,3,4,ok,,"SCORE: 4
+REASON: Maximizing total good is a legitimate consideration, but ignoring effort, contribution, and need entirely makes this principle incomplete as a standard of fairness.",2026-07-03T18:36:39.216076+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,4,3,ok,,"SCORE: 3
+REASON: Maximizing total good has some moral appeal, but ignoring effort, contribution, and need entirely would undermine important fairness considerations and individual desert.",2026-07-03T18:36:49.411458+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,5,4,ok,,"SCORE: 4
+REASON: Maximizing total good is a legitimate consideration, but ignoring effort, contribution, and need entirely makes this approach incomplete as a principle of distributive justice.",2026-07-03T18:36:55.242168+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,6,3,ok,,"SCORE: 3
+REASON: Maximizing total good is a relevant consideration, but ignoring effort, contribution, and need entirely makes this approach morally incomplete as a principle of distributive justice.",2026-07-03T18:37:04.073610+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,7,3,ok,,"SCORE: 3
+REASON: While producing good outcomes matters, distribution should also meaningfully consider people's needs, efforts, and contributions rather than relying solely on maximizing total welfare.",2026-07-03T18:37:14.673705+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,8,3,ok,,"SCORE: 3
+REASON: Maximizing total good has moral relevance, but ignoring effort, contribution, and need entirely makes such a distribution significantly unfair.",2026-07-03T18:37:22.866708+00:00
+glm-5.2,xhigh,CDJS_Utilit_W,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,9,3,ok,,"SCORE: 3
+REASON: While maximizing total good has some moral appeal, completely disregarding people's effort, contribution, and need makes this distribution principle unfair to individuals.",2026-07-03T18:37:34.091753+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,0,2,ok,,"SCORE: 2
+REASON: Determining social standing solely by aggregate utility unjustly ignores individual merit, effort, and specific needs.",2026-07-03T18:37:42.695023+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,1,2,ok,,"SCORE: 2
+REASON: Determining social standing solely by aggregate utility ignores individual effort, contribution, and need, which most fairness intuitions consider morally relevant.",2026-07-03T18:37:50.711885+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,2,3,ok,,"SCORE: 3
+REASON: Maximizing overall good is important, but entirely ignoring individual effort and contribution feels unfair.",2026-07-03T18:37:59.043008+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,3,2,ok,,"SCORE: 2
+REASON: Basing social standing solely on aggregate utility ignores individual merit, effort, and personal contribution.",2026-07-03T18:38:04.340158+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,4,3,ok,,"SCORE: 3
+REASON: Maximizing total good matters, but completely ignoring people's effort, contribution, and need makes this approach to determining social standing morally incomplete and potentially unjust to individuals.",2026-07-03T18:38:10.313046+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,5,2,ok,,"SCORE: 2
+REASON: Basing social standing solely on utilitarian outcomes ignores individual merit, effort, and specific needs, which makes it fundamentally unfair.",2026-07-03T18:38:18.821886+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,6,,sin_numero,,,2026-07-03T18:38:36.043176+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,7,3,ok,,"SCORE: 3
+REASON: Basing social standing solely on utilitarian outcomes ignores individual merit and need, which are central to most fairness intuitions.",2026-07-03T18:38:42.470708+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,8,2,ok,,"SCORE: 2
+REASON: Determining social standing purely by aggregate utility ignores desert, effort, and individual needs, making it unfair to those who contribute meaningfully but are assigned low status for the sake of total good.",2026-07-03T18:38:50.954216+00:00
+glm-5.2,xhigh,CDJS_Utilit_S,A_declarado_cdjs_largo,escala,bienestar_utilitario,control_o_aparte,9,2,ok,,"SCORE: 2
+REASON: Determining social standing solely by aggregate utility ignores individual merit and desert, making it fundamentally unfair.",2026-07-03T18:38:58.544976+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,0,2,ok,,"SCORE: 2
+REASON: While minimal restrictions prevent direct harm, allowing unrestricted social behavior risks systemic unfairness where individuals could be universally mistreated without recourse.",2026-07-03T18:39:05.087061+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,1,2,ok,,"SCORE: 2
+REASON: Allowing unrestricted social mistreatment permits systemic exclusion and arbitrary hardship that most conceptions of distributive justice would find unfair.",2026-07-03T18:39:10.984239+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,2,2,ok,,"SCORE: 2
+REASON: Allowing people to be universally treated poorly without any social restrictions or protections is largely unfair, even if basic physical harms are prohibited.",2026-07-03T18:39:17.458815+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,3,2,ok,,"SCORE: 2
+REASON: While basic protections against physical harm and theft exist, allowing completely unrestricted social behavior permits systemic social exclusion and mistreatment that most conceptions of distributive justice would find unfair.",2026-07-03T18:39:25.918527+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,4,3,ok,,"SCORE: 3
+REASON: While respecting personal freedom, a system permitting unchecked social cruelty or exclusion toward individuals lacks safeguards against distributive unfairness in social treatment.",2026-07-03T18:39:34.916750+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,5,2,ok,,"SCORE: 2
+REASON: Allowing unrestricted negative social treatment can lead to severe social inequalities and exclusion, which is fundamentally unfair.",2026-07-03T18:39:43.664760+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,6,2,ok,,"SCORE: 2
+REASON: A system with no protections against arbitrary social mistreatment allows systemic inequality and exclusion to go unaddressed, making outcomes largely dependent on the whims of others rather than any fair process.",2026-07-03T18:39:51.047855+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,7,2,ok,,"SCORE: 2
+REASON: Allowing unrestricted social mistreatment without any保障 of basic dignities fails to protect vulnerable individuals from collective cruelty or ostracism.",2026-07-03T18:39:58.062239+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,8,2,ok,,"SCORE: 2
+REASON: A system permitting unrestricted poor treatment of individuals lacks basic protections for dignity and allows severe, unremedied unfairness in social outcomes.",2026-07-03T18:40:05.137586+00:00
+glm-5.2,xhigh,CDJS_Libert_T,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,9,2,ok,,"SCORE: 2
+REASON: Allowing unrestricted social mistreatment means individuals can be subjected to severe unfairness through no fault of their own, even if physical harm and theft are prohibited.",2026-07-03T18:40:13.855885+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,0,2,ok,,"SCORE: 2
+REASON: A system with no guaranteed minimum and no limits on accumulation leaves the most vulnerable without protection and permits extreme inequality.",2026-07-03T18:40:20.759741+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,1,3,ok,,"SCORE: 3
+REASON: This scenario lacks a safety net for basic needs, which many consider a requirement for a fair society.",2026-07-03T18:40:31.298900+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,2,3,ok,,"SCORE: 3
+REASON: While freedom from coercion has some appeal, a system with no guarantees of basic needs or limits on accumulation risks leaving vulnerable people without access to essentials.",2026-07-03T18:40:38.707092+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,3,2,ok,,"SCORE: 2
+REASON: A system with no guarantees of basic needs and no limits on accumulation leaves vulnerable people unprotected and permits extreme inequality.",2026-07-03T18:40:44.319647+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,4,2,ok,,"SCORE: 2
+REASON: A system with no guarantees for basic needs leaves vulnerable individuals unprotected from circumstances beyond their control.",2026-07-03T18:40:55.965564+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,5,3,ok,,"SCORE: 3
+REASON: While this system maximizes individual freedom, the complete absence of guaranteed basic needs creates unacceptable risks for the vulnerable.",2026-07-03T18:41:07.067892+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,6,3,ok,,"SCORE: 3
+REASON: While respecting voluntary exchange, a system with no guarantees of basic needs or safeguards against extreme inequality risks leaving vulnerable people without access to essentials.",2026-07-03T18:41:15.655029+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,7,3,ok,,"SCORE: 3
+REASON: While voluntary exchange has some fairness, a system with no guarantees of basic needs or limits on accumulation risks leaving vulnerable people without access to essentials.",2026-07-03T18:41:22.741281+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,8,3,ok,,"SCORE: 3
+REASON: This system allows complete economic freedom but lacks a safety net for vulnerable individuals, making it moderately unfair.",2026-07-03T18:41:28.936997+00:00
+glm-5.2,xhigh,CDJS_Libert_G,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,9,2,ok,,"SCORE: 2
+REASON: Allowing unlimited accumulation without guaranteeing basic needs fails to protect the vulnerable and leads to extreme inequality.",2026-07-03T18:41:33.396103+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,0,3,ok,,"SCORE: 3
+REASON: While this scenario respects individual freedom of exchange, the complete absence of a safety net for the disadvantaged makes it morally inadequate from an egalitarian perspective.",2026-07-03T18:41:40.665036+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,1,3,ok,,"SCORE: 3
+REASON: While it respects unrestricted freedom of acquisition, the complete absence of basic guarantees for vulnerable individuals makes it significantly unfair.",2026-07-03T18:41:47.417563+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,2,3,ok,,"SCORE: 3
+REASON: This system respects individual freedom but provides no safeguards against extreme deprivation or excessive inequality, raising significant fairness concerns.",2026-07-03T18:41:54.774750+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,3,2,ok,,"SCORE: 2
+REASON: A system with no guarantees or safety nets leaves vulnerable people without any protection against poverty or deprivation.",2026-07-03T18:41:59.701983+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,4,3,ok,,"SCORE: 3
+REASON: This system permits unrestricted accumulation without ensuring basic needs are met, which raises significant fairness concerns despite respecting voluntary exchange.",2026-07-03T18:42:08.186036+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,5,3,ok,,"SCORE: 3
+REASON: While voluntary exchange has some fairness, a system with no guarantees for basic needs or limits on extreme inequality fails to protect the vulnerable.",2026-07-03T18:42:14.765714+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,6,4,ok,,"SCORE: 4
+REASON: A system with unrestricted accumulation and no guarantees offers freedom but risks extreme inequality and deprivation for the vulnerable.",2026-07-03T18:42:21.831389+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,7,4,ok,,"SCORE: 4
+REASON: This system allows for complete economic freedom but lacks basic safeguards for those unable to support themselves.",2026-07-03T18:42:29.680796+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,8,4,ok,,"SCORE: 4
+REASON: This system allows for unrestricted economic freedom but lacks a safety net for those who cannot compete.",2026-07-03T18:42:36.723822+00:00
+glm-5.2,xhigh,CDJS_Libert_W,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,9,3,ok,,"SCORE: 3
+REASON: A system with no guarantees or limits on accumulation risks extreme inequality and leaves vulnerable people without basic security, though free exchange has some merit.",2026-07-03T18:42:41.564549+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,0,3,ok,,"SCORE: 3
+REASON: While social status should largely be earned, not guaranteeing a baseline of basic respect or dignity could lead to unjust marginalization.",2026-07-03T18:42:49.799588+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,1,2,ok,,"SCORE: 2
+REASON: A society that provides no floor for social status risks severe marginalization and fails to protect the dignity of its most vulnerable members.",2026-07-03T18:42:55.696068+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,2,2,ok,,"SCORE: 2
+REASON: Allowing social status to be entirely unconstrained with no guaranteed minimum leaves vulnerable individuals open to severe marginalization and collective exclusion.",2026-07-03T18:43:01.679929+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,3,3,ok,,"SCORE: 3
+REASON: While freely determined status has some merit, the lack of any guaranteed minimum positive status leaves vulnerable individuals at risk of complete social marginalization.",2026-07-03T18:43:07.489366+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,4,3,ok,,"SCORE: 3
+REASON: Allowing society to assign status without a minimum guarantee risks severe marginalization, which seems somewhat unfair.",2026-07-03T18:43:18.120543+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,5,3,ok,,"SCORE: 3
+REASON: Allowing society to freely determine status without any guaranteed minimum risks leaving some individuals with no social dignity, which seems moderately unfair.",2026-07-03T18:43:24.394929+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,6,4,ok,,"SCORE: 4
+REASON: Allowing society to freely determine status respects autonomy, but lacking a baseline of positive status risks unfair marginalization.",2026-07-03T18:43:32.119705+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,7,3,ok,,"SCORE: 3
+REASON: Allowing no guaranteed minimum of positive social status risks leaving some individuals entirely marginalized, which seems unfairly harsh even under a freely determined system.",2026-07-03T18:43:39.426386+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,8,3,ok,,"SCORE: 3
+REASON: Allowing people to be denied even a minimal level of positive social status risks undermining basic dignity and social inclusion.",2026-07-03T18:43:45.424832+00:00
+glm-5.2,xhigh,CDJS_Libert_S,A_declarado_cdjs_largo,escala,libertario,control_o_aparte,9,3,ok,,"SCORE: 3
+REASON: Allowing social status to be completely unconstrained risks severe marginalization and undermines the social bases of self-respect for vulnerable individuals.",2026-07-03T18:43:56.900120+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,0,6,ok,,"SCORE: 6
+REASON: Allocating treatment strictly according to personal need aligns strongly with a widely accepted principle of distributive justice, though some may argue it overlooks other considerations like effort or contribution.",2026-07-03T18:44:07.372714+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,1,6,ok,,"SCORE: 6
+REASON: Allocating resources strictly according to personal need aligns with a widely accepted principle of distributive justice, though some may argue it should be balanced with considerations of merit or effort.",2026-07-03T18:44:15.931671+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,2,6,ok,,"SCORE: 6
+REASON: Allocating resources strictly according to personal need is a widely endorsed fairness principle, though some might argue it should also consider effort or merit.",2026-07-03T18:44:23.701775+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,3,7,ok,,"SCORE: 7
+REASON: Allocating treatment strictly based on personal needs aligns perfectly with the principle of need-based distributive justice.",2026-07-03T18:44:27.853689+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,4,7,ok,,"SCORE: 7
+REASON: Allocating treatment strictly according to personal needs embodies the needs-based principle of distributive justice, which is widely regarded as highly fair.",2026-07-03T18:44:32.750650+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,5,6,ok,,"SCORE: 6
+REASON: Allocating treatment strictly according to personal need is a widely endorsed principle of distributive justice, though some may argue it doesn't account for effort or contribution.",2026-07-03T18:44:39.458628+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,6,7,ok,,"SCORE: 7
+REASON: Allocating resources based strictly on personal need ensures that everyone receives appropriate care and support.",2026-07-03T18:44:45.198163+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,7,7,ok,,"SCORE: 7
+REASON: Distributing treatment strictly according to personal needs represents a highly fair application of need-based justice.",2026-07-03T18:44:51.924540+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,8,7,ok,,"SCORE: 7
+REASON: Allocating treatment strictly according to personal needs aligns with the needs-based principle of distributive justice, which is widely regarded as highly fair.",2026-07-03T18:44:56.497878+00:00
+glm-5.2,xhigh,CDJS_Person_T,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,9,5,ok,,"SCORE: 5
+REASON: Allocating based on need is a widely accepted fairness principle, but strictly excluding other considerations like effort or merit may not fully capture most people's sense of justice.",2026-07-03T18:45:07.148623+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,0,6,ok,,"SCORE: 6
+REASON: Distributing tangible goods and services based strictly on personal needs ensures that everyone's essential requirements are met.",2026-07-03T18:45:17.982917+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,1,5,ok,,"SCORE: 5
+REASON: Need-based distribution has strong moral appeal for ensuring basic well-being, but strictly excluding all other considerations like effort or contribution may undermine important incentives and freedoms.",2026-07-03T18:45:25.419558+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,2,5,ok,,"SCORE: 5
+REASON: Meeting everyone's needs is morally important, but strictly prohibiting anything beyond needs ignores other legitimate considerations like effort, contribution, and personal freedom.",2026-07-03T18:45:34.269030+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,3,6,ok,,"SCORE: 6
+REASON: Distributing goods and services according to need aligns with a widely accepted principle of fairness, though the strict prohibition on receiving anything beyond need could raise practical concerns about incentives and individual discretion.",2026-07-03T18:45:39.836722+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,4,7,ok,,"SCORE: 7
+REASON: Distributing tangible goods and services strictly based on personal needs aligns with the egalitarian principle of ensuring everyone's basic well-being is equally met.",2026-07-03T18:45:47.019793+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,5,5,ok,,"SCORE: 5
+REASON: Allocating goods based on need is a widely recognized fairness principle, though strictly excluding any goods beyond need may overlook incentives and contributions.",2026-07-03T18:45:57.317688+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: A strict needs-based distribution strongly aligns with egalitarian principles of justice, though the absolute prohibition on receiving anything beyond needs may be seen as slightly overly restrictive.",2026-07-03T18:46:05.667580+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,7,6,ok,,"SCORE: 6
+REASON: Allocating goods and services based on personal needs is a widely accepted fairness principle, though the strict prohibition on receiving anything beyond needs may be slightly overly restrictive.",2026-07-03T18:46:14.162751+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,8,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's needs are met is morally compelling, but strictly denying any goods beyond needs ignores other valid justice considerations like effort, contribution, and personal freedom.",2026-07-03T18:46:24.226433+00:00
+glm-5.2,xhigh,CDJS_Person_G,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,9,6,ok,,"SCORE: 6
+REASON: Allocating goods and services according to need is a widely accepted fairness principle, though strict enforcement that nobody receives anything beyond their needs could be seen as overly rigid.",2026-07-03T18:46:29.650348+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,0,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic needs are met is a widely accepted fairness principle, though the strict prohibition on having more than needed may be seen as overly restrictive.",2026-07-03T18:46:35.983637+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,1,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's needs are met before allowing surplus is a broadly compelling fairness principle, though it may not fully account for effort or contribution.",2026-07-03T18:46:42.480409+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,2,5,ok,,"SCORE: 5
+REASON: A needs-based distribution aligns with a widely respected moral principle, though some may argue it insufficiently accounts for effort or contribution.",2026-07-03T18:46:51.605527+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,3,6,ok,,"SCORE: 6
+REASON: Distributing wealth and income based on personal needs aligns with a widely accepted principle of distributive justice that prioritizes ensuring everyone's basic well-being.",2026-07-03T18:46:58.599219+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,4,5,ok,,"SCORE: 5
+REASON: A needs-based distribution ensures everyone's basic requirements are met, though strictly capping wealth at need level may unduly limit incentive and reward for contribution.",2026-07-03T18:47:04.869238+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,5,6,ok,,"SCORE: 6
+REASON: Distributing wealth and income based on personal needs aligns with a widely held fairness principle ensuring everyone's basic requirements are met without excessive accumulation.",2026-07-03T18:47:12.273320+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: A needs-based distribution ensures everyone's basic requirements are met, which aligns with strong principles of equity and human dignity.",2026-07-03T18:47:18.498442+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,7,5,ok,,"SCORE: 5
+REASON: A needs-based distribution ensures everyone's basic requirements are met, which aligns with a widely held conception of fairness, though it may not fully account for effort or contribution.",2026-07-03T18:47:25.941021+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,8,4,ok,,"SCORE: 4
+REASON: Ensuring everyone's basic needs are met has strong moral appeal, but strictly capping wealth at need level eliminates incentives for effort and innovation.",2026-07-03T18:47:35.216455+00:00
+glm-5.2,xhigh,CDJS_Person_W,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,9,5,ok,,"SCORE: 5
+REASON: A needs-based distribution is a widely recognized fairness principle, though it may conflict with incentives and other justice principles like merit or effort.",2026-07-03T18:47:39.923128+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,0,5,ok,,"SCORE: 5
+REASON: Allocating social standing based strictly on personal need aligns with the need-based principle of distributive justice.",2026-07-03T18:47:51.599517+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,1,5,ok,,"SCORE: 5
+REASON: Allocating social standing based on personal needs aligns with the need-based principle of distributive justice.",2026-07-03T18:47:58.136240+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,2,4,ok,,"SCORE: 4
+REASON: Allocating social standing based on personal need aligns with a needs-based principle of justice, though strictly determining status this way is an unusual and contested application.",2026-07-03T18:48:03.666481+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,3,5,ok,,"SCORE: 5
+REASON: Allocating social standing based on personal need aligns with the needs-based principle of distributive justice.",2026-07-03T18:48:16.390488+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,4,5,ok,,"SCORE: 5
+REASON: Allocating social standing based on personal need aligns with the needs-based principle of distributive justice, which many consider fair, though strictly determining status solely by need may overlook other considerations like effort or contribution.",2026-07-03T18:48:22.991056+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,5,,sin_numero,,,2026-07-03T18:48:40.111068+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,6,3,ok,,"SCORE: 3
+REASON: Social status is generally viewed as something earned through merit or contribution rather than allocated based on subjective personal needs.",2026-07-03T18:48:48.286957+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,7,3,ok,,"SCORE: 3
+REASON: Allocating social status purely by perceived need ignores merit, effort, and equality, making it a questionable and circular basis for distributive justice.",2026-07-03T18:48:57.703272+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,8,3,ok,,"SCORE: 3
+REASON: Allocating social standing solely by need ignores other valid justice principles like contribution, effort, and equal respect.",2026-07-03T18:49:07.337003+00:00
+glm-5.2,xhigh,CDJS_Person_S,A_declarado_cdjs_largo,escala,necesidad_personal,control_necesidad,9,4,ok,,"SCORE: 4
+REASON: Allocating status based strictly on need aligns with one principle of justice, though it may ignore merit or effort.",2026-07-03T18:49:15.927739+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,0,6,ok,,"SCORE: 6
+REASON: Ensuring basic needs are met for everyone reflects a strong ethical commitment to human dignity and welfare.",2026-07-03T18:49:22.837015+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,1,6,ok,,"SCORE: 6
+REASON: Meeting everyone's basic needs regardless of contribution reflects a strong moral baseline for human dignity, though some may argue it doesn't fully account for incentives or desert.",2026-07-03T18:49:32.138633+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,2,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met reflects a morally compelling baseline of human dignity, even if it set aside other distributive considerations entirely.",2026-07-03T18:49:36.636510+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,3,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met reflects a strong moral commitment to human dignity and a need-based principle of justice.",2026-07-03T18:49:43.141951+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,4,6,ok,,"SCORE: 6
+REASON: Meeting everyone's basic needs regardless of other factors aligns with a strong moral floor that many theories of justice endorse as a minimal requirement of a decent society.",2026-07-03T18:49:54.605418+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,5,5,ok,,"SCORE: 5
+REASON: Meeting everyone's basic needs is a morally important baseline for a just society, though completely disregarding contribution and effort raises reasonable concerns about fairness.",2026-07-03T18:50:02.620049+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met reflects a strong moral baseline for human dignity, even if it set aside other considerations entirely.",2026-07-03T18:50:07.510502+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,7,6,ok,,"SCORE: 6
+REASON: Ensuring that everyone's basic needs are met reflects a strong moral commitment to human dignity and a compassionate baseline of fairness.",2026-07-03T18:50:12.118232+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,8,6,ok,,"SCORE: 6
+REASON: Meeting everyone's basic needs regardless of other factors reflects a strong moral baseline grounded in human dignity and rights, though some may argue it should be balanced with other considerations like contribution or efficiency.",2026-07-03T18:50:20.459914+00:00
+glm-5.2,xhigh,CDJS_MinNee_T,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,9,6,ok,,"SCORE: 6
+REASON: Meeting everyone's basic needs unconditionally reflects a strong moral baseline for a just society, though some may argue it should be balanced with considerations of contribution.",2026-07-03T18:50:29.995896+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,0,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met is a widely shared moral baseline, though the disregard for all other distributive considerations prevents it from being a full 7.",2026-07-03T18:50:37.591525+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,1,5,ok,,"SCORE: 5
+REASON: Ensuring basic needs are met is a strong moral priority, though completely ignoring contribution and effort raises some fairness concerns.",2026-07-03T18:50:47.979851+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,2,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met is a strong moral priority that reflects fundamental human dignity, even if it sets aside merit and utility considerations.",2026-07-03T18:50:56.782564+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,3,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic needs are met is a strong moral imperative, though completely disregarding effort and contribution may raise fairness concerns from a merit-based perspective.",2026-07-03T18:51:06.709179+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,4,6,ok,,"SCORE: 6
+REASON: Ensuring that everyone's basic needs are met is a strong moral priority that most theories of justice would endorse as fundamentally fair, even if reasonable people can disagree about how to handle goods beyond the level of basic need.",2026-07-03T18:51:13.950671+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,5,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met reflects a strong moral floor for human dignity, even if one might also consider effort and contribution for distributions beyond that threshold.",2026-07-03T18:51:23.431609+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: Ensuring that everyone's basic needs are met reflects a strong moral commitment to human dignity, though it could be argued that completely ignoring contribution and effort introduces some tension with desert-based fairness.",2026-07-03T18:51:29.948094+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,7,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met reflects a moral commitment to human dignity that takes priority over other distributional considerations.",2026-07-03T18:51:34.859125+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,8,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met is a strong moral imperative, though completely disregarding contribution and effort raises some fairness concerns at the margins.",2026-07-03T18:51:41.321388+00:00
+glm-5.2,xhigh,CDJS_MinNee_G,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,9,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met is a strong moral minimum that most justice frameworks recognize as fundamental, even if it sets aside desert and utility considerations.",2026-07-03T18:51:52.825448+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,0,5,ok,,"SCORE: 5
+REASON: Ensuring basic needs for everyone is morally important, even if it ignores merit or utility.",2026-07-03T18:52:01.563919+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,1,6,ok,,"SCORE: 6
+REASON: Ensuring that everyone's basic needs are met is a strong moral priority that reflects a commitment to human dignity, even if it set aside considerations of desert and utility.",2026-07-03T18:52:08.435425+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,2,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic needs are met is morally important, but completely ignoring effort, contribution, and consequences makes it less than fully fair.",2026-07-03T18:52:17.593063+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,3,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met is a strong moral minimum that most justice frameworks support, though completely disregarding contribution and effort slightly tempers its fairness.",2026-07-03T18:52:29.580542+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,4,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic needs are met is morally important, but completely disregarding effort, contribution, and consequences somewhat reduces its fairness.",2026-07-03T18:52:35.757711+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,5,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic needs are met aligns with a strong moral intuition about human dignity, even though ignoring effort and contribution entirely raises concerns about fairness from a desert-based perspective.",2026-07-03T18:52:46.124738+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,6,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic needs are met is generally fair, though disregarding effort and contribution entirely raises some fairness concerns.",2026-07-03T18:52:52.712515+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,7,6,ok,,"SCORE: 6
+REASON: Ensuring everyone's basic needs are met is generally viewed as a fundamental moral obligation of a fair society.",2026-07-03T18:53:08.879978+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,8,5,ok,,"SCORE: 5
+REASON: Meeting everyone's basic needs is a morally important baseline, though completely ignoring effort, contribution, and consequences introduces some fairness concerns.",2026-07-03T18:53:19.108278+00:00
+glm-5.2,xhigh,CDJS_MinNee_W,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,9,5,ok,,"SCORE: 5
+REASON: Meeting everyone's basic needs is generally viewed as a moral imperative, even if it disregards merit or contribution.",2026-07-03T18:53:27.807822+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,0,5,ok,,"SCORE: 5
+REASON: Ensuring that basic status needs are met reflects a moral floor that respects human dignity, even if it doesn't perfectly align with merit-based or utilitarian principles.",2026-07-03T18:53:38.290315+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,1,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic status needs are met reflects a sufficiency-based view of justice that prioritizes dignity, even though it setts aside desert and utility considerations.",2026-07-03T18:53:46.637809+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,2,5,ok,,"SCORE: 5
+REASON: Ensuring that everyone's basic needs for social status are met reflects a reasonable moral floor of human dignity, even though it sets aside desert and utilitarian considerations.",2026-07-03T18:53:55.286915+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,3,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic status needs are met seems like a reasonable moral floor, even if ignoring desert and utility entirely makes it somewhat less compelling.",2026-07-03T18:54:01.198845+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,4,5,ok,,"SCORE: 5
+REASON: Ensuring everyone's basic status needs are met reflects a reasonable moral floor, even though completely ignoring contributions and effort raises concerns about desert.",2026-07-03T18:54:11.095924+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,5,5,ok,,"SCORE: 5
+REASON: Ensuring that everyone's basic needs for social status are met seems morally important, even if it ignores traditional meritocratic or utilitarian considerations.",2026-07-03T18:54:19.155274+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,6,4,ok,,"SCORE: 4
+REASON: Ensuring basic status needs for everyone has moral appeal as a floor, but completely ignoring effort, contribution, and consequences makes it only moderately fair.",2026-07-03T18:54:25.104838+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,7,4,ok,,"SCORE: 4
+REASON: Ensuring basic status needs for everyone has moral appeal as a floor of dignity, but completely ignoring contribution and effort creates tension with deservingness principles.",2026-07-03T18:54:34.532681+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,8,5,ok,,"SCORE: 5
+REASON: Ensuring that everyone's basic needs for social status are met as a floor seems fair and humane, even if additional status beyond that minimum can be allocated based on effort, ability, or contribution.",2026-07-03T18:54:44.672005+00:00
+glm-5.2,xhigh,CDJS_MinNee_S,A_declarado_cdjs_largo,escala,necesidad_minima,control_necesidad,9,4,ok,,"SCORE: 4
+REASON: Ensuring basic status needs for everyone has moral appeal as a floor on dignity, but entirely disregarding desert, contribution, and overall welfare significantly weakens its fairness.",2026-07-03T18:54:56.918432+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,0,3,ok,,"SCORE: 3
+REASON: While quality of work is a relevant consideration, making it the sole primary factor to the exclusion of effort, need, and societal benefit seems too narrow to be fully fair.",2026-07-03T18:55:06.377496+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,1,3,ok,,"SCORE: 3
+REASON: While work quality is a relevant consideration, making it the sole primary factor to the exclusion of effort, need, contribution, and societal well-being seems too narrow to be fully fair.",2026-07-03T18:55:14.774383+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,2,3,ok,,"SCORE: 3
+REASON: Basing treatment solely on work quality while ignoring effort, need, and societal contribution overlooks morally relevant factors that should also influence how people are treated.",2026-07-03T18:55:21.998708+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,3,,sin_numero,,,2026-07-03T18:55:38.442060+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,4,2,ok,,"SCORE: 2
+REASON: Relying solely on the quality of work while ignoring effort, need, and societal contribution seems arbitrary and inequitable.",2026-07-03T18:55:45.513777+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,5,4,ok,,"SCORE: 4
+REASON: Quality of work is a relevant factor in fair treatment, but it should not necessarily override considerations like effort, need, or broader societal contribution.",2026-07-03T18:55:57.336041+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,6,2,ok,,"SCORE: 2
+REASON: Quality of work is relevant but making it the sole primary factor unfairly ignores legitimate considerations like need, effort, and broader social contribution.",2026-07-03T18:56:06.279003+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,7,3,ok,,"SCORE: 3
+REASON: While quality of work is a relevant factor, making it the sole primary criterion unfairly ignores effort, need, and circumstances that affect outcomes.",2026-07-03T18:56:18.670339+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,8,4,ok,,"SCORE: 4
+REASON: Quality of work is a relevant factor, but treating it as the primary determinant while excluding effort, need, and broader societal contribution seems incomplete as a principle of fairness.",2026-07-03T18:56:26.772370+00:00
+glm-5.2,xhigh,CDJS_WorkQu_T,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,9,3,ok,,"SCORE: 3
+REASON: Quality of work is a relevant consideration for desert, but making it the sole determinant while excluding effort, needs, and societal contribution is too narrow to be fully fair.",2026-07-03T18:56:39.493882+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,0,3,ok,,"SCORE: 3
+REASON: Using work quality as the sole distributive criterion while excluding effort, contribution, need, and societal benefit seems too narrow and could disadvantage those whose work, though valuable, is not easily measured by ""quality.""",2026-07-03T18:56:48.689363+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,1,3,ok,,"SCORE: 3
+REASON: Basing distribution solely on the quality of work while ignoring effort, needs, and societal contribution seems too narrow and potentially unfair.",2026-07-03T18:56:55.623214+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,2,3,ok,,"SCORE: 3
+REASON: While quality of work has some relevance to distributive shares, making it the sole primary criterion unfairly ignores effort, need, and circumstances beyond individual control.",2026-07-03T18:57:04.505020+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,3,4,ok,,"SCORE: 4
+REASON: This principle ignores individual needs and broader societal utility, making it a contested approach to fairness.",2026-07-03T18:57:12.499219+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,4,3,ok,,"SCORE: 3
+REASON: Rewarding work quality has some merit, but making it the sole primary determinant while excluding effort, need, and societal contribution ignores important moral considerations and structural inequalities.",2026-07-03T18:57:24.751971+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,5,4,ok,,"SCORE: 4
+REASON: Rewarding work quality has some merit as an incentive, but using it as the sole criterion while ignoring needs, effort, and societal contribution seems incomplete as a justice principle.",2026-07-03T18:57:33.393128+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,6,4,ok,,"SCORE: 4
+REASON: I am neutral on whether the quality of work alone should dictate access to goods and services.",2026-07-03T18:57:41.174432+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,7,3,ok,,"SCORE: 3
+REASON: Using work quality as the sole distributive criterion ignores legitimate considerations like need, effort, and overall societal welfare, making it an incomplete and potentially unfair principle.",2026-07-03T18:57:51.316334+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,8,4,ok,,"SCORE: 4
+REASON: Quality of work is a relevant factor in distributive justice, but prioritizing it above needs, effort, and societal contribution overlooks important moral considerations that also bear on fair distribution.",2026-07-03T18:58:01.620643+00:00
+glm-5.2,xhigh,CDJS_WorkQu_G,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,9,3,ok,,"SCORE: 3
+REASON: Using only work quality as the primary criterion unfairly disregards effort, need, and societal contribution, while also disadvantaging those whose work is difficult to evaluate or who cannot work.",2026-07-03T18:58:12.161307+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,0,3,ok,,"SCORE: 3
+REASON: Basing wealth solely on the quality of work ignores other important factors like individual needs and the actual effort put into the work.",2026-07-03T18:58:25.302746+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,1,4,ok,,"SCORE: 4
+REASON: Quality of work is a reasonable factor in determining wealth, but excluding effort, contribution, and need makes it an incomplete and potentially harsh distributive principle.",2026-07-03T18:58:49.281302+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,2,,sin_numero,,,2026-07-03T18:59:02.855015+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,3,4,ok,,"SCORE: 4
+REASON: Rewarding quality of work has some intuitive appeal as a desert-based principle, but elev",2026-07-03T18:59:20.026084+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,4,,sin_numero,,,2026-07-03T18:59:32.559905+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,5,5,ok,,"SCORE: 5
+REASON: Basing wealth and income on the quality of work aligns with equity principles by rewarding valuable contributions, though it may not fully account for differing needs or structural barriers.",2026-07-03T18:59:40.382945+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,6,3,ok,,"SCORE: 3
+REASON: Quality of work is a relevant factor in distributive justice, but elevating it above all other considerations like need, effort, and societal contribution ignores important moral dimensions of a fair distribution.",2026-07-03T18:59:49.180247+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,7,3,ok,,"SCORE: 3
+REASON: It seems unfair to prioritize subjective work quality over effort, needs, or societal contribution.",2026-07-03T18:59:58.235834+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,8,3,ok,,"SCORE: 3
+REASON: While quality of work has some relevance to fair compensation, using it as the sole determinant unfairly ignores effort, societal contribution, and legitimate needs.",2026-07-03T19:00:10.963803+00:00
+glm-5.2,xhigh,CDJS_WorkQu_W,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,9,7,ok,,"SCORE: 7
+REASON: Distributing wealth based on work quality aligns with the meritocratic principle that rewards should correspond to effort and contribution.",2026-07-03T19:00:15.323961+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,0,4,ok,,"SCORE: 4
+REASON: Quality of work is a relevant factor for social standing, but elevating it above all other considerations like effort, need, and societal contribution overlooks important dimensions of fairness.",2026-07-03T19:00:24.830244+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,1,4,ok,,"SCORE: 4
+REASON: Quality of work is a reasonable factor for social standing, but it should not override considerations of effort, contribution, and need entirely.",2026-07-03T19:00:32.901846+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,2,4,ok,,"SCORE: 4
+REASON: Basing status on work quality recognizes merit but ignores other relevant factors like effort and need, making it a neutral standard of fairness.",2026-07-03T19:00:42.997577+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,3,4,ok,,"SCORE: 4
+REASON: Quality of work is a relevant factor for social standing, but it should not override considerations of effort, need, contribution, and societal well-being, which are also important in a fair system.",2026-07-03T19:00:51.285611+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,4,4,ok,,"SCORE: 4
+REASON: Quality of work is a reasonable basis for social standing, but it is closely tied to ability, effort, and contribution, making it difficult to isolate as the sole or primary criterion.",2026-07-03T19:00:58.510536+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,5,4,ok,,"SCORE: 4
+REASON: Quality of work is a reasonable basis for social standing as it partially reflects effort and contribution, but it should not solely override needs, abilities, or broader societal considerations.",2026-07-03T19:01:07.168284+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,6,2,ok,,"SCORE: 2
+REASON: Basing social standing solely on work quality while ignoring individual needs and effort is inequitable.",2026-07-03T19:01:17.717046+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,7,4,ok,,"SCORE: 4
+REASON: Work quality is a relevant factor for social standing, but privileging it above all other considerations like contribution, effort, and need seems incomplete as a principle of fairness.",2026-07-03T19:01:30.208163+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,8,3,ok,,"SCORE: 3
+REASON: Basing social standing solely on work quality while ignoring effort, needs, or societal contribution is too narrow to be fully fair.",2026-07-03T19:01:42.403157+00:00
+glm-5.2,xhigh,CDJS_WorkQu_S,A_declarado_cdjs_largo,escala,proporcionalidad_calidad,limpio,9,4,ok,,"SCORE: 4
+REASON: Judging social standing by work quality is a reasonable meritocratic approach, though it ignores other important factors like effort or societal needs.",2026-07-03T19:01:48.857882+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,0,2,ok,,"SCORE: 2
+REASON: Skill and ability are largely products of natural endowment and circumstance, making them a morally arbitrary basis for treatment compared to effort, contribution, or need.",2026-07-03T19:01:56.558244+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,1,1,ok,,"SCORE: 1
+REASON: Basing treatment strictly on skill and ability ignores effort, actual contribution, and individual needs, making it a fundamentally unfair criterion.",2026-07-03T19:02:02.723612+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,2,2,ok,,"SCORE: 2
+REASON: Skill and ability are largely shaped by circumstance and natural endowment, making them a less fair primary basis for treatment than effort, contribution, or need.",2026-07-03T19:02:12.652091+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,3,2,ok,,"SCORE: 2
+REASON: Rewarding natural skill and ability above effort, contribution, need, or societal benefit ignores factors within people's control and perpetuates inequalities rooted in the natural lottery.",2026-07-03T19:02:20.893838+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,4,2,ok,,"SCORE: 2
+REASON: Rewarding individuals based primarily on innate skill and ability ignores the role of the natural lottery and fails to account for effort, actual contribution, or genuine need.",2026-07-03T19:02:26.293465+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,5,2,ok,,"SCORE: 2
+REASON: Rewarding people solely based on innate skill and ability ignores the importance of effort and individual needs, making it largely unfair.",2026-07-03T19:02:34.056866+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,6,2,ok,,"SCORE: 2
+REASON: Rewarding people based solely on innate skill rather than their effort, needs, or actual contributions is generally unfair because it ignores factors individuals can control.",2026-07-03T19:02:41.678625+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,7,2,ok,,"SCORE: 2
+REASON: Distributing outcomes primarily based on skill and ability is unfair because natural talents are largely a matter of luck rather than effort or moral desert, and ignoring needs, contributions, and overall welfare neglects important moral considerations.",2026-07-03T19:02:53.138915+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,8,2,ok,,"SCORE: 2
+REASON: Basing treatment solely on inherent skill and ability ignores effort, actual contributions, and individual needs.",2026-07-03T19:03:00.285018+00:00
+glm-5.2,xhigh,CDJS_SkillA_T,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,9,2,ok,,"SCORE: 2
+REASON: Basing treatment primarily on innate skill and ability ignores effort, actual contribution, and individual needs, making it a largely unfair distributive principle.",2026-07-03T19:03:06.534093+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,0,2,ok,,"SCORE: 2
+REASON: Skill and ability are heavily shaped by luck and circumstance, making them a morally weak basis for distribution compared to effort, need, or contribution.",2026-07-03T19:03:13.227754+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,1,3,ok,,"SCORE: 3
+REASON: Rewarding innate skill and ability over actual effort, contribution, or need seems inequitable because it disadvantages those who work hard despite lesser natural talents.",2026-07-03T19:03:29.114916+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,2,3,ok,,"SCORE: 3
+REASON: Skill and ability are significantly shaped by factors beyond individual control, making them a morally arbitrary basis for distributing essential goods above effort, contribution, or need.",2026-07-03T19:03:37.832671+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,3,2,ok,,"SCORE: 2
+REASON: Distributing goods primarily based on skill and ability rewards natural luck rather than effort or contribution, and ignores legitimate needs, making it largely unfair as a first principle.",2026-07-03T19:03:45.505282+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,4,2,ok,,"SCORE: 2
+REASON: Distributing goods based primarily on natural skill and ability is morally arbitrary, as people do not choose or deserve their innate talents, making it unfair compared to basing distribution on effort, contribution, or need.",2026-07-03T19:03:57.063676+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,5,4,ok,,"SCORE: 4
+REASON: I assign a neutral score because evaluating the fairness of distributing goods based primarily on skill and ability rather than effort or need is a highly debated philosophical issue.",2026-07-03T19:04:10.969842+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,6,2,ok,,"SCORE: 2
+REASON: Distributing goods primarily based on skill and ability rewards innate talent rather than effort, contribution, or need, which seems morally arbitrary and inequitable.",2026-07-03T19:04:16.992764+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,7,3,ok,,"SCORE: 3
+REASON: Skill and ability matter, but making them the sole determinant over effort, contribution, and need overlooks factors that are more directly within people's control and more morally relevant to distributive fairness.",2026-07-03T19:04:24.705116+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,8,3,ok,,"SCORE: 3
+REASON: Skill and ability should matter, but making them the sole primary criterion ignores effort, contribution, and need, which are also morally relevant to distributive justice.",2026-07-03T19:04:37.920669+00:00
+glm-5.2,xhigh,CDJS_SkillA_G,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,9,3,ok,,"SCORE: 3
+REASON: Skill and ability are often shaped by circumstances beyond individual control, making them a morally arbitrary basis for distribution that overlooks effort, need, and contribution.",2026-07-03T19:04:47.424811+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,0,3,ok,,"SCORE: 3
+REASON: Distributing wealth based primarily on innate skill rather than effort or need is generally considered inequitable.",2026-07-03T19:05:21.413367+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,1,2,ok,,"SCORE: 2
+REASON: Distributing wealth primarily based on skill and ability rewards morally arbitrary natural talents while ignoring effort, contribution, and need.",2026-07-03T19:05:30.610166+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,2,4,ok,,"SCORE: 4
+REASON: Rewarding individuals based on their skill and ability is moderately fair as it acknowledges valuable personal capabilities, though it may not fully account for differences in effort or unequal starting points.",2026-07-03T19:05:41.783872+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,3,2,ok,,"SCORE: 2
+REASON: Basing wealth solely on inherent skill rather than effort or need is generally unfair due to the natural lottery of talents.",2026-07-03T19:05:49.247443+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,4,3,ok,,"SCORE: 3
+REASON: Basing wealth primarily on skill and ability can be unfair because these traits are often determined by luck and natural endowment rather than individual effort or societal contribution.",2026-07-03T19:06:02.642735+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,5,2,ok,,"SCORE: 2
+REASON: Basing wealth primarily on innate skill and ability rather than effort or contribution is unfair because talents are often distributed by a morally arbitrary natural lottery.",2026-07-03T19:06:15.704310+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,6,2,ok,,"SCORE: 2
+REASON: Allocating wealth primarily based on inherent skills rather than effort or need is generally considered morally arbitrary and unfair.",2026-07-03T19:06:23.330577+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,7,2,ok,,"SCORE: 2
+REASON: Distributing wealth based primarily on innate skill and ability is unfair because it disregards effort, actual contribution, and individual needs, rewarding arbitrary natural advantages over morally relevant factors.",2026-07-03T19:06:29.707510+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,8,3,ok,,"SCORE: 3
+REASON: Basing wealth primarily on inherent skill and ability overlooks the moral importance of hard work, actual contributions, and individual needs.",2026-07-03T19:06:37.662932+00:00
+glm-5.2,xhigh,CDJS_SkillA_W,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,9,2,ok,,"SCORE: 2
+REASON: I consider it unfair because innate skill is largely a matter of luck rather than individual effort or societal contribution.",2026-07-03T19:06:46.732364+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,0,1,ok,,"SCORE: 1
+REASON: Natural talents are considered morally arbitrary in distributive justice theory, so distributing social standing based primarily on inherent skill rather than effort or need is unfair.",2026-07-03T19:06:53.714410+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,1,3,ok,,"SCORE: 3
+REASON: Basing social status primarily on innate skill rather than effort or need ignores structural inequalities and the natural lottery.",2026-07-03T19:07:02.816323+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,2,3,ok,,"SCORE: 3
+REASON: Basing social standing primarily on skill and ability rather than effort or contribution seems unfair because natural talents are largely determined by circumstances beyond individual control.",2026-07-03T19:07:12.141237+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,3,4,ok,,"SCORE: 4
+REASON: Skill and ability have some relevance to social standing, but they are heavily shaped by luck and circumstance, making them an incomplete and imperfect basis for distributive fairness.",2026-07-03T19:07:24.674010+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,4,2,ok,,"SCORE: 2
+REASON: Basing social standing primarily on innate skill rather than effort or need is unfair because natural talents are often due to luck rather than personal merit.",2026-07-03T19:07:36.700749+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,5,4,ok,,"SCORE: 4
+REASON: Social standing based on skill and ability is a moderately fair principle, though other factors also matter.",2026-07-03T19:07:40.909906+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,6,3,ok,,"SCORE: 3
+REASON: Rewarding innate skill and ability over effort, contribution, or need seems unfair because natural talents are largely matters of circumstance rather than personal merit.",2026-07-03T19:07:52.365875+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,7,,sin_numero,,,2026-07-03T19:08:09.611978+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,8,2,ok,,"SCORE: 2
+REASON: Skill and ability are often innate and arbitrary from a moral perspective, making them a less fair basis for social standing than effort, contribution, or need.",2026-07-03T19:08:20.683106+00:00
+glm-5.2,xhigh,CDJS_SkillA_S,A_declarado_cdjs_largo,escala,proporcionalidad_habilidad,limpio,9,3,ok,,"SCORE: 3
+REASON: Basing social standing primarily on inherent skill rather than effort or need ignores the moral arbitrariness of natural talents.",2026-07-03T19:08:32.324356+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,0,3,ok,,"SCORE: 3
+REASON: Effort is a morally relevant factor in distributive justice, but elevating it above all other considerations like need, contribution, and societal well-being overlooks the complexity of fair outcomes.",2026-07-03T19:08:38.919890+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,1,4,ok,,"SCORE: 4
+REASON: Effort is a morally relevant factor in distributive justice, but treating it as the sole or primary criterion to the exclusion of needs, contribution quality, and societal well-being overlooks other important considerations.",2026-07-03T19:08:59.933171+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,2,3,ok,,"SCORE: 3
+REASON: Effort is a relevant factor in distributive justice, but making it the sole criterion to the exclusion of need, contribution quality, and societal benefit ignores other morally important considerations.",2026-07-03T19:09:07.967072+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,3,4,ok,,"SCORE: 4
+REASON: Effort is an important and morally relevant factor in distributive justice, but treating it as exclusively paramount overlooks the legitimate claims of need, contribution quality, and societal well-being.",2026-07-03T19:09:18.095231+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,4,3,ok,,"SCORE: 3
+REASON: Effort is commendable, but fairness usually requires considering actual contribution and need rather than effort alone.",2026-07-03T19:09:31.122749+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,5,3,ok,,"SCORE: 3
+REASON: Effort is a relevant factor, but making it solely dominant while excluding ability, quality, need, and societal contribution overlooks morally significant considerations that any fair system should weigh.",2026-07-03T19:09:40.935094+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,6,4,ok,,"SCORE: 4
+REASON: Effort is a meaningful factor in distributive justice, but treating it as the sole primary criterion to the exclusion of need, contribution, and societal benefit seems too narrow to be fully fair.",2026-07-03T19:09:50.496219+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,7,3,ok,,"SCORE: 3
+REASON: Effort is an important consideration in distributive justice, but treating it as ""first and foremost"" above all other factors like need, contribution quality, and societal benefit is too reductive to be fully fair.",2026-07-03T19:10:11.149165+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,8,5,ok,,"SCORE: 5
+REASON: Effort is a highly relevant and morally commendable basis for determining outcomes, though balancing it with actual contributions and needs is often necessary for true fairness.",2026-07-03T19:10:18.560290+00:00
+glm-5.2,xhigh,CDJS_Effort_T,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,9,3,ok,,"SCORE: 3
+REASON: Effort is a meaningful factor in fairness, but making it the sole primary criterion while dismissing needs, quality of work, and societal contribution is too narrow and could disadvantage those whose circumstances limit their capacity to exert effort.",2026-07-03T19:10:29.823110+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,0,4,ok,,"SCORE: 4
+REASON: While effort is an important factor in determining what people deserve, basing distribution solely on effort while ignoring needs and actual contributions is incomplete.",2026-07-03T19:10:37.530169+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,1,3,ok,,"SCORE: 3
+REASON: Effort matters for fairness, but elevating it above all other considerations—including need, contribution, and overall welfare—ignores too many morally relevant factors.",2026-07-03T19:10:46.138172+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,2,4,ok,,"SCORE: 4
+REASON: Basing distribution solely on effort ignores other vital factors like need, ability, and societal contribution.",2026-07-03T19:10:59.332061+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,3,3,ok,,"SCORE: 3
+REASON: Rewarding effort is intuitively appealing, but ignoring needs, abilities, and actual contributions can lead to significant inequities.",2026-07-03T19:11:06.044757+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,4,4,ok,,"SCORE: 4
+REASON: Effort is a relevant factor for distribution, but ignoring the quality of work and specific needs makes this principle incomplete.",2026-07-03T19:11:16.798962+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,5,5,ok,,"SCORE: 5
+REASON: Effort is a widely accepted basis for reward in meritocratic societies, though other factors like need and contribution also play important roles.",2026-07-03T19:11:24.546888+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,6,5,ok,,"SCORE: 5
+REASON: Rewarding effort is generally fair as it incentivizes hard work, though it must be balanced against individual needs and systemic barriers.",2026-07-03T19:11:31.340302+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,7,5,ok,,"SCORE: 5
+REASON: Rewarding effort is generally fair because it reflects personal responsibility, though ignoring needs entirely makes it slightly imperfect.",2026-07-03T19:11:41.142555+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,8,5,ok,,"SCORE: 5
+REASON: Rewarding effort is generally fair as it incentivizes hard work, though it may need to be balanced against other factors like need or contribution.",2026-07-03T19:11:49.146758+00:00
+glm-5.2,xhigh,CDJS_Effort_G,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,9,3,ok,,"SCORE: 3
+REASON: While effort is a morally relevant factor in distribution, making it the sole determinant while excluding needs, abilities, and societal contribution ignores important considerations of fairness for those whose capacity to exert effort is limited by circumstances beyond their control.",2026-07-03T19:11:56.099796+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,0,3,ok,,"SCORE: 3
+REASON: Effort is a relevant factor in distributive justice, but making it the sole primary determinant while dismissing needs, contributions, abilities, and societal well-being overlooks important moral considerations and structural inequalities that affect people's capacity to exert effort.",2026-07-03T19:12:10.946471+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,1,4,ok,,"SCORE: 4
+REASON: Effort is an important factor in fairness, but it should be balanced with needs, contribution, and structural circumstances rather than being the sole determinant.",2026-07-03T19:12:16.905170+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,2,4,ok,,"SCORE: 4
+REASON: Effort is a significant factor in determining outcomes, but it must also be balanced against actual contribution and societal needs.",2026-07-03T19:12:23.473573+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,3,4,ok,,"SCORE: 4
+REASON: Effort is a morally relevant factor in distribution, but it is not clearly more important than ability, contribution, need, or overall social welfare, as each captures a distinct and defensible aspect of fairness.",2026-07-03T19:12:36.089137+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,4,3,ok,,"SCORE: 3
+REASON: Rewarding effort has intuitive appeal since it reflects personal agency, but making it the sole determinant ignores legitimate needs, actual contribution, and structural barriers that make effort unequally effective.",2026-07-03T19:12:45.159799+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,5,5,ok,,"SCORE: 5
+REASON: Rewarding effort is generally fair because it reflects what people can control, though it overlooks structural barriers and unequal starting conditions that can limit how much effort translates into outcomes.",2026-07-03T19:12:51.598465+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,6,4,ok,,"SCORE: 4
+REASON: Effort is a meaningful factor in distributive fairness, but it is one of several legitimate considerations alongside ability, contribution, need, and societal well-being.",2026-07-03T19:12:58.817074+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,7,3,ok,,"SCORE: 3
+REASON: Effort is morally relevant, but making it the sole primary factor while excluding quality of work, contribution, and needs ignores important dimensions of justice.",2026-07-03T19:13:13.525137+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,8,4,ok,,"SCORE: 4
+REASON: Effort is a morally relevant factor in determining desert, but making it the sole primary factor while ignoring actual contribution and need results in an incomplete view of fairness.",2026-07-03T19:13:25.602606+00:00
+glm-5.2,xhigh,CDJS_Effort_W,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,9,4,ok,,"SCORE: 4
+REASON: Effort is a morally relevant factor in distributive justice, but elevating it above all other considerations like need, contribution, and societal well-being overlooks the complexity of what makes an outcome fair.",2026-07-03T19:13:35.177759+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,0,3,ok,,"SCORE: 3
+REASON: Effort is a meaningful factor in fairness, but making it the sole primary criterion while dismissing needs, contributions, and societal benefit overlooks important dimensions of justice.",2026-07-03T19:13:44.953967+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,1,3,ok,,"SCORE: 3
+REASON: Effort is a relevant factor in determining social standing, but making it the sole primary criterion while dismissing ability, contribution, need, and societal benefit is too narrow and could leave deserving or vulnerable people without fair recognition or support.",2026-07-03T19:13:53.994850+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,2,3,ok,,"SCORE: 3
+REASON: Effort has some moral relevance as a basis for desert, but elevating it above contribution, quality of work, and need ignores outcomes that matter for a fair society.",2026-07-03T19:14:06.454070+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,3,3,ok,,"SCORE: 3
+REASON: While effort is a relevant factor in determining social standing, elevating it above contribution, quality of work, and societal needs ignores important outcomes and circumstances that also matter for fairness.",2026-07-03T19:14:16.135770+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,4,3,ok,,"SCORE: 3
+REASON: Effort deserves some consideration, but making it the sole determinant of social standing while ignoring contribution, need, and societal well-being overlooks too many other morally relevant factors.",2026-07-03T19:14:24.445510+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,5,2,ok,,"SCORE: 2
+REASON: Basing social standing solely on effort while ignoring actual contribution, quality, and societal benefit is an unfair metric.",2026-07-03T19:14:33.276526+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,6,2,ok,,"SCORE: 2
+REASON: Effort is relevant to desert, but making it the sole determinant of social standing while excluding ability, contribution, need, and societal benefit ignores too many other morally relevant factors.",2026-07-03T19:14:43.949744+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,7,3,ok,,"SCORE: 3
+REASON: Effort is a relevant factor in distributive justice, but prioritizing it above all other considerations—especially contribution, need, and societal welfare—ignores important dimensions of what makes a distribution fair.",2026-07-03T19:14:53.061970+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,8,3,ok,,"SCORE: 3
+REASON: Effort is a meaningful factor in determining social standing, but making it the sole primary criterion while disregarding needs, contribution quality, and societal benefit ignores important dimensions of justice.",2026-07-03T19:15:00.965740+00:00
+glm-5.2,xhigh,CDJS_Effort_S,A_declarado_cdjs_largo,escala,proporcionalidad_esfuerzo,limpio,9,3,ok,,"SCORE: 3
+REASON: Effort is a relevant factor in distributive justice, but privileging it above all other considerations—including actual contribution, need, and societal benefit—seems too narrow to be fully fair.",2026-07-03T19:15:09.153302+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,0,3,ok,,"SCORE: 3
+REASON: Contribution to society is a relevant factor, but treating it as the sole primary criterion while dismissing needs, effort, and overall well-being overlooks important moral considerations.",2026-07-03T19:15:17.928565+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,1,3,ok,,"SCORE: 3
+REASON: While contribution to society has some relevance to fair treatment, elevating it above needs, effort, and overall societal well-being overlooks important dimensions of justice.",2026-07-03T19:15:26.128336+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,2,4,ok,,"SCORE: 4
+REASON: Contribution to society is a meaningful factor in distributive justice, but elevating it above all other considerations like need, effort, and societal well-being seems too narrow to be fully fair.",2026-07-03T19:15:33.526472+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,3,3,ok,,"SCORE: 3
+REASON: Contribution to society is a relevant factor in distributive justice, but prioritizing it above all other considerations like need, effort, and overall welfare seems overly narrow and potentially inequitable.",2026-07-03T19:15:40.435795+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,4,3,ok,,"SCORE: 3
+REASON: Prioritizing societal contribution above all else risks neglecting individual needs and effort, which are also morally relevant considerations in fair treatment.",2026-07-03T19:15:48.285109+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,5,3,ok,,"SCORE: 3
+REASON: Basing treatment solely on societal contribution while excluding needs, effort, and overall welfare ignores morally relevant factors that most people consider important for fair outcomes.",2026-07-03T19:15:57.093057+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,6,3,ok,,"SCORE: 3
+REASON: While contribution to society is relevant, making it the sole primary factor ignores legitimate claims based on need, effort, and circumstances that also bear on fairness.",2026-07-03T19:16:02.609863+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,7,3,ok,,"SCORE: 3
+REASON: While contribution to society has some relevance to fair treatment, elevating it above needs, effort, and overall welfare neglects important moral considerations that also matter for justice.",2026-07-03T19:16:22.106625+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,8,2,ok,,"SCORE: 2
+REASON: Ignoring individual needs, effort, and abilities when determining how people are treated is fundamentally unjust.",2026-07-03T19:16:32.986554+00:00
+glm-5.2,xhigh,CDJS_Contri_T,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,9,3,ok,,"SCORE: 3
+REASON: It is somewhat unfair because it explicitly ignores individual needs, effort, and the overall good of society.",2026-07-03T19:16:51.157921+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,0,4,ok,,"SCORE: 4
+REASON: Contribution to society is a relevant factor in distribution, but making it the sole primary criterion while excluding needs, effort, and ability seems overly restrictive and incomplete as a principle of justice.",2026-07-03T19:17:00.043165+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,1,4,ok,,"SCORE: 4
+REASON: Contribution to society is a meaningful factor in distributive fairness, but treating it as the sole primary criterion overlooks legitimate claims based on need, effort, and basic human dignity.",2026-07-03T19:17:09.030061+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,2,4,ok,,"SCORE: 4
+REASON: Contribution to society is a meaningful basis for distribution, but excluding needs, effort, and overall welfare entirely makes this principle incomplete as a standard of fairness.",2026-07-03T19:17:18.644953+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,3,4,ok,,"SCORE: 4
+REASON: Contribution is a relevant factor in distributive justice, but elevating it above all other considerations—particularly need and effort—neglects important moral claims that a fair society must also weigh.",2026-07-03T19:17:30.896014+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,4,3,ok,,"SCORE: 3
+REASON: While contribution is a relevant factor, it seems too narrow to exclude needs, effort, and overall welfare from how goods and services should be distributed.",2026-07-03T19:17:36.901324+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,5,2,ok,,"SCORE: 2
+REASON: Distributing goods based solely on societal contribution while ignoring individual needs, effort, and abilities is unfair to vulnerable populations.",2026-07-03T19:17:49.408404+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,6,4,ok,,"SCORE: 4
+REASON: Basing distribution on societal contribution is somewhat fair, but ignoring individual needs and effort makes it incomplete.",2026-07-03T19:18:01.169982+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,7,5,ok,,"SCORE: 5
+REASON: Basing distribution on societal contribution rewards collective value, though ignoring needs or effort makes it somewhat incomplete as a fairness principle.",2026-07-03T19:18:15.576020+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,8,4,ok,,"SCORE: 4
+REASON: Contribution-based distribution has merit but overlooks legitimate claims based on need, effort, and circumstances that also bear on fairness.",2026-07-03T19:18:24.978513+00:00
+glm-5.2,xhigh,CDJS_Contri_G,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,9,4,ok,,"SCORE: 4
+REASON: Contribution to society is a relevant factor in distribution, but it should not be the sole determinant to the exclusion of need, effort, ability, and broader social welfare considerations.",2026-07-03T19:18:31.920444+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,0,6,ok,,"SCORE: 6
+REASON: Rewarding individuals based on their overall societal contribution aligns strongly with meritocratic principles of fairness.",2026-07-03T19:18:37.957663+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,1,4,ok,,"SCORE: 4
+REASON: Rewarding societal contribution is reasonable, but ignoring individual needs and effort makes this principle incomplete.",2026-07-03T19:18:50.111008+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,2,3,ok,,"SCORE: 3
+REASON: Disregarding individual effort, quality of work, and specific needs in favor of solely societal contribution seems incomplete and potentially unfair.",2026-07-03T19:19:01.650498+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,3,4,ok,,"SCORE: 4
+REASON: Basing wealth on societal contribution aligns with equity principles, though it risks overlooking individual needs and effort.",2026-07-03T19:19:10.967970+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,4,4,ok,,"SCORE: 4
+REASON: Contribution to society is a relevant factor in determining wealth, but elevating it above all other considerations like need, effort, and societal well-being seems too narrow to be fully fair.",2026-07-03T19:19:22.556921+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,5,4,ok,,"SCORE: 4
+REASON: Contributing to society is a reasonable factor in determining wealth, but making it the sole criterion while excluding needs, effort, and overall social welfare seems too narrow to be fully fair.",2026-07-03T19:19:29.687800+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,6,6,ok,,"SCORE: 6
+REASON: Distributing wealth and income based on societal contribution aligns with the equity principle by rewarding individuals for the overall value they provide to the community.",2026-07-03T19:19:35.017396+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,7,4,ok,,"SCORE: 4
+REASON: Contributing to society is a reasonable basis for wealth distribution, but fairness also requires considering needs, effort, and circumstances that affect one's ability to contribute.",2026-07-03T19:19:42.452981+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,8,4,ok,,"SCORE: 4
+REASON: Contribution to society is a relevant factor in distributive fairness, but it should not override considerations of need, effort, and structural circumstances that limit individuals' ability to contribute.",2026-07-03T19:19:53.283438+00:00
+glm-5.2,xhigh,CDJS_Contri_W,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,9,6,ok,,"SCORE: 6
+REASON: Rewarding individuals based on their overall contribution to society aligns with the equity principle of distributive justice.",2026-07-03T19:19:59.169698+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,0,3,ok,,"SCORE: 3
+REASON: Basing social standing solely on contribution while ignoring effort, needs, and overall well-being seems overly narrow and potentially inequitable.",2026-07-03T19:20:19.166206+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,1,4,ok,,"SCORE: 4
+REASON: Contribution to society is a reasonable basis for social standing, but dismissing effort, need, and societal well-being entirely makes this principle too narrow to be fully fair.",2026-07-03T19:20:29.703323+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,2,4,ok,,"SCORE: 4
+REASON: Contribution to society is a relevant factor for social standing, but it should not override considerations of need, effort, or ability, which are also morally significant in distributive justice.",2026-07-03T19:20:37.672478+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,3,4,ok,,"SCORE: 4
+REASON: Contribution to society is a relevant factor for social standing, but excluding effort, ability, and needs makes this criterion too narrow to be fully fair.",2026-07-03T19:20:43.022721+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,4,4,ok,,"SCORE: 4
+REASON: Contribution to society is an important factor in social standing, but it should not override considerations of need, effort, or the broader social good.",2026-07-03T19:20:49.628914+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,5,4,ok,,"SCORE: 4
+REASON: Contribution to society is a relevant factor for social standing, but it should not categorically override effort, need, or other morally significant considerations.",2026-07-03T19:20:59.394009+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,6,3,ok,,"SCORE: 3
+REASON: Contribution to society is relevant to standing, but excluding needs, effort, and ability from consideration makes this principle too narrow and potentially unjust to vulnerable individuals.",2026-07-03T19:21:06.468814+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,7,,sin_numero,,,2026-07-03T19:21:21.597534+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,8,4,ok,,"SCORE: 4
+REASON: Contribution to society is a reasonable basis for social standing, though it seems counterintuitive to completely exclude the quality and effort of one's work from that evaluation.",2026-07-03T19:21:33.817814+00:00
+glm-5.2,xhigh,CDJS_Contri_S,A_declarado_cdjs_largo,escala,proporcionalidad_contribucion,limpio,9,5,ok,,"SCORE: 5
+REASON: Tying social standing to societal contribution aligns with meritocratic principles, though ignoring effort and needs makes it slightly incomplete.",2026-07-03T19:21:42.116803+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,0,7,ok,,"SCORE: 7
+REASON: Basing bonuses on individual contributions aligns with the equity principle of distributive justice.",2026-07-03T19:21:45.676226+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,1,7,ok,,"SCORE: 7
+REASON: Aligning bonuses with individual contributions directly upholds the equity principle of distributive justice.",2026-07-03T19:21:49.472807+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,2,7,ok,,"SCORE: 7
+REASON: Rewarding employees based on their quantified contributions aligns with the equity principle of distributive justice.",2026-07-03T19:21:56.771920+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,3,6,ok,,"SCORE: 6
+REASON: Tying bonuses to measured contributions aligns with the equity principle of distributive justice, rewarding employees in proportion to what they add to the company's success.",2026-07-03T19:22:03.152007+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,4,7,ok,,"SCORE: 7
+REASON: Aligning bonuses with individual contributions reflects the equity principle of distributive justice.",2026-07-03T19:22:07.093654+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,5,7,ok,,"SCORE: 7
+REASON: Aligning bonuses with individual contributions adheres to the equity principle of distributive justice, ensuring rewards match merit.",2026-07-03T19:22:13.670641+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,6,7,ok,,"SCORE: 7
+REASON: Aligning bonuses with quantified employee contributions promotes equity and fairness without reducing the total bonus pool.",2026-07-03T19:22:19.931910+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,7,6,ok,,"SCORE: 6
+REASON: Linking bonuses to measured contributions aligns rewards with actual effort and performance, which is a widely accepted fairness principle.",2026-07-03T19:22:24.378812+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,8,7,ok,,"SCORE: 7
+REASON: Rewarding employees in proportion to their contributions aligns with the equity principle of fairness.",2026-07-03T19:22:28.792304+00:00
+glm-5.2,xhigh,DIL_01_equity_escala,B_dilema,escala,proporcionalidad,limpio,9,7,ok,,"SCORE: 7
+REASON: Adjusting bonuses based on quantified contributions aligns rewards with actual effort and value added to the company.",2026-07-03T19:22:36.820606+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,0,4,ok,,"SCORE: 4
+REASON: Equal distribution is simple and transparent, but it ignores differences in employees' contributions, roles, and efforts, which raises its own fairness concerns.",2026-07-03T19:22:43.822552+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,1,5,ok,,"SCORE: 5
+REASON: An equal share is simple, transparent, and ensures everyone benefits equally from the company's overall success.",2026-07-03T19:22:50.140217+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,2,6,ok,,"SCORE: 6
+REASON: An equal share promotes transparency and eliminates perceived unfairness caused by an opaque and misunderstood formula.",2026-07-03T19:22:59.397816+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,3,3,ok,,"SCORE: 3
+REASON: Equal shares would improve transparency and simplicity, but it ignores differences in employees' contributions, effort, and roles, which many would consider unfair.",2026-07-03T19:23:08.306983+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,4,6,ok,,"SCORE: 6
+REASON: An equal share is a simple and fair approach that eliminates confusion and complaints about the current complex formula.",2026-07-03T19:23:23.890300+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,5,5,ok,,"SCORE: 5
+REASON: Equal distribution is simple and transparent, treating all employees as equally valued contributors, though it may not fully account for differences in role or performance.",2026-07-03T19:23:32.222918+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,6,4,ok,,"SCORE: 4
+REASON: Equal distribution promotes transparency but may fail to reward individual performance differences.",2026-07-03T19:23:45.639916+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,7,5,ok,,"SCORE: 5
+REASON: An equal share promotes a sense of fairness and equality among all employees, even if it simplifies the previous complex formula.",2026-07-03T19:23:54.453731+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,8,5,ok,,"SCORE: 5
+REASON: Equal distribution is simple, transparent, and treats all employees as equal contributors, though it does not account for differences in individual performance or contribution.",2026-07-03T19:24:06.713364+00:00
+glm-5.2,xhigh,DIL_01_equality_escala,B_dilema,escala,igualdad,limpio,9,5,ok,,"SCORE: 5
+REASON: Equal distribution is a simple and transparent approach that treats all employees as equally valued members of the company, though it may not account for differences in individual contributions.",2026-07-03T19:24:13.351764+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,0,3,ok,,"SCORE: 3
+REASON: Bonuses are typically meant to reward performance and contribution, so allocating them based on personal need undermines meritocratic incentives.",2026-07-03T19:24:33.463747+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,1,5,ok,,"SCORE: 5
+REASON: Allocating bonuses based on need addresses a legitimate fairness concern, though some employees may feel it conflicts with rewarding contribution.",2026-07-03T19:24:48.743604+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,2,,sin_numero,,,2026-07-03T19:25:04.837727+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,3,5,ok,,"SCORE: 5
+REASON: Adjusting bonuses based on individual need promotes fairness by supporting those who require financial assistance the most.",2026-07-03T19:25:09.566378+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,4,5,ok,,"SCORE: 5
+REASON: Basing bonus distributions on demonstrated need aligns with a widely accepted principle of distributive justice, though it may reduce incentives for performance-based contribution.",2026-07-03T19:25:15.530209+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,5,5,ok,,"SCORE: 5
+REASON: Allocating bonuses based on need addresses a legitimate fairness concern by helping those who would benefit most, though it may reduce the connection between performance and reward.",2026-07-03T19:25:23.180364+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: Allocating resources based on individual need is a widely recognized principle of fairness that can improve overall employee well-being.",2026-07-03T19:25:29.954881+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,7,5,ok,,"SCORE: 5
+REASON: Allocating bonuses based on need addresses a legitimate fairness concern, though it may conflict with rewarding contributions and raises privacy issues.",2026-07-03T19:25:35.040824+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,8,5,ok,,"SCORE: 5
+REASON: Distributing bonuses based on need aligns with principles of welfare and ensures the money helps those who require it most.",2026-07-03T19:25:44.484902+00:00
+glm-5.2,xhigh,DIL_01_need_escala,B_dilema,escala,necesidad,control_necesidad,9,5,ok,,"SCORE: 5
+REASON: Allocating bonuses based on individual need aligns with the principles of need-based distributive justice and provides greater support to those who require it most.",2026-07-03T19:25:53.039684+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,0,A,ok,,"CHOICE: A
+REASON: Rewarding employees based on their quantified contributions to the company's success aligns bonuses with individual merit and effort.",2026-07-03T19:25:57.848566+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,1,A,ok,,"CHOICE: A
+REASON: Employees who contribute more to the company's success deserve a larger share of the profits.",2026-07-03T19:26:03.707466+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,2,A,ok,,"CHOICE: A
+REASON: Employees who contribute more to the company's success deserve a larger share of the profits, as this rewards effort and productivity fairly.",2026-07-03T19:26:15.561467+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,3,A,ok,,"CHOICE: A
+REASON: Tying bonuses to measured contributions rewards employees in proportion to the value they add to the company's success, which aligns with the equity principle of distributive justice.",2026-07-03T19:26:21.459738+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,4,A,ok,,"CHOICE: A
+REASON: Rewards should be proportional to each employee's actual contribution to the company's success.",2026-07-03T19:26:26.918211+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,5,A,ok,,"CHOICE: A
+REASON: Employees who contribute more to the company's success deserve a larger share of the profits.",2026-07-03T19:26:33.157887+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,6,A,ok,,"CHOICE: A
+REASON: Distributing bonuses in proportion to each employee's contribution to the company's success aligns rewards with merit and effort, which is a core principle of fair distribution in a workplace.",2026-07-03T19:26:39.123069+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,7,A,ok,,"CHOICE: A
+REASON: Rewarding employees in proportion to their contributions aligns with the principle of desert, ensuring those who contribute more to the company's success receive a larger share of the profits.",2026-07-03T19:26:47.411854+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,8,A,ok,,"CHOICE: A
+REASON: Distributing bonuses based on individual contributions aligns rewards with the actual value each employee brings to the company's success.",2026-07-03T19:26:50.479468+00:00
+glm-5.2,xhigh,DIL_01_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,9,A,ok,,"CHOICE: A
+REASON: Employees who contribute more to the company's success deserve a larger share of the profits.",2026-07-03T19:26:56.923839+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,0,6,ok,,"SCORE: 6
+REASON: Rewarding students in proportion to their actual contribution aligns with the equity principle of distributive justice and addresses a legitimate fairness concern in group work.",2026-07-03T19:27:04.081790+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,1,7,ok,,"SCORE: 7
+REASON: Adjusting grades based on individual contribution aligns with the equity principle of distributive justice, ensuring students are rewarded proportionally for their effort.",2026-07-03T19:27:08.301500+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,2,6,ok,,"SCORE: 6
+REASON: Adjusting grades to reflect actual contribution aligns rewards with individual effort and addresses free-rider concerns in group projects.",2026-07-03T19:27:14.164517+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,3,7,ok,,"SCORE: 7
+REASON: Rewarding students based on their actual contribution to the group project promotes fairness and motivates individual accountability.",2026-07-03T19:27:18.548520+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,4,7,ok,,"SCORE: 7
+REASON: Adjusting grades based on actual contribution aligns with the equity principle by ensuring students are rewarded in proportion to their effort.",2026-07-03T19:27:24.505131+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,5,6,ok,,"SCORE: 6
+REASON: It aligns grades with individual effort and contribution, satisfying the equity principle of distributive justice.",2026-07-03T19:27:37.977246+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,6,7,ok,,"SCORE: 7
+REASON: Adjusting grades based on individual contribution aligns rewards with actual effort, ensuring students are treated fairly according to the equity principle.",2026-07-03T19:27:42.937770+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,7,7,ok,,"SCORE: 7
+REASON: Rewarding students proportionally to their actual contributions aligns with the equity principle of fairness.",2026-07-03T19:27:49.724904+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,8,6,ok,,"SCORE: 6
+REASON: Adjusting grades based on individual contribution aligns with the equity principle by ensuring students are rewarded in proportion to their actual effort and input.",2026-07-03T19:27:54.987453+00:00
+glm-5.2,xhigh,DIL_02_equity_escala,B_dilema,escala,proporcionalidad,limpio,9,6,ok,,"SCORE: 6
+REASON: Rewarding students in proportion to their individual contributions aligns with equity principles and addresses legitimate free-rider concerns in group projects.",2026-07-03T19:28:02.803599+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,0,3,ok,,"SCORE: 3
+REASON: Giving every student the same grade ignores individual contributions, making it seem inequitable to those who worked harder.",2026-07-03T19:28:11.824511+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,1,,sin_numero,,,2026-07-03T19:28:27.327721+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,2,4,ok,,"SCORE: 4
+REASON: Equal grading simplifies the process and promotes teamwork, but may be unfair to students who contribute more effort or higher-quality work.",2026-07-03T19:28:35.597687+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,3,4,ok,,"SCORE: 4
+REASON: Giving equal grades fosters teamwork but fails to account for individual contributions.",2026-07-03T19:28:45.592788+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,4,3,ok,,"SCORE: 3
+REASON: Giving every student the same grade ignores individual contributions and effort, which is fundamentally unfair to high-performing students.",2026-07-03T19:29:00.190572+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,5,5,ok,,"SCORE: 5
+REASON: Equal grades for group work recognize the collaborative nature of the project and reduce ambiguity in grading, though some may argue it doesn't account for differing individual contributions.",2026-07-03T19:29:07.350323+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,6,3,ok,,"SCORE: 3
+REASON: Giving equal grades ignores individual contributions, potentially rewarding those who do less work.",2026-07-03T19:29:20.774269+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,7,2,ok,,"SCORE: 2
+REASON: Equal grades ignore individual contribution differences and could encourage free-riding, though it would at least provide transparency.",2026-07-03T19:29:29.364504+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,8,3,ok,,"SCORE: 3
+REASON: Equal grades ignore differences in individual contribution, which may discourage effort and feel unfair to harder-working students, though it does simplify grading and promote group cohesion.",2026-07-03T19:29:35.234620+00:00
+glm-5.2,xhigh,DIL_02_equality_escala,B_dilema,escala,igualdad,limpio,9,3,ok,,"SCORE: 3
+REASON: Equal grades ignore differences in individual contribution, which undermines the equity principle of distributive justice and could encourage free-riding.",2026-07-03T19:29:47.003564+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,0,1,ok,,"SCORE: 1
+REASON: Grades should reflect academic performance and merit rather than individual needs.",2026-07-03T19:29:51.677714+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,1,2,ok,,"SCORE: 2
+REASON: Adjusting academic grades based on personal need rather than performance undermines the meritocratic purpose of education and devalues the effort of all students.",2026-07-03T19:30:03.430471+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,2,2,ok,,"SCORE: 2
+REASON: Grades should reflect academic performance and effort rather than personal needs.",2026-07-03T19:30:13.500680+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,3,2,ok,,"SCORE: 2
+REASON: Grades should reflect academic performance and merit, not students' personal needs, as adjusting grades based on need undermines the integrity and fairness of the evaluation system.",2026-07-03T19:30:21.916807+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,4,3,ok,,"SCORE: 3
+REASON: Adjusting academic grades based on personal need rather than performance undermines the meritocratic purpose of education.",2026-07-03T19:30:28.354929+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,5,2,ok,,"SCORE: 2
+REASON: Grades should reflect academic performance and merit, not students' personal needs, so adjusting grades based on need undermines the fundamental purpose of evaluation.",2026-07-03T19:30:35.878799+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,6,2,ok,,"SCORE: 2
+REASON: Grades should reflect academic performance and merit, not individual need, as adjusting them based on need would undermine the integrity and meaningfulness of the credential.",2026-07-03T19:30:45.716180+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,7,2,ok,,"SCORE: 2
+REASON: Academic grades should primarily reflect merit and performance rather than individual needs.",2026-07-03T19:30:52.948744+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,8,2,ok,,"SCORE: 2
+REASON: Allocating grades based on need rather than merit undermines the academic integrity and purpose of grading.",2026-07-03T19:31:05.863825+00:00
+glm-5.2,xhigh,DIL_02_need_escala,B_dilema,escala,necesidad,control_necesidad,9,2,ok,,"SCORE: 2
+REASON: Adjusting grades based on need rather than merit undermines the fundamental purpose of academic assessment and would be unfair to students who earned their grades through performance.",2026-07-03T19:31:17.478945+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,0,B,ok,,"CHOICE: B
+REASON: Students who contribute more to a group project should be rewarded with a higher grade to reflect their actual effort and merit.",2026-07-03T19:31:25.821935+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,1,B,ok,,"CHOICE: B
+REASON: Grades should reflect individual effort and contribution to prevent free-riding and reward merit.",2026-07-03T19:31:32.064146+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,2,B,ok,,"CHOICE: B
+REASON: Fairness in group work is best achieved by rewarding students based on their actual individual contributions to the project's success.",2026-07-03T19:31:37.155515+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,3,B,ok,,"CHOICE: B
+REASON: Students who contribute more to a group project deserve recognition for their individual effort and merit through a proportionally adjusted grade.",2026-07-03T19:31:42.420826+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,4,B,ok,,"CHOICE: B
+REASON: Students who contribute more to a group project deserve to be rewarded with a higher grade, as this aligns academic outcomes with individual effort and merit.",2026-07-03T19:31:51.513267+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,5,B,ok,,"CHOICE: B
+REASON: Students who contribute more to a group project should receive a higher grade to reflect their actual effort and individual merit.",2026-07-03T19:32:00.670718+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,6,B,ok,,"CHOICE: B
+REASON: Students who contribute more to a project deserve a higher grade as it reflects their actual effort and merit.",2026-07-03T19:32:04.751376+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,7,B,ok,,"CHOICE: B
+REASON: It is fairer to reward students based on their actual contribution to the group's work.",2026-07-03T19:32:09.552367+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,8,B,ok,,"CHOICE: B
+REASON: Rewarding students based on their individual contribution aligns grades with merit and effort, which is fairer than giving equal grades regardless of work done.",2026-07-03T19:32:14.840006+00:00
+glm-5.2,xhigh,DIL_02_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,9,B,ok,,"CHOICE: B
+REASON: Grading based on individual contribution ensures that students are rewarded proportionally for their actual effort and output.",2026-07-03T19:32:21.898121+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,0,7,ok,,"SCORE: 7
+REASON: Allocating funding based on measurable performance aligns with the equity principle of distributive justice.",2026-07-03T19:32:27.160690+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,1,6,ok,,"SCORE: 6
+REASON: Allocating funds based on measurable results promotes fairness by rewarding effectiveness and transparency.",2026-07-03T19:32:34.123366+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,2,6,ok,,"SCORE: 6
+REASON: Tying funding to measurable results aligns with the equity principle of distributive justice by rewarding charities that demonstrate greater impact, though some subjectivity in quantifying ""production"" may prevent a perfect score.",2026-07-03T19:32:39.673535+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,3,6,ok,,"SCORE: 6
+REASON: Funding charities based on measurable results ensures that resources are allocated efficiently to maximize positive impact.",2026-07-03T19:32:44.599592+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,4,7,ok,,"SCORE: 7
+REASON: Allocating funds based on quantifiable results ensures that resources are directed toward the most effective charities, maximizing the foundation's overall impact.",2026-07-03T19:32:50.460924+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,5,6,ok,,"SCORE: 6
+REASON: Funding charities based on measurable results aligns with merit-based distributive justice and incentivizes effectiveness, though quantifying charitable impact can be imperfect.",2026-07-03T19:32:57.465178+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,6,7,ok,,"SCORE: 7
+REASON: Tying funding to measurable results maximizes the foundation's positive impact without reducing the total pool of money.",2026-07-03T19:33:02.787169+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,7,6,ok,,"SCORE: 6
+REASON: Allocating funds based on measurable results rewards effectiveness and ensures the money creates the greatest possible impact.",2026-07-03T19:33:07.019103+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,8,6,ok,,"SCORE: 6
+REASON: Tying funding to measurable outcomes rewards effectiveness and incentivizes charities to maximize their impact, making the distribution more meritocratic and transparent.",2026-07-03T19:33:13.757523+00:00
+glm-5.2,xhigh,DIL_03_equity_escala,B_dilema,escala,proporcionalidad,limpio,9,6,ok,,"SCORE: 6
+REASON: Linking funding to measurable results promotes accountability and ensures limited resources go where they do the most good.",2026-07-03T19:33:18.564889+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,0,5,ok,,"SCORE: 5
+REASON: Dividing the funds equally ensures transparency and grants every charity an impartial share of the available resources.",2026-07-03T19:33:28.576211+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,1,6,ok,,"SCORE: 6
+REASON: Dividing the funds equally provides a transparent and impartial standard that addresses the ambiguity of the previous process.",2026-07-03T19:33:34.310140+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,2,6,ok,,"SCORE: 6
+REASON: Dividing funds equally ensures fairness by giving every charity an identical opportunity to benefit from the foundation's support.",2026-07-03T19:33:40.431178+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,3,5,ok,,"SCORE: 5
+REASON: Equal distribution is a clear and transparent fairness principle, though it may not account for differences in charities' needs or impact.",2026-07-03T19:33:46.501432+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,4,5,ok,,"SCORE: 5
+REASON: Equal distribution provides transparency and treats all charities uniformly, though it may not account for differing needs or impacts.",2026-07-03T19:33:54.780556+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,5,5,ok,,"SCORE: 5
+REASON: Equal distribution is transparent and simple, though it may not account for differences in charities' needs, sizes, or impact.",2026-07-03T19:34:03.138307+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,6,5,ok,,"SCORE: 5
+REASON: Equal distribution removes ambiguity and ensures every charity receives a fair, unbiased portion of the available funds.",2026-07-03T19:34:10.622454+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,7,5,ok,,"SCORE: 5
+REASON: Equal distribution provides a clear, impartial standard of fairness that eliminates ambiguity and bias.",2026-07-03T19:34:17.196359+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,8,6,ok,,"SCORE: 6
+REASON: Equal distribution removes the ambiguity of unclear criteria and ensures every charity benefits fairly from the foundation's funds.",2026-07-03T19:34:21.717521+00:00
+glm-5.2,xhigh,DIL_03_equality_escala,B_dilema,escala,igualdad,limpio,9,4,ok,,"SCORE: 4
+REASON: Equal distribution removes ambiguity and ensures parity, though it may ignore differences in the actual needs or effectiveness of the charities.",2026-07-03T19:34:31.449289+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,0,6,ok,,"SCORE: 6
+REASON: Allocating funds based on need is a fair and desirable approach for charitable foundations.",2026-07-03T19:34:35.182609+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,1,7,ok,,"SCORE: 7
+REASON: Allocating charity funds based on demonstrated need is a highly desirable approach to distributive justice.",2026-07-03T19:34:40.881946+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,2,7,ok,,"SCORE: 7
+REASON: Allocating funds based on need ensures that the resources go to the charities that require the most support to carry out their work.",2026-07-03T19:34:45.090937+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,3,7,ok,,"SCORE: 7
+REASON: Allocating funds based on need ensures resources go to those who require them most, which is a fair and efficient use of charitable grants.",2026-07-03T19:34:49.698343+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,4,6,ok,,"SCORE: 6
+REASON: Allocating funds based on demonstrated need is a widely accepted fairness principle that directs resources where they can do the most good.",2026-07-03T19:34:55.071888+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,5,7,ok,,"SCORE: 7
+REASON: Allocating funds based on demonstrated need promotes equity and ensures resources go where they can do the most good.",2026-07-03T19:35:01.066829+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,6,7,ok,,"SCORE: 7
+REASON: Allocating funds based on demonstrated need aligns with a widely accepted principle of distributive justice and, given no cost to implement, promotes fairness without reducing available resources.",2026-07-03T19:35:06.707421+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,7,7,ok,,"SCORE: 7
+REASON: Allocating funds based on demonstrated need is a core principle of distributive justice and directly addresses fairness concerns without reducing available resources.",2026-07-03T19:35:12.094619+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,8,7,ok,,"SCORE: 7
+REASON: Distributing funds based on need ensures that charities requiring more support receive it.",2026-07-03T19:35:19.158652+00:00
+glm-5.2,xhigh,DIL_03_need_escala,B_dilema,escala,necesidad,control_necesidad,9,7,ok,,"SCORE: 7
+REASON: Allocating funds based on need ensures the resources go to those who require them most, maximizing the positive impact of the grant.",2026-07-03T19:35:23.249451+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,0,A,ok,,"CHOICE: A
+REASON: Funding charities based on their quantifiable production ensures that the money is distributed according to the actual impact and results each charity achieves.",2026-07-03T19:35:28.698316+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,1,A,ok,,"CHOICE: A
+REASON: Distributing funds based on quantifiable results ensures the money maximizes charitable impact.",2026-07-03T19:35:37.869591+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,2,A,ok,,"CHOICE: A
+REASON: Funding charities based on quantifiable results maximizes the positive impact of the grant money, rewarding effectiveness rather than just distributing funds equally regardless of performance.",2026-07-03T19:35:43.945625+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,3,A,ok,,"CHOICE: A
+REASON: Allocating funds based on measurable results ensures the money achieves the greatest possible impact.",2026-07-03T19:35:53.488591+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,4,A,ok,,"CHOICE: A
+REASON: Distributing funds based on measurable results ensures that the money is allocated to charities that use it most effectively to help their causes.",2026-07-03T19:35:58.131612+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,5,A,ok,,"CHOICE: A
+REASON: Allocating funds based on quantifiable results ensures that the charities producing the most impact receive appropriate support.",2026-07-03T19:36:06.827569+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,6,A,ok,,"CHOICE: A
+REASON: Allocating funds based on quantifiable results ensures that the money creates the greatest possible positive impact.",2026-07-03T19:36:13.872369+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,7,A,ok,,"CHOICE: A
+REASON: Rewarding charities based on their actual results aligns funding with impact, ensuring the money does the most good for those it serves.",2026-07-03T19:36:22.843243+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,8,A,ok,,"CHOICE: A
+REASON: Distributing funds based on measurable results maximizes the positive impact of the grant, which is fairer to the beneficiaries.",2026-07-03T19:36:28.298808+00:00
+glm-5.2,xhigh,DIL_03_binario,B_dilema,binario,igualdad_vs_proporcionalidad,limpio,9,A,ok,,"CHOICE: A
+REASON: Allocating funds based on measurable results rewards effective charities and ensures the money does the most overall good.",2026-07-03T19:36:34.033901+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,0,2,ok,,"SCORE: 2
+REASON: Allocating recess playtime based on academic performance unfairly penalizes younger children for academic struggles and undermines the inclusive purpose of play.",2026-07-03T19:36:42.970103+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,1,1,ok,,"SCORE: 1
+REASON: Allocating recess time based on academic grades is undesirable because playtime should be an equal opportunity for all children to decompress, not an academic reward.",2026-07-03T19:36:49.821328+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,2,2,ok,,"SCORE: 2
+REASON: Tying childhood recreation to academic performance unfairly penalizes students who struggle academically and removes the equalizing purpose of recess.",2026-07-03T19:36:56.715411+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,3,1,ok,,"SCORE: 1
+REASON: Tying elementary school recess privileges to academic performance inappropriately converts playground time into an academic reward, disadvantaging children who may need recess most.",2026-07-03T19:37:03.693670+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,4,2,ok,,"SCORE: 2
+REASON: Allocating recess time based on academic grades unfairly punishes children who may struggle academically and restricts their equal right to play.",2026-07-03T19:37:15.324660+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,5,2,ok,,"SCORE: 2
+REASON: Tying recess swing access to academic performance inappropriately commodifies play time and could disadvantage children who already struggle in school.",2026-07-03T19:37:22.983567+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,6,2,ok,,"SCORE: 2
+REASON: Allocating recess swing time based on academic grades is largely undesirable because playground access should be distributed equitably regardless of academic performance, and using grades as a basis would unfairly penalize children who already struggle in school.",2026-07-03T19:37:32.027027+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,7,1,ok,,"SCORE: 1
+REASON: Tying elementary school recess time to academic grades unfairly punishes younger children who struggle academically and deprives them of essential play.",2026-07-03T19:37:39.231857+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,8,1,ok,,"SCORE: 1
+REASON: Allocating recess time based on academic performance is unfair to children who struggle academically and turns play into a reward for grades.",2026-07-03T19:37:46.396102+00:00
+glm-5.2,xhigh,DIL_04_equity_escala,B_dilema,escala,proporcionalidad,discutible,9,1,ok,,"SCORE: 1
+REASON: Allocating recess time based on academic performance is highly undesirable because it penalizes children who struggle academically and turns playtime into a reward for grades.",2026-07-03T19:37:53.273102+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,0,7,ok,,"SCORE: 7
+REASON: Equal sharing of a limited recreational resource among all children is a straightforward and fair application of the equality principle.",2026-07-03T19:37:58.620930+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,1,7,ok,,"SCORE: 7
+REASON: Equal distribution of shared school resources among children is a highly fair and desirable solution.",2026-07-03T19:38:03.758131+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,2,7,ok,,"SCORE: 7
+REASON: Ensuring every child gets an equal share of time on the swing is a fair and transparent way to manage the limited resource.",2026-07-03T19:38:09.157879+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,3,7,ok,,"SCORE: 7
+REASON: Equal distribution of swing time ensures that all children have a fair and unbiased opportunity to enjoy the new school equipment.",2026-07-03T19:38:16.577704+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,4,6,ok,,"SCORE: 6
+REASON: Equal shares of swing time for elementary school children is a straightforward and fair solution that eliminates arbitrary decision-making and treats all students as equals.",2026-07-03T19:38:26.466640+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,5,7,ok,,"SCORE: 7
+REASON: Ensuring every child gets an equal share of swing time is a highly fair and desirable solution for an elementary school.",2026-07-03T19:38:32.918316+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,6,7,ok,,"SCORE: 7
+REASON: Giving each child an equal share of time ensures fairness and prevents favoritism in a school setting.",2026-07-03T19:38:37.349604+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,7,6,ok,,"SCORE: 6
+REASON: Equal time on the swing ensures fairness and prevents favoritism among the children.",2026-07-03T19:38:43.882459+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,8,7,ok,,"SCORE: 7
+REASON: Giving every child an equal share of time on the swing is a highly desirable application of equality and eliminates arbitrary decision-making.",2026-07-03T19:38:51.756181+00:00
+glm-5.2,xhigh,DIL_04_equality_escala,B_dilema,escala,igualdad,discutible,9,7,ok,,"SCORE: 7
+REASON: Ensuring each child receives an equal share of time is a highly fair and desirable approach for an elementary school swing set.",2026-07-03T19:38:56.510374+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,0,5,ok,,"SCORE: 5
+REASON: Allocating resources based on individual need is a fair approach to ensuring those who benefit most receive support.",2026-07-03T19:39:04.499733+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,1,4,ok,,"SCORE: 4
+REASON: Allocating swing time based on individual need supports vulnerable children, though assessing self-esteem for recess equipment might be difficult to implement practically.",2026-07-03T19:39:11.791571+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,2,4,ok,,"SCORE: 4
+REASON: Allocating resources based on need is a recognized justice principle, though it",2026-07-03T19:39:27.343719+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,3,6,ok,,"SCORE: 6
+REASON: Allocating resources based on individual need is a widely supported and compassionate approach to distributive justice.",2026-07-03T19:39:36.897467+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,4,3,ok,,"SCORE: 3
+REASON: Allocating swing time based on assessed need is well-intentioned but could stigmatize children and create resentment among peers during what should be an inclusive recess activity.",2026-07-03T19:39:45.433980+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,5,6,ok,,"SCORE: 6
+REASON: Allocating swing time based on children's emotional needs reflects the need principle of distributive justice, which is especially appropriate when supporting vulnerable children at no additional cost.",2026-07-03T19:39:54.518177+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: Allocating swing time based on children's emotional needs aligns with the principle of distributing resources according to individual need.",2026-07-03T19:39:59.055385+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,7,6,ok,,"SCORE: 6
+REASON: Allocating swing time based on need ensures that children who require the most emotional support receive it.",2026-07-03T19:40:07.826223+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,8,6,ok,,"SCORE: 6
+REASON: Allocating resources based on individual need is a generally desirable approach to fairness, especially for children requiring extra support.",2026-07-03T19:40:14.195795+00:00
+glm-5.2,xhigh,DIL_04_need_escala,B_dilema,escala,necesidad,control_necesidad,9,6,ok,,"SCORE: 6
+REASON: Allocating resources based on need supports the well-being of vulnerable children.",2026-07-03T19:40:20.077501+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,0,A,ok,,"CHOICE: A
+REASON: Equal access to recess activities ensures all children have the same opportunity to enjoy school facilities regardless of academic performance.",2026-07-03T19:40:24.928686+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,1,A,ok,,"CHOICE: A
+REASON: Equal access to recess equipment ensures that all children have the same opportunity for play, regardless of academic performance.",2026-07-03T19:40:29.209608+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,2,A,ok,,"CHOICE: A
+REASON: All children should have equal access to playground equipment regardless of their academic performance.",2026-07-03T19:40:36.032185+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,3,A,ok,,"CHOICE: A
+REASON: Equal time ensures every child has the same opportunity to enjoy a shared recreational resource regardless of academic performance.",2026-07-03T19:40:40.239664+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,4,A,ok,,"CHOICE: A
+REASON: All children deserve equal access to recreational equipment during recess regardless of academic performance.",2026-07-03T19:40:45.927426+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,5,A,ok,,"CHOICE: A
+REASON: Equal access to a shared recreational resource at an elementary school is fairer than tying playground time to academic performance, which would unfairly disadvantage children who struggle academically and undermine the inclusive purpose of recess.",2026-07-03T19:40:52.658513+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,6,A,ok,,"CHOICE: A
+REASON: All children deserve equal access to recreational equipment regardless of academic performance, as recess should be an inclusive opportunity for play rather than a reward tied to grades.",2026-07-03T19:40:58.739770+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,7,A,ok,,"CHOICE: A
+REASON: All children should have equal access to playground equipment during recess regardless of their academic performance.",2026-07-03T19:41:04.022740+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,8,A,ok,,"CHOICE: A
+REASON: All children should have equal access to recess equipment regardless of their academic performance.",2026-07-03T19:41:08.511650+00:00
+glm-5.2,xhigh,DIL_04_binario,B_dilema,binario,igualdad_vs_proporcionalidad,discutible,9,A,ok,,"CHOICE: A
+REASON: All children should have equal access to recess activities regardless of academic performance.",2026-07-03T19:41:13.936201+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,0,5,ok,,"SCORE: 5
+REASON: Allocating opportunities based on contribution is a fair way to recognize countries that support the organization more.",2026-07-03T19:41:21.989612+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,1,4,ok,,"SCORE: 4
+REASON: Rewarding greater contributions with greater opportunity aligns with equity principles, but in an international health organization it could marginalize poorer countries whose needs deserve representation.",2026-07-03T19:41:31.802357+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,2,4,ok,,"SCORE: 4
+REASON: Tying leadership opportunities to measurable contributions aligns with equity principles, but could disadvantage smaller or poorer nations whose contributions are less quantifiable despite being meaningful.",2026-07-03T19:41:41.476915+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,3,6,ok,,"SCORE: 6
+REASON: Rewarding greater contributions with greater opportunities is an equitable approach that incentivizes member states to support the organization.",2026-07-03T19:41:47.481071+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,4,3,ok,,"SCORE: 3
+REASON: While rewarding contributions seems fair in principle, tying the presidency to contributions could undermine the equal representation of smaller nations in international organizations.",2026-07-03T19:41:56.611089+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,5,6,ok,,"SCORE: 6
+REASON: Rewarding countries based on their level of contribution aligns with the equity principle of distributive justice.",2026-07-03T19:42:01.553635+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,6,5,ok,,"SCORE: 5
+REASON: Allocating the presidency based on measured contributions aligns with the equity principle by rewarding those who provide the most value to the organization.",2026-07-03T19:42:08.044046+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,7,5,ok,,"SCORE: 5
+REASON: Rewarding countries based on their level of contribution aligns with the equity principle of distributive justice.",2026-07-03T19:42:13.751268+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,8,6,ok,,"SCORE: 6
+REASON: Rewarding countries based on their quantified contributions aligns with the equity principle of distributive justice and incentivizes greater investment in the organization.",2026-07-03T19:42:19.911513+00:00
+glm-5.2,xhigh,DIL_05_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,9,5,ok,,"SCORE: 5
+REASON: Recognizing greater contributions with greater opportunities aligns with equity principles in organizational leadership.",2026-07-03T19:42:24.999407+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,0,6,ok,,"SCORE: 6
+REASON: Giving every country an equal chance at the presidency reflects a fair equality-of-opportunity principle at no cost, making it highly desirable.",2026-07-03T19:42:29.407869+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,1,7,ok,,"SCORE: 7
+REASON: Giving each country an equal chance at the presidency promotes fairness without incurring any costs.",2026-07-03T19:42:35.457178+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,2,7,ok,,"SCORE: 7
+REASON: Ensuring every country has an equal chance at the presidency promotes fundamental fairness without compromising the organization's financial resources.",2026-07-03T19:42:41.476111+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,3,7,ok,,"SCORE: 7
+REASON: Equal rotation of the presidency ensures procedural fairness and gives every member country an equal opportunity for representation at no cost.",2026-07-03T19:42:46.983847+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,4,6,ok,,"SCORE: 6
+REASON: Equal rotation gives every country a fair and impartial opportunity to lead, which aligns with the principle of equal opportunity in distributive justice.",2026-07-03T19:42:54.361505+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,5,6,ok,,"SCORE: 6
+REASON: Equal rotation ensures procedural fairness among member countries without sacrificing organizational resources or efficiency.",2026-07-03T19:43:00.576936+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,6,6,ok,,"SCORE: 6
+REASON: Equal rotation gives every country a fair opportunity to lead, promoting inclusivity and legitimacy within the organization.",2026-07-03T19:43:05.350658+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,7,7,ok,,"SCORE: 7
+REASON: Giving every country an equal chance at the presidency promotes fundamental fairness and equality without any financial cost.",2026-07-03T19:43:09.626484+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,8,7,ok,,"SCORE: 7
+REASON: Ensuring every country has an equal chance at the presidency promotes fairness and representation without affecting program funding.",2026-07-03T19:43:14.831873+00:00
+glm-5.2,xhigh,DIL_05_equality_escala,B_dilema,escala,igualdad,oportunidad,9,6,ok,,"SCORE: 6
+REASON: Ensuring each country has an equal chance at the presidency promotes fairness and equal opportunity without any associated costs.",2026-07-03T19:43:19.551195+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,0,6,ok,,"SCORE: 6
+REASON: Prioritizing countries based on their need for the benefits associated with the presidency is a fair and equitable approach.",2026-07-03T19:43:24.354404+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,1,6,ok,,"SCORE: 6
+REASON: Prioritizing the presidency for countries based on their need aligns with equitable distributive justice principles by directing benefits to those who require them most.",2026-07-03T19:43:29.223452+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,2,6,ok,,"SCORE: 6
+REASON: Prioritizing countries based on their specific needs promotes a more equitable distribution of leadership opportunities.",2026-07-03T19:43:34.989765+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,3,6,ok,,"SCORE: 6
+REASON: Allocating the presidency based on measured need aligns with the need principle of distributive justice and addresses legitimate concerns about fairness without reducing available resources.",2026-07-03T19:43:41.387027+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,4,6,ok,,"SCORE: 6
+REASON: Prioritizing countries based on need aligns with humanitarian principles and ensures the presidency benefits those who require it most.",2026-07-03T19:43:49.783791+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,5,5,ok,,"SCORE: 5
+REASON: Prioritizing countries based on demonstrated need aligns with principles of equitable distribution and could help direct leadership benefits to nations that would benefit most from them.",2026-07-03T19:43:56.205585+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: Prioritizing the presidency based on verified need ensures the role's benefits directly support countries that require the most assistance.",2026-07-03T19:44:03.590604+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,7,7,ok,,"SCORE: 7
+REASON: Prioritizing countries based on need aligns with the core humanitarian goals of the organization, especially when there are no financial trade-offs.",2026-07-03T19:44:08.817112+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,8,6,ok,,"SCORE: 6
+REASON: Prioritizing countries based on their level of need aligns with the principle of distributive justice and ensures the presidency benefits those who require it most.",2026-07-03T19:44:13.926718+00:00
+glm-5.2,xhigh,DIL_05_need_escala,B_dilema,escala,necesidad,control_necesidad,9,6,ok,,"SCORE: 6
+REASON: Allocating the presidency based on demonstrated need aligns with need-based principles of distributive justice and is especially appropriate for a global health organization.",2026-07-03T19:44:24.754747+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,0,B,ok,,"CHOICE: B
+REASON: All countries should have an equal opportunity to lead the organization regardless of their contributions.",2026-07-03T19:44:30.751476+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,1,B,ok,,"CHOICE: B
+REASON: Equal opportunity for all member countries reflects the principle of sovereign equality in international organizations.",2026-07-03T19:44:36.108375+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,2,B,ok,,"CHOICE: B
+REASON: Giving each country an equal chance at the presidency treats all member nations as equals and avoids bias toward wealthier or more powerful countries.",2026-07-03T19:44:41.963515+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,3,B,ok,,"CHOICE: B
+REASON: Equal rotation ensures every country has the same opportunity to lead, respecting the principle of sovereign equality.",2026-07-03T19:44:50.007802+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,4,B,ok,,"CHOICE: B
+REASON: An equal chance at the presidency treats all member nations as sovereign equals, which is the most equitable approach for an international body.",2026-07-03T19:44:54.495163+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,5,B,ok,,"CHOICE: B
+REASON: Equal opportunity for all countries reflects the principle of sovereign equality that international organizations are built upon, regardless of differing contribution levels.",2026-07-03T19:45:02.179565+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,6,B,ok,,"CHOICE: B
+REASON: All member countries should have an equal opportunity to hold the presidency to ensure equitable representation.",2026-07-03T19:45:08.631339+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,7,B,ok,,"CHOICE: B
+REASON: Giving all countries an equal chance ensures fairness by treating all member nations as equal participants in the organization.",2026-07-03T19:45:15.861521+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,8,B,ok,,"CHOICE: B
+REASON: Ensuring every member country has an equal chance at the presidency respects the sovereign equality of all nations within an international organization.",2026-07-03T19:45:21.611568+00:00
+glm-5.2,xhigh,DIL_05_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,9,B,ok,,"CHOICE: B
+REASON: Equal opportunity to lead reflects the sovereign equality of member states that is foundational to international organizations.",2026-07-03T19:45:29.687413+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,0,6,ok,,"SCORE: 6
+REASON: Allocating parts based on assessed acting ability aligns rewards with merit and improves overall production quality.",2026-07-03T19:45:33.659099+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,1,6,ok,,"SCORE: 6
+REASON: Allocating roles based on assessed acting ability aligns with the equity principle, rewarding members proportionally to their demonstrated talent and contribution to the production's quality.",2026-07-03T19:45:38.655508+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,2,6,ok,,"SCORE: 6
+REASON: Allocating parts based on acting ability ensures the highest quality productions and rewards merit.",2026-07-03T19:45:43.654475+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,3,6,ok,,"SCORE: 6
+REASON: Allocating roles based on assessed acting ability aligns with the equity principle by rewarding individual merit and skill.",2026-07-03T19:45:49.055386+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,4,6,ok,,"SCORE: 6
+REASON: Allocating parts based on assessed acting ability aligns rewards with merit, which is a fair and sensible approach for improving theatrical productions.",2026-07-03T19:45:53.870644+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,5,7,ok,,"SCORE: 7
+REASON: Allocating roles based on acting ability aligns with the equity principle, ensuring the best theatrical outcomes and rewarding merit.",2026-07-03T19:45:59.896917+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,6,6,ok,,"SCORE: 6
+REASON: Allocating roles based on assessed acting ability introduces transparent, merit-based criteria that aligns rewards with relevant contributions to the production's quality.",2026-07-03T19:46:07.849718+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,7,6,ok,,"SCORE: 6
+REASON: Allocating parts based on assessed acting ability aligns with merit-based fairness and would improve the quality of productions while making the selection process transparent.",2026-07-03T19:46:14.199348+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,8,6,ok,,"SCORE: 6
+REASON: Allocating parts based on assessed acting ability rewards merit and improves production quality, which is a sensible approach for a community theater.",2026-07-03T19:46:20.425729+00:00
+glm-5.2,xhigh,DIL_06_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,9,7,ok,,"SCORE: 7
+REASON: Awarding roles based on assessed acting ability is a fair, merit-based approach that recognizes talent and improves the quality of the productions.",2026-07-03T19:46:26.776074+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,0,2,ok,,"SCORE: 2
+REASON: Equal stage time regardless of talent or effort would undermine production quality and fail to reward members who contribute more to the theater.",2026-07-03T19:46:33.420189+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,1,5,ok,,"SCORE: 5
+REASON: Equal stage time fosters a sense of fairness and inclusion in an amateur community theater setting.",2026-07-03T19:46:41.870877+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,2,4,ok,,"SCORE: 4
+REASON: Equal stage time promotes fairness and participation in a community setting, though it may conflict with casting based on talent.",2026-07-03T19:46:54.457644+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,3,3,ok,,"SCORE: 3
+REASON: Equal stage time ignores differences in talent, effort, and fit for specific roles, which matters in theater even at the community level.",2026-07-03T19:47:00.302136+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,4,3,ok,,"SCORE: 3
+REASON: Equal stage time ignores acting talent and would likely reduce the overall quality of the theatrical productions.",2026-07-03T19:47:09.099487+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,5,2,ok,,"SCORE: 2
+REASON: Equal stage time ignores differences in talent, effort, and suitability for roles, which would likely undermine the quality of the productions.",2026-07-03T19:47:15.005764+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,6,4,ok,,"SCORE: 4
+REASON: Equal stage time ensures fairness and participation, though it might compromise the overall artistic quality of the productions.",2026-07-03T19:47:23.101559+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,7,4,ok,,"SCORE: 4
+REASON: Equal stage time aligns with fairness in a community setting where all members contribute equally, but it ignores differences in talent, effort, and suitability for specific roles.",2026-07-03T19:47:33.366890+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,8,4,ok,,"SCORE: 4
+REASON: Equal stage time ensures fairness and encourages broad community participation.",2026-07-03T19:47:39.930043+00:00
+glm-5.2,xhigh,DIL_06_equality_escala,B_dilema,escala,igualdad,oportunidad,9,4,ok,,"SCORE: 4
+REASON: Equal stage time has some appeal in a community setting where all members contribute similarly, but it could undermine production quality by ignoring talent and suitability for specific roles.",2026-07-03T19:47:46.774762+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,0,5,ok,,"SCORE: 5
+REASON: Allocating roles based on individual need is a recognized principle of distributive justice that supports career development without imposing extra costs.",2026-07-03T19:47:59.644633+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,1,2,ok,,"SCORE: 2
+REASON: Allocating acting roles based on career need rather than talent or suitability for the part undermines the quality of the production and fairness to other members.",2026-07-03T19:48:14.797537+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,2,2,ok,,"SCORE: 2
+REASON: Allocating community theater roles based on individual career needs is undesirable because it undermines the community spirit and fails to reward talent or effort.",2026-07-03T19:48:23.821288+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,3,3,ok,,"SCORE: 3
+REASON: Allocating roles based on need may help aspiring actors, but community theater should also consider talent and equal opportunity rather than prioritizing career needs alone.",2026-07-03T19:48:31.688396+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,4,4,ok,,"SCORE: 4
+REASON: Allocating roles based on need supports individual career growth, but it might compromise the overall quality of the theatrical production if talent and fit are ignored.",2026-07-03T19:48:38.113422+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,5,3,ok,,"SCORE: 3
+REASON: While need is a valid consideration in distributive justice, allocating theater roles based on career needs rather than talent or equal opportunity seems poorly suited to a community theater context.",2026-07-03T19:48:46.644403+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,6,3,ok,,"SCORE: 3
+REASON: Allocating parts based on career need rather than talent or effort could reduce the quality of the plays and seem unfair to other members.",2026-07-03T19:49:01.694642+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,7,2,ok,,"SCORE: 2
+REASON: Allocating roles based on need rather than talent would likely hurt the quality of the plays and seem unfair to more skilled actors.",2026-07-03T19:49:09.946155+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,8,2,ok,,"SCORE: 2
+REASON: Allocating roles based on need rather than acting ability could lower the overall quality of the production.",2026-07-03T19:49:18.294455+00:00
+glm-5.2,xhigh,DIL_06_need_escala,B_dilema,escala,necesidad,control_necesidad,9,3,ok,,"SCORE: 3
+REASON: Allocating roles based on career need rather than talent or equal opportunity may undermine the quality of the production and the spirit of community theater.",2026-07-03T19:49:30.783638+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,0,B,ok,,"CHOICE: B
+REASON: Allocating roles based on acting ability rewards merit and ensures higher quality productions for the community audience.",2026-07-03T19:49:37.362228+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,1,B,ok,,"CHOICE: B
+REASON: Allocating roles based on acting ability rewards talent and effort, which typically results in a higher quality production for the audience to enjoy.",2026-07-03T19:49:46.544869+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,2,B,ok,,"CHOICE: B
+REASON: Allocating parts based on acting ability rewards merit and ensures the highest quality production for the audience.",2026-07-03T19:49:56.460945+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,3,B,ok,,"CHOICE: B
+REASON: Allocating roles based on acting ability rewards merit and ensures the highest quality performances for the audience.",2026-07-03T19:50:06.546883+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,4,B,ok,,"CHOICE: B
+REASON: Awarding parts based on acting ability ensures the theater produces the best possible shows for the community.",2026-07-03T19:50:17.079550+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,5,B,ok,,"CHOICE: B
+REASON: Awarding parts based on acting ability is fairer because it recognizes merit and ensures the best productions for the community audience.",2026-07-03T19:50:25.438228+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,6,A,ok,,"CHOICE: A
+REASON: Since all members contribute equally through dues, promotion, and ticket sales, equal access to stage time reflects their equal participation in the community theater.",2026-07-03T19:50:34.682112+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,7,B,ok,,"CHOICE: B
+REASON: Allocating roles based on acting ability ensures the highest quality productions while rewarding members for their skills and effort.",2026-07-03T19:50:42.201149+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,8,B,ok,,"CHOICE: B
+REASON: Allocating parts based on acting ability ensures that the quality of the productions is maintained and rewards individuals for their specific skills and efforts.",2026-07-03T19:50:54.403343+00:00
+glm-5.2,xhigh,DIL_06_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,9,B,ok,,"CHOICE: B
+REASON: Allocating parts based on acting ability ensures that roles are distributed according to merit and skill, which improves the quality of the productions.",2026-07-03T19:51:01.779019+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,0,5,ok,,"SCORE: 5
+REASON: Allocating hosting rights based on quantifiable ability to successfully host the event aligns with merit-based principles of distributive justice, though it may advantage countries that already have superior infrastructure.",2026-07-03T19:51:09.362215+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,1,5,ok,,"SCORE: 5
+REASON: Using objective, quantifiable criteria based on hosting ability introduces transparency and merit, though it may advantage wealthier nations with better existing infrastructure.",2026-07-03T19:51:19.998171+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,2,4,ok,,"SCORE: 4
+REASON: Allocating hosting based on ability ensures event success, but may perpetuate advantage for already well-resourced countries and exclude developing nations from economic benefits.",2026-07-03T19:51:30.186024+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,3,6,ok,,"SCORE: 6
+REASON: Allocating hosting rights based on objectively quantified ability to host ensures the event's success and aligns rewards with merit, though it may disadvantage developing nations seeking economic boosts.",2026-07-03T19:51:38.715506+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,4,6,ok,,"SCORE: 6
+REASON: Allocating the hosting rights based on quantifiable ability ensures the event's success and rewards countries with the necessary infrastructure.",2026-07-03T19:51:46.551451+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,5,4,ok,,"SCORE: 4
+REASON: Rewarding countries based on their demonstrated ability to host successfully is reasonable, but it risks entrenching advantages for already well-resourced nations.",2026-07-03T19:51:52.241443+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,6,5,ok,,"SCORE: 5
+REASON: Basing host selection on quantifiable ability to host introduces transparency and merit-based fairness, though it may disadvantage countries needing development opportunities.",2026-07-03T19:51:58.373746+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,7,5,ok,,"SCORE: 5
+REASON: Allocating the event based on quantifiable ability ensures the best possible outcome for the sporting event and its participants.",2026-07-03T19:52:04.383180+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,8,5,ok,,"SCORE: 5
+REASON: Allocating hosting rights based on quantified ability to host ensures event success and efficiency, though it may disadvantage countries that could benefit from the economic boost but lack existing infrastructure.",2026-07-03T19:52:12.558389+00:00
+glm-5.2,xhigh,DIL_07_equity_escala,B_dilema,escala,proporcionalidad,oportunidad,9,5,ok,,"SCORE: 5
+REASON: Allocating hosting based on quantified ability to ensure event success is a reasonable merit-based approach, though it may disadvantage developing nations.",2026-07-03T19:52:18.974208+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,0,6,ok,,"SCORE: 6
+REASON: Equal rotation ensures fairness by giving every country the same opportunity to benefit economically from hosting the event.",2026-07-03T19:52:26.508487+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,1,7,ok,,"SCORE: 7
+REASON: Rotating host countries ensures equal opportunity for all members at no cost, making it a highly fair and desirable solution.",2026-07-03T19:52:32.257599+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,2,7,ok,,"SCORE: 7
+REASON: Rotating the host country equally ensures fairness and equal opportunity for all member countries without imposing any additional costs.",2026-07-03T19:52:36.568787+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,3,7,ok,,"SCORE: 7
+REASON: Ensuring every country gets an equal opportunity to host the event promotes fundamental fairness in distributive justice.",2026-07-03T19:52:40.761018+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,4,6,ok,,"SCORE: 6
+REASON: Equal rotation ensures a fair and transparent opportunity for all member countries to host the event.",2026-07-03T19:52:48.949513+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,5,6,ok,,"SCORE: 6
+REASON: Giving every country an equal opportunity to host promotes fairness and transparency without incurring additional costs.",2026-07-03T19:52:58.169949+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,6,7,ok,,"SCORE: 7
+REASON: Equal opportunity to host the event is a fair and straightforward principle, and since the change incurs no cost, it is highly desirable.",2026-07-03T19:53:03.266423+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,7,7,ok,,"SCORE: 7
+REASON: Rotating host countries ensures equal opportunity for all members to benefit economically, which is highly desirable when it incurs no additional costs.",2026-07-03T19:53:07.650312+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,8,7,ok,,"SCORE: 7
+REASON: Equal rotation ensures fairness by giving every country an equal opportunity to host the event at no additional cost.",2026-07-03T19:53:12.319469+00:00
+glm-5.2,xhigh,DIL_07_equality_escala,B_dilema,escala,igualdad,oportunidad,9,7,ok,,"SCORE: 7
+REASON: Rotating host countries ensures equal opportunity and fairness without imposing additional costs.",2026-07-03T19:53:17.352303+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,0,6,ok,,"SCORE: 6
+REASON: Allocating the event based on economic need is a highly desirable way to distribute the benefits of hosting, especially since it incurs no additional costs.",2026-07-03T19:53:22.163141+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,1,6,ok,,"SCORE: 6
+REASON: Allocating the event based on economic need is a fair way to distribute benefits to countries that require it most.",2026-07-03T19:53:26.921387+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,2,7,ok,,"SCORE: 7
+REASON: Allocating the event based on economic need without any financial drawbacks is a fair and highly desirable application of the needs principle.",2026-07-03T19:53:34.791887+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,3,6,ok,,"SCORE: 6
+REASON: Allocating the event based on economic need is a fair way to support struggling countries without imposing additional costs.",2026-07-03T19:53:41.236037+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,4,7,ok,,"SCORE: 7
+REASON: Allocating the hosting rights based on economic need is a fair way to distribute the benefits when there are no additional costs.",2026-07-03T19:53:47.353293+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,5,6,ok,,"SCORE: 6
+REASON: Allocating the hosting rights based on economic need is a fair way to distribute benefits.",2026-07-03T19:53:54.492367+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,6,6,ok,,"SCORE: 6
+REASON: Prioritizing countries based on their economic need promotes a fairer distribution of resources and opportunities.",2026-07-03T19:54:00.034373+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,7,7,ok,,"SCORE: 7
+REASON: Allocating the event based on economic need fairly distributes benefits to struggling countries without any added costs.",2026-07-03T19:54:09.471126+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,8,6,ok,,"SCORE: 6
+REASON: Prioritizing countries based on their economic need is a fair and cost-effective way to distribute the benefits of hosting the event.",2026-07-03T19:54:15.985386+00:00
+glm-5.2,xhigh,DIL_07_need_escala,B_dilema,escala,necesidad,control_necesidad,9,6,ok,,"SCORE: 6
+REASON: Prioritizing countries based on economic need is a fair and costless way to maximize the positive impact of hosting the event.",2026-07-03T19:54:24.936659+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,0,B,ok,,"CHOICE: B
+REASON: Equal opportunity ensures that all member countries benefit fairly from hosting the event, regardless of inherent advantages in infrastructure.",2026-07-03T19:54:33.091970+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,1,B,ok,,"CHOICE: B
+REASON: Since all member countries contribute to promoting the event, giving each country an equal opportunity to host ensures a fair distribution of the economic benefits rather than privileging countries that already possess superior infrastructure.",2026-07-03T19:54:49.846081+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,2,B,ok,,"CHOICE: B
+REASON: Giving every country an equal opportunity to host ensures fairness and prevents bias toward countries with already superior infrastructure.",2026-07-03T19:54:56.650366+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,3,B,ok,,"CHOICE: B
+REASON: All member countries contribute to promoting the event, so they should all have an equal opportunity to reap the economic benefits of hosting it.",2026-07-03T19:55:01.065153+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,4,B,ok,,"CHOICE: B
+REASON: Giving all member countries an equal opportunity to host the event ensures fairness and prevents bias toward wealthier nations with pre-existing infrastructure.",2026-07-03T19:55:08.780153+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,5,B,ok,,"CHOICE: B
+REASON: Giving all member countries an equal opportunity to host the event promotes fairness and prevents wealthier nations from monopolizing the economic benefits.",2026-07-03T19:55:20.601606+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,6,B,ok,,"CHOICE: B
+REASON: Equal opportunity to host the event ensures all member countries benefit fairly, rather than privileging those already advantaged by better infrastructure.",2026-07-03T19:55:25.449327+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,7,B,ok,,"CHOICE: B
+REASON: Equal opportunity ensures every member country benefits fairly from hosting the event they all promote.",2026-07-03T19:55:31.054182+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,8,B,ok,,"CHOICE: B
+REASON: Giving every country an equal opportunity to host the event ensures fairness and equal treatment among all member nations.",2026-07-03T19:55:36.639985+00:00
+glm-5.2,xhigh,DIL_07_binario,B_dilema,binario,igualdad_vs_proporcionalidad,oportunidad,9,B,ok,,"CHOICE: B
+REASON: Rotating host countries ensures that every member nation has an equal opportunity to benefit economically from the event.",2026-07-03T19:55:46.056222+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,0,1,ok,,"CHOICE: 1
+REASON: Rewarding quality of work incentivizes excellence and ensures that compensation reflects the value each person contributes.",2026-07-03T19:55:50.550430+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,1,1,ok,,"CHOICE: 1
+REASON: Paying based on quality of work rewards excellence and incentivizes people to produce their best output.",2026-07-03T19:55:57.257100+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,2,1,ok,,"CHOICE: 1
+REASON: Paying based on quality of work rewards excellence and incentivizes people to produce their best effort.",2026-07-03T19:56:00.812857+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,3,3,ok,,"CHOICE: 3
+REASON: Tying pay to the amount of work completed provides a clear, objective, and fair basis for compensation that directly reflects each person's contribution.",2026-07-03T19:56:06.588317+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,4,1,ok,,"CHOICE: 1
+REASON: Rewarding quality of work incentivizes excellence and ensures that compensation reflects the value each person contributes.",2026-07-03T19:56:10.316007+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,5,1,ok,,"CHOICE: 1
+REASON: Rewarding quality of work incentivizes excellence and ensures that compensation reflects the value each person contributes.",2026-07-03T19:56:20.414186+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,6,1,ok,,"CHOICE: 1
+REASON: Paying based on quality of work rewards excellence and incentivizes people to produce their best possible output.",2026-07-03T19:56:25.394314+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,7,1,ok,,"CHOICE: 1
+REASON: Paying based on quality of work rewards excellence and incentivizes people to produce their best effort.",2026-07-03T19:56:29.940461+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,8,1,ok,,"CHOICE: 1
+REASON: Paying based on quality of work rewards excellence and incentivizes people to produce their best effort.",2026-07-03T19:56:34.473092+00:00
+glm-5.2,xhigh,REGLA_menu,C_regla_conductual,menu,eleccion_de_regla,conductual,9,1,ok,,"CHOICE: 1
+REASON: Rewarding quality of work incentivizes excellence and ensures that compensation reflects the value each person contributes.",2026-07-03T19:56:38.829299+00:00

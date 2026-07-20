@@ -1,0 +1,7 @@
+caso,IC2.5,mediana,IC97.5,US_sig_mayor
+GLM inglés,0.417,0.465,0.511,sí
+GLM chino,0.406,0.463,0.512,sí
+Opus inglés,0.439,0.467,0.494,sí
+Opus chino,0.475,0.532,0.576,sí
+DeepSeek inglés,0.326,0.385,0.437,sí
+DeepSeek chino,0.237,0.291,0.347,sí

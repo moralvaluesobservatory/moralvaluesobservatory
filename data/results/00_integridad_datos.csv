@@ -1,0 +1,14 @@
+dataset,filas,ok,pct_ok
+Ola1 Opus (4 vers),5760,5760,100.0
+Ola1 GPT,2880,2880,100.0
+Ola1 DeepSeek,2880,2794,97.0
+Ola1 GLM,1440,1400,97.2
+Ola1 Fable,1440,1440,100.0
+Ola2 Opus,2600,2600,100.0
+Ola2 DeepSeek,1300,1299,99.9
+Ola2 GPT,1300,1300,100.0
+Ola2 GLM,650,641,98.6
+Ola2 Fable,650,650,100.0
+Chino GLM,360,359,99.7
+Chino Opus,360,360,100.0
+Chino DeepSeek,360,360,100.0

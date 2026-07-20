@@ -1,0 +1,120 @@
+modelo,modo,item_id,formato,repeticion,valor,principio_elegido,estado_parseo,error,respuesta_cruda,timestamp
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,0,2.0,igualdad,ok,,"CHOICE: 2  
+REASON: Equal shares respect each employee's equal worth and avoid bias in measuring contribution or need.",2026-06-30T19:42:06.619413+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,1,1.0,merito,ok,,"CHOICE: 1
+REASON: This rule incentivizes effort and productivity, which is fair in a work context where rewards align with contribution.",2026-06-30T19:42:08.282488+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,2,1.0,merito,ok,,"CHOICE: 1
+REASON: Contribution-based distribution rewards individual merit and aligns with the principle of fairness as proportionality to effort and impact in a company setting.",2026-06-30T19:42:09.817827+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,3,1.0,merito,ok,,"CHOICE: 1
+REASON: In a company context, tying rewards to contribution aligns with fairness by incentivizing effort and recognizing individual impact on success.",2026-06-30T19:42:11.790505+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,4,2.0,igualdad,ok,,"CHOICE: 2
+REASON: An equal division treats each employee with the same respect and avoids subjective judgments about contribution or need.",2026-06-30T19:42:13.251355+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,5,1.0,merito,ok,,"CHOICE: 1
+REASON: Rewarding contribution aligns with fairness by linking compensation to effort and impact on company success.",2026-06-30T19:42:14.781054+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,6,1.0,merito,ok,,"CHOICE: 1
+REASON: In a company context, rewarding contribution aligns with fairness as it respects differences in effort and outcome.",2026-06-30T19:42:16.452221+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,7,2.0,igualdad,ok,,"CHOICE: 2
+REASON: The bonus pool is set aside for employees equally, and equal division ensures no one is unfairly favored over another.",2026-06-30T19:42:18.199412+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,8,2.0,igualdad,ok,,"CHOICE: 2
+REASON: Equal distribution respects the equal moral worth of each employee as a member of the company.",2026-06-30T19:42:19.898951+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_01_bonos,menu3,9,1.0,merito,ok,,"CHOICE: 1
+REASON: Employees are incentivized and rewarded for their direct impact on the company's success, which aligns effort with outcome.",2026-06-30T19:42:21.515153+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,0,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Need-based distribution addresses the most urgent suffering, which is the core mission of a charitable foundation.",2026-06-30T19:42:23.144413+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,1,1.0,igualdad,ok,,"CHOICE: 1
+REASON: Equal distribution treats all charities with impartiality and avoids subjective judgments about need or outcomes.",2026-06-30T19:42:26.542032+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,2,2.0,necesidad,ok,,"CHOICE: 2
+REASON: In a charitable context, fairness prioritizes helping those in greatest need.",2026-06-30T19:42:28.809712+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,3,1.0,igualdad,ok,,"CHOICE: 1
+REASON: Equal treatment respects the equal moral worth of every charity's mission without imposing subjective judgments about need or effectiveness.",2026-06-30T19:42:30.114101+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,4,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Need-based distribution prioritizes those in the most desperate circumstances, aligning with fairness as addressing urgent suffering.",2026-06-30T19:42:31.849447+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,5,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Need-based distribution prioritizes helping those in the most desperate circumstances, which is the most morally urgent and fair application of charitable funds.",2026-06-30T19:42:33.223034+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,6,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need prioritizes the most urgent suffering and aligns with fairness as addressing the greatest hardship.",2026-06-30T19:42:34.906780+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,7,1.0,igualdad,ok,,"CHOICE: 1
+REASON: Equal distribution treats all charities with equal moral worth and avoids subjective judgments about need or effectiveness.",2026-06-30T19:42:36.417070+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,8,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Need-based distribution prioritizes the most vulnerable, reflecting a fundamental equity principle.",2026-06-30T19:42:37.965360+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_03_fondos,menu3,9,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Need-based distribution prioritizes addressing the most urgent suffering, which is the fairest when total funds are fixed.",2026-06-30T19:42:39.177150+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,0,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures each country receives a fair chance over time, avoiding bias from subjective judgments of need or capability.",2026-06-30T19:42:40.535866+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,1,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures that all countries have the same chance to benefit without bias or coercion.",2026-06-30T19:42:41.804209+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,2,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation gives every member country a fair chance at the economic benefits without bias.",2026-06-30T19:42:43.166441+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,3,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation respects all member countries equally without favoring need or capability.",2026-06-30T19:42:44.655490+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,4,1.0,necesidad,ok,,"CHOICE: 1
+REASON: Fairness requires prioritizing support for those who need it most, ensuring the economic boost goes where it will make the biggest difference.",2026-06-30T19:42:46.571638+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,5,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Rotating the host equally ensures fairness by giving every member country the same opportunity over time, without bias or favoritism.",2026-06-30T19:42:48.256139+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,6,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures no country is unfairly favored or disadvantaged over time.",2026-06-30T19:42:49.667039+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,7,1.0,necesidad,ok,,"CHOICE: 1
+REASON: Distributing the economic boost to the country most in need is fairest because it addresses the greatest disparity.",2026-06-30T19:42:50.979091+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,8,1.0,necesidad,ok,,"CHOICE: 1
+REASON: It addresses economic inequality by directing benefits to those who need them most.",2026-06-30T19:42:52.574553+00:00
+deepseek-v4-pro,non_thinking,DIL3OP_07_sede,menu3,9,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation treats all member countries with impartiality and avoids bias or subjective judgments about need or capability.",2026-06-30T19:42:53.948484+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,0,1.0,merito,ok,,"CHOICE: 1
+REASON: Contribution-based pay aligns rewards with effort and results, which is typically seen as fair in a workplace setting.",2026-06-30T19:42:57.395510+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,1,1.0,merito,ok,,"CHOICE: 1
+REASON: Rewarding contribution aligns with the principle of equity, where individuals receive proportional returns for their efforts and impact on company success.",2026-06-30T19:43:01.328441+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,2,1.0,merito,ok,,"CHOICE: 1
+REASON: It aligns rewards with individual effort and value generated for the company.",2026-06-30T19:43:05.721913+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,3,1.0,merito,ok,,"CHOICE: 1
+REASON: In a professional context, rewarding contributions aligns with effort and merit, which is widely seen as fair.",2026-06-30T19:43:08.747117+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,4,1.0,merito,ok,,"CHOICE: 1
+REASON: It rewards employees based on their contributions, which aligns with meritocratic fairness in a workplace setting.",2026-06-30T19:43:13.322065+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,5,1.0,merito,ok,,"CHOICE: 1
+REASON: Rewarding contribution aligns incentives with company success and respects individual effort.",2026-06-30T19:43:16.706989+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,6,1.0,merito,ok,,"CHOICE: 1
+REASON: It rewards employees proportionally to their impact on the company's success, which aligns with principles of equity and merit.",2026-06-30T19:43:20.575848+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,7,1.0,merito,ok,,"CHOICE: 1
+REASON: Rewarding contribution aligns with merit and incentivizes productivity, which is widely seen as fair in workplace settings.",2026-06-30T19:43:23.687644+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,8,1.0,merito,ok,,"CHOICE: 1
+REASON: Rewarding contribution aligns with meritocratic principles and incentivizes productivity.",2026-06-30T19:43:27.161969+00:00
+deepseek-v4-pro,thinking,DIL3OP_01_bonos,menu3,9,1.0,merito,ok,,"CHOICE: 1
+REASON: It rewards individual effort and value directly, which aligns with common principles of workplace fairness.",2026-06-30T19:43:30.070019+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,0,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Prioritizing those in greatest need addresses the most severe disparities, which aligns with a common principle of distributive justice.",2026-06-30T19:43:34.242403+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,1,2.0,necesidad,ok,,"CHOICE: 2
+REASON: It prioritizes helping those in the most desperate circumstances, which aligns with the principle of fairness as addressing greatest need.",2026-06-30T19:43:39.966676+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,2,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need ensures that resources go to those in the most desperate circumstances, aligning with the principle of fairness as addressing urgent suffering.",2026-06-30T19:43:45.172335+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,3,2.0,necesidad,ok,,"CHOICE: 2
+REASON: It prioritizes helping those in the most desperate circumstances, which aligns with ethical principles of fairness.",2026-06-30T19:43:48.222892+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,4,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need ensures that the most desperate beneficiaries receive support, which aligns with humanitarian fairness.",2026-06-30T19:43:51.914941+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,5,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need prioritizes the most desperate circumstances, aligning with fairness as impartial concern for the worst-off.",2026-06-30T19:43:56.105851+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,6,2.0,necesidad,ok,,"CHOICE: 2
+REASON: It ensures resources go to those who need them most.",2026-06-30T19:43:59.747869+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,7,2.0,necesidad,ok,,"CHOICE: 2
+REASON: It prioritizes the most disadvantaged, which aligns with the principle of fairness as addressing the greatest need.",2026-06-30T19:44:03.863276+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,8,2.0,necesidad,ok,,"CHOICE: 2
+REASON: It prioritizes those in most desperate circumstances, which is a core principle of fairness in resource distribution.",2026-06-30T19:44:06.610247+00:00
+deepseek-v4-pro,thinking,DIL3OP_03_fondos,menu3,9,2.0,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need ensures resources go to those in the most desperate circumstances, aligning with the core purpose of charitable aid.",2026-06-30T19:44:09.826848+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,0,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures no country is favored and all have the same chance over time.",2026-06-30T19:44:14.518998+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,1,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures all member countries have the same opportunity to benefit, regardless of their economic status or infrastructure.",2026-06-30T19:44:18.837361+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,2,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation gives each country an equal opportunity to benefit from the economic boost over time.",2026-06-30T19:44:22.355803+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,3,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures that every country has an equal opportunity to receive the economic benefit over time.",2026-06-30T19:44:26.944299+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,4,1.0,necesidad,ok,,"CHOICE: 1
+REASON: Distributing the boost to the country most in need reduces economic inequality and benefits those who need it most.",2026-06-30T19:44:31.884512+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,5,,,sin_numero,,,2026-06-30T19:44:39.632871+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,6,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation treats all member countries impartially, avoiding bias from subjective assessments of need or capability.",2026-06-30T19:44:44.094414+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,7,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures that no country is unfairly favored or disadvantaged over time.",2026-06-30T19:44:47.741140+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,8,1.0,necesidad,ok,,"CHOICE: 1
+REASON: Need-based distribution addresses economic disparities and helps those who benefit most from the boost, aligning with fairness as equity.",2026-06-30T19:44:51.323020+00:00
+deepseek-v4-pro,thinking,DIL3OP_07_sede,menu3,9,3.0,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures all member countries have the same opportunity to benefit over time, treating each fairly regardless of need or capability.",2026-06-30T19:44:57.015245+00:00

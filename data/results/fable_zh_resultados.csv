@@ -1,0 +1,9 @@
+metrica,valor,IC2.5,IC97.5,expectativa_prereg,cumplida
+proyeccion_eje_discriminante_6f,0.96,0.953,0.966,"E1: IC>0, en rango",si
+proyeccion_sin_care_5f,0.944,0.932,0.954,E2: IC>0,si
+similitud_fable_deepseek_zh,0.914,,,E3: >=0.95,NO
+tasa_no_aplica_ia_pct,0.0,,,E4: registrar,registrada
+autosimilitud_en_zh,0.985,,,,
+rUS_menos_rCN_zh,0.479,,,,
+rUS_zh,0.877,,,,
+rCN_zh,0.398,,,,

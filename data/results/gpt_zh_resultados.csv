@@ -1,0 +1,8 @@
+metrica,valor,IC2.5,IC97.5,expectativa_prereg,cumplida
+proyeccion_eje_discriminante_6f,0.937,0.921,0.951,"E1: IC>0, en rango",si
+proyeccion_sin_care_5f,0.977,0.964,0.987,E2: IC>0,si
+tasa_no_aplica_ia_pct,0.6,,,E4: <2%,si
+autosimilitud_en_zh,0.967,,,(rango publicado 0.94-0.97),consistente
+rUS_menos_rCN_zh,0.504,,,(informativo),
+rUS_zh,0.806,,,,
+rCN_zh,0.302,,,,
