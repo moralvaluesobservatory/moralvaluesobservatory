@@ -574,7 +574,7 @@
 
     <div class="qblock">
       <h3>How can this be verified?</h3>
-      <p>The raw data and the analysis code <a href="https://drive.google.com/file/d/1c5NoH0JKTNiFhQqYI-mcKJn8cP3gYh7H/view?usp=sharing" target="_blank" rel="noopener">are published</a>. Running it reproduces every figure on this page.</p>
+      <p>The raw data and the analysis code <a href="https://github.com/moralvaluesobservatory/moralvaluesobservatory" target="_blank" rel="noopener">are published</a>. Running it reproduces every figure on this page.</p>
       <p><b>And because we withdraw results that do not hold up under analysis.</b> Two of our first headline findings did not survive review: we withdrew them and documented why.</p>
       <p class="cap"><a href="#confianza">How we audit ourselves &rarr;</a></p>
     </div>
@@ -807,8 +807,8 @@
     </div>
 
     <div class="next-grid">
-      <div class="next-item" style="grid-column:1 / -1;background:#EEF3F1">
-        <div class="next-tag">next direction &middot; crosses both</div>
+      <div class="next-item">
+        <div class="next-tag">crosses both branches</div>
         <h4>Do models match the values their own labs wrote down?</h4>
         <p>Frontier labs now publish behavioural specifications (Anthropic's constitution, OpenAI's Model Spec) that imply moral priorities: how much user autonomy weighs against caution, honesty against warmth. Current audits check whether a model <i>breaks</i> a written rule under pressure. None check whether its overall moral profile <i>matches</i> the one its spec prescribes. We can, by turning each spec into an expected profile and measuring three gaps: spec versus what a model states, the state-versus-choose gap we already found, and the one nobody measures, spec versus what a model actually chooses. A model that behaves differently from what its own lab documented is a governance gap you can put a number on. Labs without a public spec (currently, Gemini) become a natural comparison.</p>
       </div>
@@ -825,6 +825,11 @@
         <div class="next-tag">against a single contrast</div>
         <h4>Add languages, populations and validated tests</h4>
         <p>We will add more languages and more human reference populations, so the resemblance does not rest on a single US&ndash;China contrast, and bring in other instruments beyond the MFQ. The constraint here is strict: to keep the human anchor, any new test must be one that real populations have already taken.</p>
+      </div>
+      <div class="next-item">
+        <div class="next-tag">a sharper reference</div>
+        <h4>Compare against value groups, not just countries</h4>
+        <p>A national population is a noisy reference: it averages people who disagree, so the resulting profile belongs to no one in particular. A cleaner question is whether a model resembles the moral profile of a coherent value group (say, social democrats) more than another (say, traditionalists). Others already measure models against US political camps; what would be ours is doing it across cultures, so the reference is a value stance in context, not a single country's left and right. It is the most politically charged direction on this list, which is exactly why the method has to stay independent and reproducible.</p>
       </div>
 
       <div class="next-item" style="grid-column:1 / -1;background:transparent;padding:6px 2px 0">
@@ -885,7 +890,7 @@
 
     <div class="find">
       <h3>How to verify it</h3>
-      <p>We publish the raw answers from every model and the analysis code that produces each figure on this page. <b>Running it reproduces the published results.</b> <a href="https://drive.google.com/file/d/1c5NoH0JKTNiFhQqYI-mcKJn8cP3gYh7H/view?usp=sharing" target="_blank" rel="noopener">Download data and code &rarr;</a></p>
+      <p>We publish the raw answers from every model and the analysis code that produces each figure on this page. <b>Running it reproduces the published results.</b> <a href="https://github.com/moralvaluesobservatory/moralvaluesobservatory" target="_blank" rel="noopener">Download data and code &rarr;</a></p>
       <div class="why"><b>Reproduced independently</b>This is not just a claim. An independent reviewer ran the published scripts against the raw files and recovered the figures shown here: the five WEIRD correlations match to three decimals (0.934, 0.984, 0.954, 0.955, 0.971), the stated-versus-chosen correlation reproduces at &minus;0.28, the variance ratio at 7.2, and the usable-answer counts row for row. One number that did not match a working note, a DeepSeek value, was traced to a different reasoning mode and reconciled.</div>
       <p class="cap">15 datasets &middot; between 97% and 100% of answers usable in all of them &middot; the missing ones are scattered gaps, not concentrated in any value or model.</p>
       <div class="why"><b>A check you may be wondering about</b>Some models give a number but state that, being an AI, the question does not apply to them: that number is filler. We redid the three findings without them. Nothing changes: the profile shape matches at 0.99 with and without them.</div>
@@ -957,7 +962,7 @@
       <p class="foot-mission">A public, continuous and reproducible record of the moral values frontier AI models express, compared with human populations.</p>
     </div>
     <div class="foot-links">
-      <a href="https://drive.google.com/file/d/1c5NoH0JKTNiFhQqYI-mcKJn8cP3gYh7H/view?usp=sharing" target="_blank" rel="noopener">Data and code</a>
+      <a href="https://github.com/moralvaluesobservatory/moralvaluesobservatory" target="_blank" rel="noopener">Data and code</a>
       <a href="mailto:contact@moralvaluesobservatory.org">Contact us</a>
       <a href="#confianza">Declared limitations</a>
     </div>
