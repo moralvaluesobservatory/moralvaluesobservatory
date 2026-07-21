@@ -45,6 +45,8 @@
   .masthead .ask{font-family:var(--serif);font-size:1.12rem;color:var(--mute);margin:0 0 20px;max-width:46ch}
   .metarow{display:flex;flex-wrap:wrap;gap:16px;font-family:var(--mono);font-size:12px;color:var(--faint);
       border-top:1px solid var(--hair);padding-top:14px}
+    .plain-summary{max-width:70ch;margin:26px auto 0;padding:18px 22px;background:var(--teal-tint);
+      border-left:3px solid var(--teal-d);border-radius:6px;font-size:16px;line-height:1.65;color:var(--ink)}
 
   section.sixty{padding:38px 0 56px}
   .sixty-label{font-family:var(--mono);font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--mute);margin:0 0 18px}
@@ -177,6 +179,8 @@
   .next-item{background:var(--paper);padding:22px 24px 18px}
   .next-tag{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;
       color:var(--teal-d);margin-bottom:8px}
+    .branch-head{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+      color:var(--teal-d);margin:26px 0 0;padding-left:2px}
   .next-item h4{font-family:var(--serif);font-weight:500;font-size:1.16rem;line-height:1.25;margin:0 0 8px}
   .next-item p{font-size:14px;color:var(--mute);line-height:1.6;margin:0}
 
@@ -278,6 +282,8 @@
       <span>2 countries of origin</span>
     </div>
   </div>
+
+  <p class="plain-summary">We tested some of the most important AI models. Three things stand out. Every model, whether built in the US or in China, ends up with the moral outlook of a Western, educated country, closer to countries like Switzerland than to humanity as a whole. Neither where a model is built nor the language you speak to it in changes this much. And what a model says it values does not predict what it actually chooses when forced to decide, which is the finding we are now testing hardest.</p>
 
   <section class="sixty" id="hallazgos">
     <div class="sixty-label">If you have two minutes</div>
@@ -807,15 +813,15 @@
     </div>
 
     <div class="next-grid">
-      <div class="next-item">
-        <div class="next-tag">crosses both branches</div>
-        <h4>Do models match the values their own labs wrote down?</h4>
-        <p>Frontier labs now publish behavioural specifications (Anthropic's constitution, OpenAI's Model Spec) that imply moral priorities: how much user autonomy weighs against caution, honesty against warmth. Current audits check whether a model <i>breaks</i> a written rule under pressure. None check whether its overall moral profile <i>matches</i> the one its spec prescribes. We can, by turning each spec into an expected profile and measuring three gaps: spec versus what a model states, the state-versus-choose gap we already found, and the one nobody measures, spec versus what a model actually chooses. A model that behaves differently from what its own lab documented is a governance gap you can put a number on. Labs without a public spec (currently, Gemini) become a natural comparison.</p>
+      <div class="next-item" style="grid-column:1 / -1;background:var(--teal-tint)">
+        <div class="next-tag">the priority test</div>
+        <h4>When forced to choose, do models rank need and merit above equality?</h4>
+        <p>Our sharpest finding so far is that what a model states it values does not predict what it picks in a dilemma, but it rests on a single axis (equality against merit) and too few items to lean on. The next step makes it solid. Using validated allocation instruments, where a fixed sum must be divided so that honouring one principle costs the others, we can test a concrete hypothesis: that models, when they cannot satisfy everyone, favour need and merit and leave equality last. If that ordering holds across many items and many models, the state-versus-choose gap stops being one dilemma's quirk and becomes a measured property. Because the instruments carry human data from dozens of countries, the same test doubles as a cross-cultural anchor.</p>
       </div>
+    </div>
 
-      <div class="next-item" style="grid-column:1 / -1;background:transparent;padding:6px 2px 0">
-        <div class="next-tag" style="color:var(--teal-d)">Branch 1 &mdash; what models state &middot; bound to human data</div>
-      </div>
+    <p class="branch-head">Branch 1 &mdash; what models state &middot; bound to human data</p>
+    <div class="next-grid">
       <div class="next-item">
         <div class="next-tag">against contamination</div>
         <h4>Rewrite the items in fresh words</h4>
@@ -831,10 +837,15 @@
         <h4>Compare against value groups, not just countries</h4>
         <p>A national population is a noisy reference: it averages people who disagree, so the resulting profile belongs to no one in particular. A cleaner question is whether a model resembles the moral profile of a coherent value group (say, social democrats) more than another (say, traditionalists). Others already measure models against US political camps; what would be ours is doing it across cultures, so the reference is a value stance in context, not a single country's left and right. It is the most politically charged direction on this list, which is exactly why the method has to stay independent and reproducible.</p>
       </div>
-
-      <div class="next-item" style="grid-column:1 / -1;background:transparent;padding:6px 2px 0">
-        <div class="next-tag" style="color:var(--teal-d)">Branch 2 &mdash; what models choose &middot; free to build our own</div>
+      <div class="next-item">
+        <div class="next-tag">crosses both branches</div>
+        <h4>Do models match the values their own labs wrote down?</h4>
+        <p>Frontier labs now publish behavioural specifications (Anthropic's constitution, OpenAI's Model Spec) that imply moral priorities: how much user autonomy weighs against caution, honesty against warmth. Current audits check whether a model <i>breaks</i> a written rule under pressure. None check whether its overall moral profile <i>matches</i> the one its spec prescribes. We can, by turning each spec into an expected profile and measuring three gaps: spec versus what a model states, the state-versus-choose gap we already found, and the one nobody measures, spec versus what a model actually chooses. Labs without a public spec (currently, Gemini) become a natural comparison.</p>
       </div>
+    </div>
+
+    <p class="branch-head">Branch 2 &mdash; what models choose &middot; free to build our own</p>
+    <div class="next-grid">
       <div class="next-item">
         <div class="next-tag">beyond one axis</div>
         <h4>Build a broader battery of choices</h4>
