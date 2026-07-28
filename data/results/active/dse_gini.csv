@@ -1,0 +1,6 @@
+configuration,situation,generation_rows,vignette_sets,gini_mean,model_ci_lo,model_ci_hi,bootstrap_unit,bootstrap_replicates
+deepseek-v4-pro,trabajo,666,72,0.130631,0.118657,0.143169,vignette_set,10000
+claude-fable-5,trabajo,720,72,0.091204,0.083166,0.099691,vignette_set,10000
+glm-5.2,trabajo,719,72,0.147744,0.134989,0.16132,vignette_set,10000
+gpt-5.5,trabajo,720,72,0.119118,0.106697,0.132195,vignette_set,10000
+claude-opus-4-8,trabajo,719,72,0.074221,0.065418,0.083568,vignette_set,10000

@@ -1,0 +1,73 @@
+label,configuration,variant,rank_within_variant,country_national_mean,profile_correlation,interpretation_limit
+Opus 4.8,opus-4.8,lente_A,1,Ireland,0.939282,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_A,2,Switzerland,0.930571,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_A,3,New Zealand,0.925166,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,canonica,1,Switzerland,0.967264,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,canonica,2,Ireland,0.966844,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,canonica,3,Belgium,0.925316,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_B,1,Ireland,0.952144,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_B,2,Switzerland,0.939589,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_B,3,New Zealand,0.907094,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_C,1,Switzerland,0.96443,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_C,2,Ireland,0.948904,Similarity to a national mean is not evidence of individual or subgroup representation.
+Opus 4.8,opus-4.8,lente_C,3,Belgium,0.903685,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_A,1,Ireland,0.998754,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_A,2,Switzerland,0.9761,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_A,3,New Zealand,0.962376,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,canonica,1,Switzerland,0.84009,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,canonica,2,Ireland,0.832847,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,canonica,3,Belgium,0.720381,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_B,1,Ireland,0.996065,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_B,2,Switzerland,0.980079,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_B,3,Belgium,0.953772,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_C,1,Ireland,0.840115,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_C,2,Switzerland,0.83233,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,lente_C,3,Belgium,0.716247,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_A,1,Ireland,0.988334,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_A,2,Switzerland,0.960415,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_A,3,New Zealand,0.958409,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,canonica,1,Switzerland,0.824971,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,canonica,2,Ireland,0.822088,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,canonica,3,Belgium,0.704007,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_B,1,Ireland,0.996441,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_B,2,Switzerland,0.975636,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_B,3,New Zealand,0.963972,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_C,1,Switzerland,0.842873,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_C,2,Ireland,0.838126,Similarity to a national mean is not evidence of individual or subgroup representation.
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,lente_C,3,Belgium,0.725221,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_A,1,Belgium,0.965405,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_A,2,Ireland,0.951673,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_A,3,Switzerland,0.946217,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,canonica,1,Ireland,0.755507,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,canonica,2,Switzerland,0.746372,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,canonica,3,New Zealand,0.624584,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_B,1,Ireland,0.958108,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_B,2,Belgium,0.942886,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_B,3,Switzerland,0.938624,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_C,1,Ireland,0.755794,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_C,2,Switzerland,0.732242,Similarity to a national mean is not evidence of individual or subgroup representation.
+DeepSeek Reasoner,deepseek-reasoner | thinking,lente_C,3,Belgium,0.624063,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_A,1,Switzerland,0.96975,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_A,2,Ireland,0.966515,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_A,3,Belgium,0.921868,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,canonica,1,Ireland,0.849866,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,canonica,2,Switzerland,0.838492,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,canonica,3,Belgium,0.720796,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_B,1,Ireland,0.950388,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_B,2,Switzerland,0.942263,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_B,3,New Zealand,0.894919,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_C,1,Ireland,0.834061,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_C,2,Switzerland,0.820464,Similarity to a national mean is not evidence of individual or subgroup representation.
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,lente_C,3,Belgium,0.698765,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_A,1,New Zealand,0.967326,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_A,2,Ireland,0.965539,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_A,3,Switzerland,0.953397,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,canonica,1,Switzerland,0.966457,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,canonica,2,Ireland,0.95164,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,canonica,3,Belgium,0.898333,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_B,1,New Zealand,0.967234,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_B,2,Ireland,0.963915,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_B,3,Switzerland,0.95447,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_C,1,Switzerland,0.950446,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_C,2,Ireland,0.945024,Similarity to a national mean is not evidence of individual or subgroup representation.
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,lente_C,3,Belgium,0.868556,Similarity to a national mean is not evidence of individual or subgroup representation.

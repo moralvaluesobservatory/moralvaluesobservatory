@@ -1,0 +1,145 @@
+label,family,configuration,language,variant,foundation,mean_score,z_within_profile,evidence_status
+Opus 4.8,Claude Opus,opus-4.8,English,lente_A,Care,4.35,1.773232,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_A,Equality,2.216667,-0.989125,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_A,Proportionality,3.533333,0.715767,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_A,Loyalty,2.833333,-0.190631,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_A,Authority,2.85,-0.169051,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_A,Purity,2.1,-1.140192,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,canonica,Care,5.9,1.345222,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,canonica,Equality,3.666667,-0.506762,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,canonica,Proportionality,5.65,1.137911,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,canonica,Loyalty,3.85,-0.354733,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,canonica,Authority,4.233333,-0.036855,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,canonica,Purity,2.366667,-1.584782,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_B,Care,6.016667,1.647415,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_B,Equality,3.133333,-0.70798,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_B,Proportionality,5.15,0.939435,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_B,Loyalty,3.433333,-0.46291,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_B,Authority,3.85,-0.122535,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_B,Purity,2.416667,-1.293425,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_C,Care,4.0,1.409444,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_C,Equality,2.683333,-0.4885,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_C,Proportionality,3.816667,1.145173,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_C,Loyalty,2.833333,-0.272279,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_C,Authority,2.833333,-0.272279,exploratory; MFQ collection provenance incomplete
+Opus 4.8,Claude Opus,opus-4.8,English,lente_C,Purity,1.966667,-1.521559,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_A,Care,4.833333,1.445875,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_A,Equality,2.833333,-0.750391,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_A,Proportionality,4.2,0.750391,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_A,Loyalty,3.383333,-0.146418,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_A,Authority,3.816667,0.32944,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_A,Purity,2.033333,-1.628897,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,canonica,Care,6.533333,1.433958,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,canonica,Equality,5.316667,0.383668,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,canonica,Proportionality,5.716667,0.728969,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,canonica,Loyalty,4.3,-0.493972,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,canonica,Authority,4.466667,-0.350097,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,canonica,Purity,2.9,-1.702525,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_B,Care,6.833333,1.453331,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_B,Equality,4.05,-0.657158,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_B,Proportionality,6.0,0.821448,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_B,Loyalty,4.666667,-0.189565,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_B,Authority,5.2,0.21484,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_B,Purity,2.75,-1.642895,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_C,Care,4.866667,1.554782,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_C,Equality,3.783333,0.327323,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_C,Proportionality,4.033333,0.610582,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_C,Loyalty,2.966667,-0.597993,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_C,Authority,3.266667,-0.258081,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,English,lente_C,Purity,2.05,-1.636613,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_A,Care,4.883333,1.51553,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_A,Equality,2.616667,-0.800336,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_A,Proportionality,4.233333,0.851421,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_A,Loyalty,3.05,-0.357597,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_A,Authority,3.65,0.255426,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_A,Purity,1.966667,-1.464444,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,canonica,Care,6.75,1.47532,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,canonica,Equality,5.2,0.36883,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,canonica,Proportionality,5.75,0.761455,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,canonica,Loyalty,3.816667,-0.618682,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,canonica,Authority,4.15,-0.380728,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,canonica,Purity,2.433333,-1.606195,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_B,Care,6.816667,1.487522,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_B,Equality,3.583333,-0.796746,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_B,Proportionality,5.85,0.804596,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_B,Loyalty,4.433333,-0.196243,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_B,Authority,5.066667,0.251191,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_B,Purity,2.516667,-1.55032,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_C,Care,4.95,1.503295,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_C,Equality,3.7,0.268837,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_C,Proportionality,4.25,0.811999,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_C,Loyalty,2.816667,-0.603513,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_C,Authority,3.016667,-0.405999,exploratory; MFQ collection provenance incomplete
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,English,lente_C,Purity,1.833333,-1.574619,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_A,Care,3.533333,0.942639,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_A,Equality,1.892857,-0.830082,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_A,Proportionality,3.944444,1.386891,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_A,Loyalty,2.4,-0.282056,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_A,Authority,2.945455,0.307369,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_A,Purity,1.25,-1.524762,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,canonica,Care,6.433333,1.718167,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,canonica,Equality,5.172414,0.179738,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,canonica,Proportionality,5.633333,0.742099,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,canonica,Loyalty,4.25,-0.945685,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,canonica,Authority,4.54386,-0.587151,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,canonica,Purity,4.117647,-1.107167,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_B,Care,4.864407,1.049986,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_B,Equality,2.72549,-0.598442,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_B,Proportionality,5.137931,1.260786,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_B,Loyalty,2.888889,-0.472514,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_B,Authority,3.981481,0.36953,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_B,Purity,1.413793,-1.609346,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_C,Care,4.733333,1.541673,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_C,Equality,3.810345,0.255876,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_C,Proportionality,4.25,0.868351,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_C,Loyalty,2.807018,-1.141839,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_C,Authority,3.375,-0.350594,exploratory; MFQ collection provenance incomplete
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,English,lente_C,Purity,2.784314,-1.173467,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_A,Care,4.55,1.546565,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_A,Equality,1.844828,-0.719442,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_A,Proportionality,3.9,1.002088,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_A,Loyalty,2.410714,-0.245423,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_A,Authority,2.5,-0.170632,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_A,Purity,1.016667,-1.413157,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,canonica,Care,6.116667,1.76364,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,canonica,Equality,4.616667,0.101922,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,canonica,Proportionality,5.016949,0.54536,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,canonica,Loyalty,3.966667,-0.618156,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,canonica,Authority,4.206897,-0.352027,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,canonica,Purity,3.224138,-1.440739,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_B,Care,6.483333,1.560529,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_B,Equality,2.525424,-0.615942,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_B,Proportionality,5.542373,1.043091,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_B,Loyalty,2.745763,-0.494777,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_B,Authority,3.392857,-0.138937,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_B,Purity,1.183333,-1.353964,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_C,Care,4.5,1.762344,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_C,Equality,3.464286,0.176929,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_C,Proportionality,3.672414,0.49552,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_C,Loyalty,2.925926,-0.647162,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_C,Authority,3.122807,-0.345788,exploratory; MFQ collection provenance incomplete
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,English,lente_C,Purity,2.40678,-1.441843,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_A,Care,4.683333,1.518604,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_A,Equality,1.933333,-1.100591,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_A,Proportionality,4.1,0.963017,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_A,Loyalty,2.866667,-0.211652,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_A,Authority,3.15,0.058204,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_A,Purity,1.8,-1.227582,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,canonica,Care,6.0,1.394765,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,canonica,Equality,3.883333,-0.330577,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,canonica,Proportionality,5.566667,1.041545,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,canonica,Loyalty,4.016667,-0.221894,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,canonica,Authority,4.016667,-0.221894,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,canonica,Purity,2.25,-1.661944,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_B,Care,6.283333,1.556556,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_B,Equality,2.633333,-1.124066,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_B,Proportionality,5.383333,0.895581,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_B,Loyalty,3.983333,-0.132603,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_B,Authority,4.2,0.026521,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_B,Purity,2.5,-1.221988,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_C,Care,4.666667,1.606233,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_C,Equality,2.95,-0.31379,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_C,Proportionality,3.966667,0.823311,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_C,Loyalty,2.983333,-0.276508,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_C,Authority,3.0,-0.257867,exploratory; MFQ collection provenance incomplete
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,English,lente_C,Purity,1.816667,-1.581378,exploratory; MFQ collection provenance incomplete

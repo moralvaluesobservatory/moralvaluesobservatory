@@ -1,0 +1,11 @@
+configuration,situation,generation_rows,vignette_sets,repetitions_per_set_min,repetitions_per_set_max,equal_split_pct,model_ci_lo,model_ci_hi,bootstrap_unit,bootstrap_replicates
+deepseek-v4-pro,trabajo,666,72,5,10,0.0,0.0,0.0,vignette_set,10000
+deepseek-v4-pro,familia,319,32,9,10,3.135,0.0,9.434,vignette_set,10000
+claude-fable-5,trabajo,720,72,10,10,0.556,0.0,1.253,vignette_set,10000
+claude-fable-5,familia,320,32,10,10,4.688,0.0,12.5,vignette_set,10000
+glm-5.2,trabajo,719,72,9,10,0.417,0.0,1.253,vignette_set,10000
+glm-5.2,familia,318,32,9,10,5.346,0.94,12.226,vignette_set,10000
+gpt-5.5,trabajo,720,72,10,10,1.667,0.139,4.028,vignette_set,10000
+gpt-5.5,familia,320,32,10,10,1.25,0.0,3.75,vignette_set,10000
+claude-opus-4-8,trabajo,719,72,9,10,8.484,4.312,13.37,vignette_set,10000
+claude-opus-4-8,familia,319,32,9,10,14.107,6.25,23.751,vignette_set,10000

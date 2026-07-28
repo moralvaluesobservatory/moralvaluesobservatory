@@ -1,0 +1,43 @@
+label,configuration,item_id,scenario_label_es,proportional_fraction,generation_rows
+Opus 4.8,claude-opus-4-8,DIL_01_binario,Bono de empresa,1.0,10
+Opus 4.8,claude-opus-4-8,DIL_02_binario,Nota de proyecto universitario,1.0,10
+Opus 4.8,claude-opus-4-8,DIL_03_binario,Fondos de fundación benéfica,1.0,10
+Opus 4.8,claude-opus-4-8,DIL_04_binario,escuela_infancia,0.0,10
+Opus 4.8,claude-opus-4-8,DIL_05_binario,governance,0.0,10
+Opus 4.8,claude-opus-4-8,DIL_06_binario,arte,1.0,10
+Opus 4.8,claude-opus-4-8,DIL_07_binario,Sede de evento deportivo,0.1,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL_01_binario,Bono de empresa,1.0,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL_02_binario,Nota de proyecto universitario,1.0,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL_03_binario,Fondos de fundación benéfica,1.0,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL_04_binario,escuela_infancia,0.0,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL_05_binario,governance,0.0,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL_06_binario,arte,1.0,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL_07_binario,Sede de evento deportivo,0.0,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL_01_binario,Bono de empresa,1.0,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL_02_binario,Nota de proyecto universitario,1.0,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL_03_binario,Fondos de fundación benéfica,1.0,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL_04_binario,escuela_infancia,0.0,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL_05_binario,governance,0.0,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL_06_binario,arte,1.0,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL_07_binario,Sede de evento deportivo,0.0,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL_01_binario,Bono de empresa,0.9,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL_02_binario,Nota de proyecto universitario,1.0,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL_03_binario,Fondos de fundación benéfica,0.7,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL_04_binario,escuela_infancia,0.0,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL_05_binario,governance,0.3,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL_06_binario,arte,0.1,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL_07_binario,Sede de evento deportivo,0.0,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL_01_binario,Bono de empresa,1.0,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL_02_binario,Nota de proyecto universitario,1.0,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL_03_binario,Fondos de fundación benéfica,1.0,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL_04_binario,escuela_infancia,0.0,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL_05_binario,governance,0.0,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL_06_binario,arte,0.9,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL_07_binario,Sede de evento deportivo,0.0,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL_01_binario,Bono de empresa,1.0,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL_02_binario,Nota de proyecto universitario,1.0,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL_03_binario,Fondos de fundación benéfica,1.0,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL_04_binario,escuela_infancia,0.0,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL_05_binario,governance,0.0,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL_06_binario,arte,0.0,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL_07_binario,Sede de evento deportivo,0.0,10

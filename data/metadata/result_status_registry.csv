@@ -1,0 +1,13 @@
+result_id,status,public_role,source_file,reason_or_limit
+DSE_TASK_EFFECTS,active,main_case_study,data/results/active/dse_coefficients.csv,Task-specific effects in reconstructed vignettes; no general representation claim
+DSE_EQUAL_SPLITS,active,main_case_study,data/results/active/dse_equal_split.csv,Model intervals resample vignette sets
+DSE_REPORTED_REFERENCE_POSITION,active_with_limits,main_case_study,data/results/active/dse_reported_reference_position.csv,Human side is selected aggregate point estimates without human uncertainty
+DSE_GINI,active_secondary,annex,data/results/active/dse_gini.csv,Descriptive inequality in a fixed workplace vignette bank
+MFQ_PROFILES,exploratory,evidence_to_date,data/results/evidence_to_date/mfq_profiles_by_configuration.csv,Collection and human-reference provenance incomplete
+MFQ_NATIONAL_MEAN_POSITION,exploratory,evidence_to_date,data/results/evidence_to_date/mfq_reported_national_mean_position.csv,National means are not individual or subgroup representation
+MFQ_PROMPT_SENSITIVITY,exploratory_methodological,evidence_to_date,data/results/evidence_to_date/mfq_prompt_variant_sensitivity.csv,Supports configuration-prompt dependence but not cultural assignment
+MFQ_LANGUAGE_MATCHED,exploratory,evidence_to_date,data/results/evidence_to_date/mfq_language_comparison_matched.csv,One matched variant; no general multilingual monitoring claim
+OLA2_STATED_AND_CHOSEN,exploratory,evidence_to_date,data/results/evidence_to_date/ola2_estimates_by_configuration.csv,Reported separately; no association or system ranking inferred
+REPETITION_DIAGNOSTICS,methodological,evidence_to_date,data/results/evidence_to_date/measurement_repetition_diagnostics.csv,Effective n is diagnostic only
+OPUS_VERSION_COMPARISON,historical_inconclusive,research_record,data/results/research_record/opus_version_comparison_historical_inconclusive.csv,Not a demonstrated longitudinal monitoring programme
+DEEPSEEK_CHAT,excluded,research_record,research_record/pilot_01/excluded_configurations/deepseek_chat/,Distinct endpoint previously aggregated with Reasoner

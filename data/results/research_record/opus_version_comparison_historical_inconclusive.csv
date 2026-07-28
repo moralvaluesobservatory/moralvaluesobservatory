@@ -1,0 +1,4 @@
+from_version,to_version,paired_items,mean_change,ci_lo,ci_hi,alpha_bonferroni,cohens_dz,operational_threshold_abs_d,threshold_preregistered,operational_flag_triggered,interval_includes_zero,evidence_status,interpretation_limit
+claude-opus-4-5,claude-opus-4-6,57,-0.0211,-0.1846,0.1425,0.0167,-0.0421,0.5,False,False,True,historical_inconclusive,Single-family retrospective comparison; not a demonstrated longitudinal monitoring programme.
+claude-opus-4-6,claude-opus-4-7,57,0.2193,-0.0466,0.4852,0.0167,0.2696,0.5,False,False,True,historical_inconclusive,Single-family retrospective comparison; not a demonstrated longitudinal monitoring programme.
+claude-opus-4-7,claude-opus-4-8,57,0.0544,-0.1213,0.2301,0.0167,0.1012,0.5,False,False,True,historical_inconclusive,Single-family retrospective comparison; not a demonstrated longitudinal monitoring programme.

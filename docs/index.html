@@ -1,0 +1,489 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Moral Values Observatory — Methodological pilot</title>
+<meta content="A methodological pilot for a public observatory of normative representation in AI systems, beginning with distributive justice." name="description"/>
+<meta content="Moral Values Observatory — Methodological pilot" property="og:title"/>
+<meta content="From exploratory method development to a cumulative observatory of normative representation in AI systems." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@graph":[
+    {
+      "@type":"ResearchProject",
+      "name":"Moral Values Observatory",
+      "description":"A methodological research programme investigating normative representation in observable AI behaviour.",
+      "keywords":["AI governance","normative representation","moral pluralism","distributive justice","LLM evaluation"]
+    },
+    {
+      "@type":"Dataset",
+      "@id":"#dataset",
+      "name":"Moral Values Observatory — Distributive Justice Case Study 01",
+      "description":"A cross-sectional pilot dataset of allocation outputs from five exact AI configurations in reconstructed workplace-bonus and family-inheritance tasks.",
+      "temporalCoverage":"2026-07",
+      "measurementTechnique":"Reconstructed distributional survey experiment",
+      "isAccessibleForFree":true
+    }
+  ]
+}
+</script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&amp;family=IBM+Plex+Mono:wght@400;500;600&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --paper:#F6F5F0;--ink:#1E1D19;--mute:#4A4943;--faint:#6E6C64;
+  --hair:#E2E0D8;--hair-strong:#BAB7AB;--white:#FFFFFF;
+  --ui:#12726A;--ui-tint:#E5F1EE;--ui-deep:#0E5C56;
+  --slate:#5B6675;--slate-tint:#EEF0F3;
+  --amber:#8A5D15;--amber-tint:#F5EBD8;
+  --rose:#7D4D57;--rose-tint:#F4EAEC;
+  --withdrawn:#6B6962;--withdrawn-tint:#F0EFEB;
+  --data-equality:#5B6675;--data-need:#2F7E70;--data-merit:#9A6517;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Fraunces",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,monospace;
+  --col:720px;--wrap:1000px;--wide:1160px;
+  --shadow:0 10px 30px rgba(30,29,25,.045);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.62;-webkit-font-smoothing:antialiased}
+a{color:var(--ui);text-underline-offset:3px}
+strong,b{font-weight:600}
+button,input,select{font:inherit}
+:focus-visible{outline:3px solid var(--ui);outline-offset:3px;border-radius:4px}
+.skip{position:absolute;left:-9999px;top:0;background:var(--ink);color:var(--paper);padding:10px 16px;z-index:100;font:13px var(--mono);text-decoration:none}
+.skip:focus{left:8px;top:8px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+section[id],details[id]{scroll-margin-top:92px}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}html{scroll-behavior:auto}}
+
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 24px}.wide{max-width:var(--wide);margin-inline:auto;padding-inline:24px}.prose{max-width:var(--col);margin-inline:auto}.prose p{font-size:1.035rem}
+
+header.site{position:sticky;top:0;z-index:40;background:rgba(246,245,240,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--hair)}
+.site-inner{max-width:var(--wide);margin:auto;padding:11px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px;font-family:var(--mono)}
+.brand{font-size:13px;font-weight:600;white-space:nowrap;color:var(--ink);text-decoration:none;letter-spacing:.015em}.brand-mark{color:var(--ui);margin-right:7px}
+nav.primary{display:flex;gap:18px;align-items:center;font-size:11.5px}nav.primary a{white-space:nowrap;text-decoration:none;color:var(--mute);border-bottom:2px solid transparent;padding:4px 0}nav.primary a:hover{color:var(--ink)}nav.primary a[aria-current="true"]{color:var(--ui);border-color:var(--ui)}
+.menu-button{display:none;border:1px solid var(--hair-strong);background:var(--white);border-radius:8px;padding:7px 10px;font:11px var(--mono);color:var(--ink)}
+#progress{height:2px;background:var(--ui);width:0;position:absolute;left:0;bottom:-1px}
+
+.hero{padding:64px 0 34px}.hero-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:56px;align-items:end}
+.kicker,.section-kicker{font:600 12px var(--mono);letter-spacing:.13em;text-transform:uppercase;color:var(--ui);margin:0 0 12px}
+h1,h2,h3{font-family:var(--serif);font-weight:500}h1{font-size:clamp(2.35rem,5.6vw,4.25rem);line-height:1.01;letter-spacing:-.025em;max-width:18ch;margin:0 0 20px}.standfirst{font-family:var(--serif);font-size:clamp(1.1rem,2.1vw,1.3rem);line-height:1.52;color:var(--mute);max-width:58ch;margin:0 0 24px}
+.hero-note{border-left:3px solid var(--ui);padding:2px 0 2px 16px;font-size:.94rem;color:var(--mute);max-width:60ch}.hero-note strong{color:var(--ink)}
+.release-card{background:var(--white);border:1px solid var(--hair);border-radius:16px;padding:20px;box-shadow:var(--shadow)}.release-card .label{font:600 10.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--ui);margin:0 0 10px}.release-card h2{font-size:1.35rem;line-height:1.18;margin:0 0 10px}.release-card p{font-size:.9rem;color:var(--mute);margin:0 0 15px}.release-list{list-style:none;padding:13px 0 0;margin:0;border-top:1px solid var(--hair);display:grid;gap:8px;font:11px var(--mono);color:var(--mute)}.release-list strong{color:var(--ink)}
+.meta-row{display:flex;flex-wrap:wrap;gap:9px;margin-top:30px}.meta-pill{font:11px var(--mono);color:var(--mute);border:1px solid var(--hair);background:rgba(255,255,255,.48);border-radius:999px;padding:6px 10px}
+
+.major{padding:58px 0}.section-head{max-width:var(--col);margin-inline:auto;border-top:1px solid var(--hair-strong);padding-top:30px}.section-head h2{font-size:clamp(1.85rem,3.5vw,2.75rem);line-height:1.08;letter-spacing:-.016em;margin:0 0 13px}.section-lead{font-family:var(--serif);font-size:1.13rem;line-height:1.52;color:var(--mute);max-width:58ch;margin:0}.section-label{font:11px var(--mono);text-transform:uppercase;letter-spacing:.1em;color:var(--faint);margin:0 0 8px}
+
+.finding-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:30px auto 0;max-width:var(--wrap)}.summary-card{background:var(--white);border:1px solid var(--hair);border-radius:14px;padding:19px 20px 17px;box-shadow:var(--shadow)}.summary-card .status{margin-bottom:10px}.summary-card h3{font-size:1.14rem;line-height:1.26;margin:0 0 8px}.summary-card p{font-size:.88rem;line-height:1.52;color:var(--mute);margin:0}.summary-stat{font:600 1.4rem var(--mono);color:var(--ink);margin:14px 0 3px}.summary-sub{font:10.5px var(--mono);color:var(--faint)}
+.status{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:4px 9px;font:600 10px var(--mono);letter-spacing:.055em;text-transform:uppercase}.status::before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor}.status.active{color:var(--ui-deep);background:var(--ui-tint)}.status.external{color:var(--slate);background:var(--slate-tint)}.status.exploratory{color:var(--amber);background:var(--amber-tint)}.status.unanswered{color:var(--rose);background:var(--rose-tint)}.status.withdrawn{color:var(--withdrawn);background:var(--withdrawn-tint)}
+
+.figure{background:var(--white);border:1px solid var(--hair);border-radius:16px;padding:24px 26px 20px;box-shadow:var(--shadow);margin:30px auto}.figure.hero-figure{max-width:var(--wrap)}.figure.standard{max-width:var(--col)}.figure-title-row{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;margin-bottom:13px}.figure h3{font-size:1.35rem;line-height:1.2;margin:0}.figure-intro{font-size:.94rem;color:var(--mute);max-width:70ch;margin:0 0 18px}.chart-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.chart-panel{border:1px solid var(--hair);border-radius:12px;padding:15px 14px 13px;min-width:0}.chart-panel .eyebrow{font:600 10px var(--mono);letter-spacing:.09em;text-transform:uppercase;margin:0 0 5px}.chart-panel.merit .eyebrow{color:var(--data-merit)}.chart-panel.need .eyebrow{color:var(--data-need)}.chart-panel h4{font-family:var(--serif);font-weight:500;font-size:1.04rem;line-height:1.2;margin:0 0 3px}.chart-panel .measure{font:10px var(--mono);color:var(--faint);margin-bottom:10px}.effect-chart{min-height:260px}.axis-label{font:9px var(--mono);fill:var(--faint)}.model-label{font:10px var(--mono);fill:var(--mute)}.value-label{font:600 9.5px var(--mono);fill:var(--ink)}
+.figcaption{font-size:.88rem;line-height:1.55;color:var(--mute);border-top:1px dashed var(--hair);padding-top:11px;margin:14px 0 0}.source{font:11.5px/1.5 var(--mono);color:var(--faint);margin:8px 0 0}.source a{color:inherit}
+
+.equal-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.equal-panel{border:1px solid var(--hair);border-radius:12px;padding:16px 14px}.equal-panel h4{font-family:var(--serif);font-weight:500;font-size:1.12rem;margin:0 0 2px}.equal-panel .context{font:10px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--faint);margin:0 0 10px}.equal-chart{min-height:280px}.legend{display:flex;flex-wrap:wrap;gap:14px;margin:0 0 11px;font:10.5px var(--mono);color:var(--mute)}.legend span{display:inline-flex;align-items:center;gap:6px}.legend i{display:inline-block;width:12px;height:12px}.legend .human{border:2px solid var(--data-equality);border-radius:50%}.legend .model{height:3px;background:var(--data-need);border-radius:2px}.notice{border-left:3px solid var(--amber);background:var(--amber-tint);padding:13px 15px;border-radius:0 10px 10px 0;color:#5B451F;font-size:.89rem;margin-top:16px}.notice strong{color:#433214}
+
+.implications{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;max-width:var(--wrap);margin:28px auto 0}.implication{border-top:2px solid var(--hair-strong);padding:18px 0 8px}.implication .n{font:600 10px var(--mono);color:var(--ui);letter-spacing:.1em;text-transform:uppercase}.implication h3{font-size:1.25rem;line-height:1.22;margin:7px 0}.implication p{font-size:.93rem;color:var(--mute);margin:0;max-width:54ch}
+
+.evidence-list{max-width:var(--col);margin:26px auto 0;display:grid;gap:12px}details.evidence{background:var(--white);border:1px solid var(--hair);border-radius:13px;box-shadow:var(--shadow)}details.evidence>summary{list-style:none;cursor:pointer;padding:17px 19px;display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center}details.evidence>summary::-webkit-details-marker{display:none}details.evidence>summary::after{content:"+";font:18px var(--mono);color:var(--faint)}details.evidence[open]>summary::after{content:"−"}details.evidence .sum-title{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.sum-title h3{font-size:1.12rem;line-height:1.2;margin:0}.evidence-body{border-top:1px solid var(--hair);padding:4px 19px 18px}.evidence-field{display:grid;grid-template-columns:145px 1fr;gap:16px;padding:12px 0;border-bottom:1px dashed var(--hair)}.evidence-field:last-child{border-bottom:0}.evidence-field dt{font:600 10.5px var(--mono);letter-spacing:.065em;text-transform:uppercase;color:var(--faint)}.evidence-field dd{margin:0;font-size:.92rem;color:var(--mute)}.evidence-field dd strong{color:var(--ink)}
+
+.coverage-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;max-width:var(--wrap);margin:28px auto 0}.coverage-card{background:var(--white);border:1px solid var(--hair);border-radius:15px;padding:21px;box-shadow:var(--shadow)}.coverage-card h3{font-size:1.24rem;margin:0 0 7px}.coverage-card>p{font-size:.9rem;color:var(--mute);margin:0 0 15px}.coverage-list{list-style:none;margin:0;padding:0;display:grid;gap:9px}.coverage-list li{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;padding:10px 0;border-top:1px solid var(--hair);font-size:.91rem}.coverage-list .state{font:600 9.5px var(--mono);letter-spacing:.06em;text-transform:uppercase;border-radius:999px;padding:4px 8px}.state.partial{background:var(--slate-tint);color:var(--slate)}.state.none{background:var(--rose-tint);color:var(--rose)}.coverage-warning{max-width:var(--col);margin:20px auto 0;border:1px solid var(--hair-strong);border-radius:12px;padding:16px 18px;background:rgba(255,255,255,.4);font-family:var(--serif);font-size:1rem;color:var(--mute)}
+
+.table-wrap{overflow-x:auto;overscroll-behavior-inline:contain;margin-top:12px}.data-table{border-collapse:collapse;width:100%;min-width:760px;font:11.5px var(--mono)}.data-alt{margin-top:14px}.data-alt>summary{cursor:pointer;font:11.5px var(--mono);color:var(--mute);padding:5px 0}.data-alt>summary:hover{color:var(--ink)}.data-table caption{text-align:left;color:var(--mute);padding:0 0 9px;font-family:var(--sans);font-size:.88rem}.data-table th,.data-table td{text-align:right;border:1px solid var(--hair);padding:7px 8px;white-space:nowrap}.data-table th:first-child,.data-table td:first-child,.data-table th:nth-child(2),.data-table td:nth-child(2),.data-table th:nth-child(3),.data-table td:nth-child(3){text-align:left}.data-table thead th{background:var(--slate-tint);color:var(--mute);font-weight:600}.data-table code{font-family:var(--mono);font-size:11px}
+
+.record-list{max-width:var(--col);margin:25px auto 0}.record-list details{border-bottom:1px solid var(--hair-strong)}.record-list summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:15px;padding:17px 0;font-family:var(--serif);font-size:1.08rem}.record-list summary::-webkit-details-marker{display:none}.record-list summary::after{content:"+";font-family:var(--mono);color:var(--faint)}.record-list details[open] summary::after{content:"−"}.record-body{padding:0 0 18px;color:var(--mute);font-size:.92rem}.record-body ul{padding-left:20px}.record-body li{margin-bottom:7px}.download-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}.button{display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:8px;padding:9px 12px;font:600 11px var(--mono);text-decoration:none}.button.primary{background:var(--ui);color:white}.button.secondary{border:1px solid var(--hair-strong);background:var(--white);color:var(--ink)}
+
+footer{background:var(--ink);color:var(--paper);padding:44px 0 28px;margin-top:30px}.footer-grid{display:grid;grid-template-columns:1.4fr .8fr;gap:50px}.footer-brand{font:600 13px var(--mono);margin-bottom:10px}.footer-mission{font-family:var(--serif);font-size:1.08rem;line-height:1.5;color:#CFCDC4;max-width:48ch;margin:0}.footer-links{display:grid;gap:8px;font:12px var(--mono)}.footer-links a{color:#79D4C4;text-decoration:none}.footer-legal{margin-top:28px;padding-top:16px;border-top:1px solid rgba(255,255,255,.12);font:10.5px var(--mono);color:#9C9A91}
+
+@media(max-width:900px){.hero-grid{grid-template-columns:1fr;gap:28px}.release-card{max-width:540px}.chart-grid{grid-template-columns:1fr}.effect-chart{min-height:230px}.finding-summary{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr}.equal-grid{grid-template-columns:1fr}.coverage-grid{grid-template-columns:1fr}}
+@media(max-width:760px){.site-inner{padding-inline:18px}.menu-button{display:block}nav.primary{position:absolute;left:0;right:0;top:100%;background:var(--paper);border-bottom:1px solid var(--hair);display:none;flex-direction:column;align-items:flex-start;padding:12px 18px;gap:4px}nav.primary.open{display:flex}nav.primary a{padding:7px 0}.wrap,.wide{padding-inline:18px}.hero{padding-top:42px}.major{padding:40px 0}.hero h1{font-size:clamp(2.25rem,12vw,3.2rem)}.implications{grid-template-columns:1fr}.evidence-field{grid-template-columns:1fr;gap:4px}.figure{padding:19px 16px 16px}.figure-title-row{display:block}.data-table{font-size:11px}.meta-row{gap:7px}.meta-pill{font-size:10.5px}.summary-card{padding:17px}.chart-panel{padding:14px 10px}}
+
+/* Pilot-to-observatory additions */
+.intro-band{max-width:var(--wide);margin:0 auto;padding:0 24px 18px}.intro-band-inner{display:grid;grid-template-columns:1.05fr .95fr;gap:18px}.scope-card,.programme-card{background:rgba(255,255,255,.55);border:1px solid var(--hair);border-radius:15px;padding:22px}.scope-card h2,.programme-card h2{font-size:1.32rem;line-height:1.2;margin:0 0 9px}.scope-card p,.programme-card p{font-size:.92rem;color:var(--mute);margin:0}.scope-list{list-style:none;padding:14px 0 0;margin:14px 0 0;border-top:1px solid var(--hair);display:grid;gap:9px;font-size:.9rem;color:var(--mute)}.scope-list li{display:grid;grid-template-columns:20px 1fr;gap:7px}.scope-list b{color:var(--ink)}.scope-symbol{font:600 12px var(--mono);color:var(--ui)}
+.definition{max-width:var(--col);margin:25px auto 0;border-left:3px solid var(--ui);padding:3px 0 3px 18px}.definition p{font-family:var(--serif);font-size:1.16rem;line-height:1.54;margin:0}.definition small{display:block;font:11px/1.55 var(--mono);color:var(--faint);margin-top:9px}
+.pathway{max-width:var(--wrap);margin:30px auto 0;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.path-step{background:var(--white);border:1px solid var(--hair);border-radius:14px;padding:18px;box-shadow:var(--shadow);position:relative}.path-step .num{font:600 10.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ui)}.path-step h3{font-size:1.1rem;line-height:1.22;margin:8px 0}.path-step p{font-size:.86rem;line-height:1.5;color:var(--mute);margin:0}.path-step:not(:last-child)::after{content:"→";position:absolute;right:-12px;top:45%;z-index:2;color:var(--hair-strong);font:18px var(--mono)}
+.boundary-grid{max-width:var(--wrap);margin:28px auto 0;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.boundary-card{border:1px solid var(--hair);background:var(--white);border-radius:14px;padding:19px;box-shadow:var(--shadow)}.boundary-card .label{font:600 10px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--rose);margin-bottom:8px}.boundary-card h3{font-size:1.12rem;line-height:1.22;margin:0 0 7px}.boundary-card p{font-size:.88rem;line-height:1.52;color:var(--mute);margin:0}
+.next-card{max-width:var(--wrap);margin:29px auto 0;background:var(--ink);color:var(--paper);border-radius:18px;padding:27px 29px;box-shadow:var(--shadow)}.next-card .section-label{color:#79D4C4}.next-card h3{font-size:clamp(1.55rem,3vw,2.25rem);line-height:1.12;margin:0 0 13px;max-width:24ch}.next-card>p{color:#D7D5CD;max-width:72ch;margin:0}.next-card a{color:#91E1D3}.next-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:22px}.next-item{border:1px solid rgba(255,255,255,.16);border-radius:12px;padding:15px 16px}.next-item .n{font:600 10px var(--mono);color:#79D4C4;letter-spacing:.08em;text-transform:uppercase}.next-item h4{font-family:var(--serif);font-weight:500;font-size:1.08rem;margin:6px 0}.next-item p{font-size:.84rem;line-height:1.48;color:#C9C7BE;margin:0}.next-limit{margin-top:18px;padding-top:15px;border-top:1px solid rgba(255,255,255,.15);font:11px/1.6 var(--mono);color:#B9B6AC}
+.cite{font:600 .72em var(--mono);vertical-align:super;text-decoration:none;margin-left:2px}.evidence-principles{max-width:var(--col);margin:27px auto 0;display:grid;gap:12px}.principle{background:var(--white);border:1px solid var(--hair);border-radius:13px;padding:19px 20px;box-shadow:var(--shadow)}.principle-head{display:flex;gap:12px;align-items:flex-start}.principle-index{flex:0 0 31px;height:31px;border-radius:50%;display:grid;place-items:center;background:var(--slate-tint);color:var(--slate);font:600 10px var(--mono)}.principle h3{font-size:1.18rem;line-height:1.22;margin:2px 0 7px}.principle p{font-size:.91rem;line-height:1.54;color:var(--mute);margin:0}.principle .implication-line{margin:12px 0 0;padding-top:11px;border-top:1px dashed var(--hair);font-size:.87rem}.principle .implication-line strong{color:var(--ink)}
+.timeline{max-width:var(--col);margin:29px auto 0;position:relative}.timeline::before{content:"";position:absolute;left:18px;top:7px;bottom:7px;width:1px;background:var(--hair-strong)}.timeline-item{position:relative;padding:0 0 25px 54px}.timeline-item:last-child{padding-bottom:0}.timeline-dot{position:absolute;left:10px;top:4px;width:17px;height:17px;border:4px solid var(--paper);border-radius:50%;background:var(--ui);box-shadow:0 0 0 1px var(--hair-strong)}.timeline-item.exploratory .timeline-dot{background:var(--amber)}.timeline-item.inconclusive .timeline-dot{background:var(--rose)}.timeline-item h3{font-size:1.2rem;line-height:1.22;margin:0 0 4px}.timeline-meta{font:10.5px var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--faint);margin-bottom:8px}.timeline-item p{font-size:.91rem;color:var(--mute);margin:0 0 7px}.timeline-item .lesson{font-size:.87rem;border-left:2px solid var(--hair-strong);padding-left:11px;color:var(--ink)}
+.unknown-list{max-width:var(--col);margin:24px auto 0;background:rgba(255,255,255,.48);border:1px solid var(--hair);border-radius:14px;padding:19px 21px}.unknown-list h3{font-size:1.16rem;margin:0 0 10px}.unknown-list ul{margin:0;padding-left:20px;color:var(--mute);font-size:.91rem}.unknown-list li{margin:7px 0}
+.bibliography{max-width:var(--col);margin:25px auto 0;border-top:1px solid var(--hair-strong)}.reference-item{display:grid;grid-template-columns:32px 1fr;gap:10px;padding:14px 0;border-bottom:1px solid var(--hair);font-size:.87rem;color:var(--mute)}.reference-num{font:600 11px var(--mono);color:var(--ui)}.reference-item p{margin:0}.reference-item a{word-break:break-word}.reference-note{font-size:.8rem;color:var(--faint);margin-top:4px}
+.pilot-banner{max-width:var(--col);margin:25px auto 0;padding:17px 19px;border:1px solid var(--hair-strong);border-radius:13px;background:var(--ui-tint)}.pilot-banner p{font-size:.94rem;color:var(--ui-deep);margin:0}.pilot-banner strong{color:var(--ink)}
+@media(max-width:900px){.pathway{grid-template-columns:1fr 1fr}.path-step:nth-child(2)::after{display:none}.boundary-grid{grid-template-columns:1fr}.intro-band-inner{grid-template-columns:1fr}.next-grid{grid-template-columns:1fr}}
+@media(max-width:760px){.intro-band{padding-inline:18px}.pathway{grid-template-columns:1fr}.path-step::after{display:none!important}.scope-card,.programme-card{padding:18px}.next-card{padding:22px 19px}.timeline-item{padding-left:48px}}
+
+/* Research-sequence additions */
+.research-roadmap{max-width:var(--wrap);margin:25px auto 0;display:grid;gap:13px}.research-stage{display:grid;grid-template-columns:112px 1fr;gap:22px;background:var(--white);border:1px solid var(--hair);border-radius:15px;padding:21px 22px;box-shadow:var(--shadow)}.stage-marker{font:600 10.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ui)}.stage-marker .stage-state{display:inline-block;margin-top:9px;border-radius:999px;padding:4px 8px;background:var(--ui-tint);color:var(--ui-deep);letter-spacing:.05em}.stage-marker .stage-state.gate{background:var(--amber-tint);color:var(--amber)}.stage-marker .stage-state.later{background:var(--slate-tint);color:var(--slate)}.research-stage h3{font-size:1.3rem;line-height:1.2;margin:0 0 7px}.research-stage p{font-size:.91rem;line-height:1.55;color:var(--mute);margin:0}.stage-points{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.stage-points span{font:10px var(--mono);color:var(--mute);border:1px solid var(--hair);border-radius:999px;padding:5px 8px;background:var(--paper)}.metric-band{max-width:var(--wrap);margin:15px auto 0;border:1px solid var(--hair-strong);border-radius:14px;padding:18px 20px;background:rgba(255,255,255,.45)}.metric-band h3{font-size:1.12rem;margin:0 0 10px}.metric-list{display:grid;grid-template-columns:repeat(5,1fr);gap:9px}.metric-list div{border-top:2px solid var(--ui);padding-top:9px}.metric-list b{display:block;font:600 10px var(--mono);text-transform:uppercase;letter-spacing:.06em;margin-bottom:4px}.metric-list span{display:block;font-size:.82rem;line-height:1.4;color:var(--mute)}.study-portfolio{max-width:var(--wrap);margin:16px auto 0;background:var(--white);border:1px solid var(--hair);border-radius:14px;padding:0 18px;box-shadow:var(--shadow)}.study-portfolio>summary{cursor:pointer;list-style:none;padding:16px 0;display:flex;justify-content:space-between;gap:15px;font-family:var(--serif);font-size:1.08rem}.study-portfolio>summary::-webkit-details-marker{display:none}.study-portfolio>summary::after{content:"+";font:18px var(--mono);color:var(--faint)}.study-portfolio[open]>summary::after{content:"−"}.portfolio-note{font-size:.87rem;color:var(--mute);margin:0 0 12px}.priority{font:600 9.5px var(--mono);text-transform:uppercase;letter-spacing:.05em;border-radius:999px;padding:4px 7px;white-space:nowrap}.priority.now{background:var(--ui-tint);color:var(--ui-deep)}.priority.next{background:var(--amber-tint);color:var(--amber)}.priority.later{background:var(--slate-tint);color:var(--slate)}.priority.archive{background:var(--withdrawn-tint);color:var(--withdrawn)}
+@media(max-width:900px){.metric-list{grid-template-columns:1fr 1fr}.research-stage{grid-template-columns:90px 1fr}}
+@media(max-width:620px){.research-stage{grid-template-columns:1fr;gap:9px}.metric-list{grid-template-columns:1fr}.stage-marker .stage-state{margin:0 0 0 8px}}
+
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site">
+<div class="site-inner">
+<a class="brand" href="#top"><span class="brand-mark">◆</span>Moral Values Observatory</a>
+<button aria-controls="primary-nav" aria-expanded="false" class="menu-button" type="button">Menu</button>
+<nav aria-label="Primary" class="primary" id="primary-nav">
+<a href="#case-study">Case study</a>
+<a href="#next">What next</a>
+<a href="#evidence">Evidence to date</a>
+<a href="#development">Pilots</a>
+<a href="#coverage">Human coverage</a>
+<a href="#methods">Methods</a>
+</nav>
+</div>
+<div aria-hidden="true" id="progress"></div>
+</header>
+<main id="main">
+<section class="hero" id="top">
+<div class="wide hero-grid">
+<div>
+<p class="kicker">Pluralistic AI governance · methodological pilot</p>
+<h1>When AI systems mediate value-relevant decisions, whose perspectives do they represent?</h1>
+<p class="standfirst">The Moral Values Observatory studies how exact AI configurations respond when legitimate human values and moral considerations conflict—and which forms of human disagreement their outputs reflect, concentrate, or leave unmeasured.</p>
+<p class="hero-note"><strong>This is a methodological pilot, not a completed representation audit.</strong> The project began by testing instruments, decision tasks, prompting conditions, comparison methods, and public research infrastructure. The current release retains distributive justice as its first active case study.</p>
+<div aria-label="Release summary" class="meta-row">
+<span class="meta-pill">method-development phase</span>
+<span class="meta-pill">1 active case study</span>
+<span class="meta-pill">5 exact configurations</span>
+<span class="meta-pill">cross-sectional release</span>
+<span class="meta-pill">versioned data and corrections</span>
+</div>
+</div>
+<aside aria-label="Current release status" class="release-card">
+<p class="label">Current release · pilot</p>
+<h2>From tests to an observatory</h2>
+<p>This release demonstrates a research process: delimit the task, preserve exact configurations, compare cautiously with human evidence, expose limitations, and withdraw unsupported claims.</p>
+<ul class="release-list">
+<li><strong>Active case:</strong> distributive justice</li>
+<li><strong>Measured:</strong> observable allocations</li>
+<li><strong>Not claimed:</strong> possessed values or moral competence</li>
+</ul>
+</aside>
+</div>
+</section>
+<div aria-label="Project scope" class="intro-band">
+<div class="intro-band-inner">
+<article class="scope-card">
+<p class="section-label">Scope</p>
+<h2>Normative representation in observable AI behaviour</h2>
+<p>The Observatory connects three distinct layers without treating them as interchangeable.</p>
+<ul class="scope-list">
+<li><span class="scope-symbol">01</span><span><b>Value priorities:</b> what is presented as important or desirable.</span></li>
+<li><span class="scope-symbol">02</span><span><b>Moral judgements:</b> what is evaluated as right, wrong, permissible, or impermissible.</span></li>
+<li><span class="scope-symbol">03</span><span><b>Decisions:</b> what is chosen or allocated when legitimate principles conflict.</span></li>
+</ul>
+</article>
+<article class="programme-card">
+<p class="section-label">Interpretive boundary</p>
+<h2>Patterns of output, not psychological possession</h2>
+<p>Results belong to an exact configuration, task, prompt, language, inference setting, and collection date. They do not establish that a system possesses beliefs, a stable moral character, or human-like moral competence.</p>
+<ul class="scope-list">
+<li><span class="scope-symbol">×</span><span>No ranking of the “most moral” model.</span></li>
+<li><span class="scope-symbol">×</span><span>No attribution of a country or culture from an aggregate similarity.</span></li>
+<li><span class="scope-symbol">×</span><span>No treatment of repeated generations as simulated people.</span></li>
+</ul>
+</article>
+</div>
+</div>
+<section class="major" id="programme">
+<div class="wrap">
+<header class="section-head">
+<p class="section-kicker">From pilots to an observatory</p>
+<h2>The early studies tested what a defensible audit would require.</h2>
+<p class="section-lead">The pilots were not attempts to declare what values AI systems possess. They tested how value-relevant outputs could be measured responsibly, which comparisons failed, and what evidence must be collected next.</p>
+</header>
+<div class="definition">
+<p><strong>Long-term objective:</strong> build a cumulative public infrastructure for auditing how AI systems handle normative disagreement across domains, configurations, populations, languages, and time.</p>
+<small>Current status · first tested component of that research system</small>
+</div>
+<div aria-label="Development pathway" class="pathway">
+<article class="path-step"><span class="num">01 · Explore</span><h3>Test instruments and tasks</h3><p>Use questionnaires, dilemmas, allocations, prompt variants, and repeated generations to identify what each method can and cannot support.</p></article>
+<article class="path-step"><span class="num">02 · Correct</span><h3>Expose failure points</h3><p>Separate configurations, treat items as the primary units, withdraw unsupported associations, and document missing provenance.</p></article>
+<article class="path-step"><span class="num">03 · Validate</span><h3>Build matched evidence</h3><p>Collect equivalent human and AI responses, preserve human distributions, and control relevant and irrelevant task variation.</p></article>
+<article class="path-step"><span class="num">04 · Observe</span><h3>Accumulate case studies</h3><p>Repeat validated studies across domains and system updates without turning a single metric into a universal moral score.</p></article>
+</div>
+<div class="pilot-banner"><p><strong>Transparency principle.</strong> A pilot result remains active only when its design supports the stated inference. Related literature can justify a research question, but it cannot repair an internal design limitation.</p></div>
+</div>
+</section>
+<section class="major" id="case-study">
+<div class="wrap">
+<header class="section-head">
+<p class="section-kicker">Current case study · 01</p>
+<h2>Distributive justice: equality, merit, and need.</h2>
+<p class="section-lead">Five exact configurations divided CHF 18,000 among three hypothetical recipients in a reconstructed workplace-bonus task and a family-inheritance task.</p>
+</header>
+<div class="finding-summary">
+<article class="summary-card"><span class="status active">Active finding</span><h3>Merit mattered at work</h3><p>High performance and high dedication were positively associated with workplace allocations in all five configurations.</p><div class="summary-stat">+12.3 to +20.8 pp</div><div class="summary-sub">high-performance effect across configurations</div></article>
+<article class="summary-card"><span class="status active">Active finding</span><h3>Need mattered in the family</h3><p>Tight finances were positively associated with inheritance allocations in all five configurations.</p><div class="summary-stat">+11.4 to +20.9 pp</div><div class="summary-sub">tight-finances effect across configurations</div></article>
+<article class="summary-card"><span class="status active">Active finding</span><h3>Exact equality was uncommon</h3><p>Model intervals for exact equal splits were below every selected published human point estimate included in both tasks.</p><div class="summary-stat">0–14.1%</div><div class="summary-sub">model point estimates across both tasks</div></article>
+</div>
+<figure aria-labelledby="effects-title" class="figure hero-figure">
+<div class="figure-title-row">
+<div>
+<p class="section-label">Estimated allocation effects</p>
+<h3 id="effects-title">Which recipient characteristics changed the share allocated?</h3>
+</div>
+<span class="status active">Active finding</span>
+</div>
+<p class="figure-intro">Points show estimated percentage-point changes in allocated share. Lines show 95% vignette-set bootstrap intervals. Each panel uses its own readable scale; compare patterns, not panel widths.</p>
+<div class="chart-grid">
+<section class="chart-panel merit">
+<p class="eyebrow">Workplace bonus</p><h4>High performance</h4><div class="measure">relative to low performance</div><div class="effect-chart" data-effect="performance"></div>
+</section>
+<section class="chart-panel merit">
+<p class="eyebrow">Workplace bonus</p><h4>High dedication</h4><div class="measure">relative to low dedication</div><div class="effect-chart" data-effect="dedication"></div>
+</section>
+<section class="chart-panel need">
+<p class="eyebrow">Family inheritance</p><h4>Tight finances</h4><div class="measure">relative to easy finances</div><div class="effect-chart" data-effect="finances"></div>
+</section>
+</div>
+<figcaption class="figcaption">Conditional estimates for this reconstructed task, prompt, collection date, and exact configuration. They do not describe internal moral values or real-world consequential behaviour.</figcaption>
+<p class="source">Source: generated from <code>data/results/active/dse_coefficients.csv</code> · 5,000 vignette-set bootstrap replicates.</p>
+<details class="data-alt">
+<summary>View the values as a table</summary>
+<div class="table-wrap"><table class="data-table"><caption>Selected DSE coefficient estimates used above.</caption><thead><tr><th>Configuration</th><th>Task</th><th>Characteristic</th><th>Effect</th><th>95% model interval</th><th>Vignette sets</th><th>Generation rows</th></tr></thead><tbody><tr><th scope="row"><code>claude-opus-4-8</code></th><td>Workplace</td><td>High performance</td><td>12.3 pp</td><td>11.3 to 13.3</td><td>72</td><td>719</td></tr><tr><th scope="row"><code>claude-opus-4-8</code></th><td>Workplace</td><td>High dedication</td><td>7.6 pp</td><td>6.8 to 8.5</td><td>72</td><td>719</td></tr><tr><th scope="row"><code>claude-opus-4-8</code></th><td>Inheritance</td><td>Tight finances</td><td>11.4 pp</td><td>10.2 to 12.8</td><td>32</td><td>319</td></tr><tr><th scope="row"><code>claude-fable-5</code></th><td>Workplace</td><td>High performance</td><td>12.5 pp</td><td>11.6 to 13.4</td><td>72</td><td>720</td></tr><tr><th scope="row"><code>claude-fable-5</code></th><td>Workplace</td><td>High dedication</td><td>8.3 pp</td><td>7.5 to 9.1</td><td>72</td><td>720</td></tr><tr><th scope="row"><code>claude-fable-5</code></th><td>Inheritance</td><td>Tight finances</td><td>12.0 pp</td><td>10.9 to 13.4</td><td>32</td><td>320</td></tr><tr><th scope="row"><code>gpt-5.5</code></th><td>Workplace</td><td>High performance</td><td>17.4 pp</td><td>15.8 to 18.9</td><td>72</td><td>720</td></tr><tr><th scope="row"><code>gpt-5.5</code></th><td>Workplace</td><td>High dedication</td><td>12.2 pp</td><td>10.6 to 13.6</td><td>72</td><td>720</td></tr><tr><th scope="row"><code>gpt-5.5</code></th><td>Inheritance</td><td>Tight finances</td><td>18.7 pp</td><td>17.0 to 20.8</td><td>32</td><td>320</td></tr><tr><th scope="row"><code>deepseek-v4-pro</code></th><td>Workplace</td><td>High performance</td><td>15.3 pp</td><td>13.5 to 17.0</td><td>72</td><td>666</td></tr><tr><th scope="row"><code>deepseek-v4-pro</code></th><td>Workplace</td><td>High dedication</td><td>10.5 pp</td><td>9.0 to 12.0</td><td>72</td><td>666</td></tr><tr><th scope="row"><code>deepseek-v4-pro</code></th><td>Inheritance</td><td>Tight finances</td><td>20.9 pp</td><td>18.2 to 23.6</td><td>32</td><td>319</td></tr><tr><th scope="row"><code>glm-5.2</code></th><td>Workplace</td><td>High performance</td><td>20.8 pp</td><td>18.4 to 23.0</td><td>72</td><td>719</td></tr><tr><th scope="row"><code>glm-5.2</code></th><td>Workplace</td><td>High dedication</td><td>10.8 pp</td><td>8.6 to 12.8</td><td>72</td><td>719</td></tr><tr><th scope="row"><code>glm-5.2</code></th><td>Inheritance</td><td>Tight finances</td><td>17.6 pp</td><td>15.9 to 19.3</td><td>32</td><td>318</td></tr></tbody></table></div>
+</details>
+</figure><figure aria-labelledby="equal-title" class="figure hero-figure">
+<div class="figure-title-row">
+<div>
+<p class="section-label">Models and published human aggregates</p>
+<h3 id="equal-title">Exact equal splitting: two different kinds of evidence on one scale</h3>
+</div>
+<span class="status active">Active finding</span>
+</div>
+<p class="figure-intro">Model lines are 95% vignette-set bootstrap intervals. Human circles are published aggregate point estimates from different samples and subgroups; they are not human confidence intervals or individual-level distributions.</p>
+<div aria-hidden="true" class="legend"><span><i class="human"></i>published human point estimates</span><span><i class="model"></i>model estimate and interval</span></div>
+<div class="equal-grid">
+<section class="equal-panel"><p class="context">Workplace bonus</p><h4>Share split exactly equally</h4><div class="equal-chart" data-equal="work"></div></section>
+<section class="equal-panel"><p class="context">Family inheritance</p><h4>Share split exactly equally</h4><div class="equal-chart" data-equal="family"></div></section>
+</div>
+<div class="notice"><strong>Interpretation limit.</strong> The model intervals lie below the selected human point estimates included here. This does not demonstrate that a system fails to represent a person or population.</div>
+<figcaption class="figcaption">The Swiss family source contains an unresolved inconsistency: prose reports approximately 60%, while a later figure reports 74% for women and 68% for men. The chart uses the six exact subgroup point estimates and does not manufacture combined university estimates.</figcaption>
+<p class="source">Human source: Gilgen (2022)<a aria-label="Reference 4" class="cite" href="#ref-4">[4]</a>, pp. 117 and 134–135 · model source: <code>dse_equal_split.csv</code> · 10,000 vignette-set bootstrap replicates.</p>
+<details class="data-alt">
+<summary>View model estimates as a table</summary>
+<div class="table-wrap"><table class="data-table"><caption>Exact-equal-split estimates.</caption><thead><tr><th>Configuration</th><th>Task</th><th>Estimate</th><th>95% model interval</th><th>Vignette sets</th><th>Generation rows</th></tr></thead><tbody><tr><th scope="row"><code>claude-opus-4-8</code></th><td>Workplace</td><td>8.5%</td><td>4.3% to 13.4%</td><td>72</td><td>719</td></tr><tr><th scope="row"><code>claude-fable-5</code></th><td>Workplace</td><td>0.6%</td><td>0.0% to 1.3%</td><td>72</td><td>720</td></tr><tr><th scope="row"><code>gpt-5.5</code></th><td>Workplace</td><td>1.7%</td><td>0.1% to 4.0%</td><td>72</td><td>720</td></tr><tr><th scope="row"><code>deepseek-v4-pro</code></th><td>Workplace</td><td>0.0%</td><td>0.0% to 0.0%</td><td>72</td><td>666</td></tr><tr><th scope="row"><code>glm-5.2</code></th><td>Workplace</td><td>0.4%</td><td>0.0% to 1.3%</td><td>72</td><td>719</td></tr><tr><th scope="row"><code>claude-opus-4-8</code></th><td>Inheritance</td><td>14.1%</td><td>6.2% to 23.8%</td><td>32</td><td>319</td></tr><tr><th scope="row"><code>claude-fable-5</code></th><td>Inheritance</td><td>4.7%</td><td>0.0% to 12.5%</td><td>32</td><td>320</td></tr><tr><th scope="row"><code>gpt-5.5</code></th><td>Inheritance</td><td>1.2%</td><td>0.0% to 3.8%</td><td>32</td><td>320</td></tr><tr><th scope="row"><code>deepseek-v4-pro</code></th><td>Inheritance</td><td>3.1%</td><td>0.0% to 9.4%</td><td>32</td><td>319</td></tr><tr><th scope="row"><code>glm-5.2</code></th><td>Inheritance</td><td>5.3%</td><td>0.9% to 12.2%</td><td>32</td><td>318</td></tr></tbody></table></div>
+</details>
+</figure>
+</div>
+</section>
+<section class="major" id="unknowns">
+<div class="wrap">
+<header class="section-head">
+<p class="section-kicker">What this pilot does not establish</p>
+<h2>The case reveals allocation patterns, not population representation.</h2>
+<p class="section-lead">The central question remains open because the available human evidence does not preserve the distributions, uncertainty, and coverage required for a representation audit.</p>
+</header>
+<div class="boundary-grid">
+<article class="boundary-card"><p class="label">Not established</p><h3>Who is represented</h3><p>The current comparisons cannot determine which individuals, communities, or populations would regard the outputs as reflecting their judgements.</p></article>
+<article class="boundary-card"><p class="label">Not established</p><h3>How much disagreement is compressed</h3><p>Aggregate percentages do not reveal multimodality, minority positions, within-group variation, or the distance between a model tendency and a full human distribution.</p></article>
+<article class="boundary-card"><p class="label">Not established</p><h3>Whether behaviour generalizes</h3><p>Hypothetical allocations do not demonstrate real-world decisions, longitudinal stability, multilingual equivalence, or underlying moral competence.</p></article>
+</div>
+<div class="unknown-list">
+<h3>Evidence still required for the general objective</h3>
+<ul>
+<li>Human microdata for item-matched or task-matched comparisons, with the degree of equivalence stated explicitly.</li>
+<li>Sampling frames, weights, subgroup sizes, uncertainty, and explicit coverage statements.</li>
+<li>Validated comparisons across contexts, languages, configurations, and dates.</li>
+<li>Measures of distributional distance, concentration, minority-response coverage, and robustness.</li>
+<li>Domain-specific studies rather than a single universal measure of values or morality.</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="major" id="next">
+<div class="wrap">
+<header class="section-head">
+<p class="section-kicker">What next</p>
+<h2>A global attitudes audit before the next allocation study.</h2>
+<p class="section-lead">The next experiment will use public human microdata from 60 countries to examine how exact AI configurations respond to country-specific claims about wealth, unfairness, and redistribution. The protocol will then be extended to incentivized spectator-allocation decisions.</p>
+</header>
+<article class="next-card">
+<p class="section-label">Shared protocol</p>
+<h3>Keep distinct questions in distinct conditions</h3>
+<p>The country-explicit item is the core condition: it names the country but does not ask the system to impersonate a resident. Perspective prompting, removal of the country, and estimation of a population distribution are separate tasks. Repeated generations measure configuration stability, not human diversity.<a aria-label="Reference 3" class="cite" href="#ref-3">[3]</a><a aria-label="Reference 5" class="cite" href="#ref-5">[5]</a><a aria-label="Reference 9" class="cite" href="#ref-9">[9]</a></p>
+<div class="next-grid">
+<section class="next-item"><span class="n">01 · Core condition</span><h4>Country-explicit, no persona</h4><p>Use the closest available item-matched reconstruction: “In Egypt…” rather than “You are Egyptian” or “in your country”.</p></section>
+<section class="next-item"><span class="n">02 · Human position</span><h4>Use the full response distribution</h4><p>Report human mass at the selected category, normalized ordinal distance, modal position, and joint-cell typicality.</p></section>
+<section class="next-item"><span class="n">03 · Robustness</span><h4>Separate designed perturbations</h4><p>Test perspective prompting, country removal, paraphrases, option order, and explanation requests without pooling the conditions.</p></section>
+<section class="next-item"><span class="n">04 · Reproducibility</span><h4>Record exact configurations</h4><p>Preserve model, endpoint, mode, parameters, prompt, language, date, item, country, and repetitions per condition.</p></section>
+</div>
+<p class="next-limit"><strong>Interpretive limit:</strong> a common or rare response within a country distribution does not show that a system represents—or fails to represent—that population. It locates an observable output relative to documented responses.</p>
+</article>
+<div aria-label="Planned study sequence" class="research-roadmap">
+<article class="research-stage">
+<div class="stage-marker">Stage 01<span class="stage-state">Next study</span></div>
+<div><h3>FAW Attitudes Audit · Wealth, unfairness, and redistribution</h3><p>Exact configurations will answer four country-specific survey items using public microdata from 60 countries: whether the rich became richer through selfishness or illegal activity, whether economic differences are unfair, and whether government should reduce them. The public file contains 65,856 records, while valid sample size varies substantially by item.<a aria-label="Reference 9" class="cite" href="#ref-9">[9]</a></p><div class="stage-points"><span>60-country core</span><span>four ordinal items</span><span>weighted human distributions</span><span>joint response tables</span></div></div>
+</article>
+<article class="research-stage">
+<div class="stage-marker">Stage 02<span class="stage-state gate">Intensive module</span></div>
+<div><h3>Perspective, robustness, and population estimation</h3><p>A preregistered 15–20-country subset will test a resident-perspective prompt, a country-neutral item, matched paraphrases, option order, and explanation conditions. A separate task will ask the model to estimate how a population would distribute its answers; that estimate will not be conflated with the configuration’s own response.</p><div class="stage-points"><span>default versus steered</span><span>irrelevant prompt controls</span><span>stereotype review</span><span>distribution estimation</span></div></div>
+</article>
+<article class="research-stage">
+<div class="stage-marker">Stage 03<span class="stage-state">Priority extension</span></div>
+<div><h3>FAIR impartial spectator · Luck, merit, and efficiency</h3><p>After verifying public files, licence, treatment coding, weights, and reproducibility, the Observatory will extend the protocol to the global spectator-allocation experiment. This is a distinct study of distributive choices, not the same dataset as the attitudes audit.<a aria-label="Reference 10" class="cite" href="#ref-10">[10]</a></p><div class="stage-points"><span>data-access audit</span><span>luck versus merit</span><span>efficiency trade-off</span><span>allocation distributions</span></div></div>
+</article>
+<article class="research-stage">
+<div class="stage-marker">Stage 04<span class="stage-state later">Later studies</span></div>
+<div><h3>Matched allocation studies and declared-versus-applied principles</h3><p>A confirmatory DSE extension will use equivalent human and AI tasks with individual-level human responses. ISSP and WVS items can then be linked to allocation decisions to test whether stated redistribution principles predict contextual choices, rather than assuming questionnaire profiles generalize.<a aria-label="Reference 6" class="cite" href="#ref-6">[6]</a><a aria-label="Reference 7" class="cite" href="#ref-7">[7]</a></p><div class="stage-points"><span>matched human sample</span><span>DSE 2.0</span><span>ISSP and WVS context</span><span>within-person linkage</span></div></div>
+</article>
+</div>
+<div class="metric-band">
+<h3>Primary outputs for the next experiment</h3>
+<div class="metric-list">
+<div><b>Selected-category mass</b><span>Weighted share of humans choosing the model-selected category.</span></div>
+<div><b>Ordinal distance</b><span>Expected absolute distance from the human response, normalized to the five-point scale.</span></div>
+<div><b>Joint-cell typicality</b><span>Human mass and surprisal of paired responses across belief, judgement, and policy items.</span></div>
+<div><b>Stability and artefacts</b><span>Variation within a condition and effects of wording, order, persona, or format.</span></div>
+<div><b>Coverage statement</b><span>Countries, items, subgroups, and conditions measured or not assessable.</span></div>
+</div>
+</div>
+<details class="study-portfolio">
+<summary>Candidate tests and their role in the programme</summary>
+<p class="portfolio-note">Priority reflects contribution to the Observatory’s research question, not whether another group has already used the dataset.</p>
+<div class="table-wrap"><table class="data-table"><caption>Current study portfolio.</caption><thead><tr><th>Test</th><th>Role</th><th>Human base</th><th>Decision</th></tr></thead><tbody>
+<tr><th scope="row">DSE</th><td>Current active allocation case; matched confirmatory extension</td><td>Published Swiss and Princeton aggregates; new matched sample required</td><td><span class="priority now">Active case</span></td></tr>
+<tr><th scope="row">FAW attitudes</th><td>Global position, robustness, and joint-pattern audit</td><td>Public microdata from 60 countries; valid N varies by item</td><td><span class="priority next">Next experiment</span></td></tr>
+<tr><th scope="row">FAIR impartial spectator</th><td>Global distributive choices under luck, merit, and efficiency</td><td>&gt;65,000 participants across 60 countries</td><td><span class="priority next">After data audit</span></td></tr>
+<tr><th scope="row">ISSP inequality</th><td>Declared pay and inequality principles</td><td>Repeated cross-national survey waves</td><td><span class="priority later">Complementary</span></td></tr>
+<tr><th scope="row">WVS redistribution–incentives</th><td>Broad national context</td><td>Single redistribution–incentives item</td><td><span class="priority later">Context only</span></td></tr>
+<tr><th scope="row">GlobalOpinionQA</th><td>Perspective and language robustness</td><td>Pew and WVS country aggregates</td><td><span class="priority later">Selective replication</span></td></tr>
+<tr><th scope="row">OpinionQA</th><td>US subgroup representation</td><td>Pew American Trends Panel</td><td><span class="priority later">Optional</span></td></tr>
+<tr><th scope="row">ESS Schwartz values</th><td>Declared-value context</td><td>European Social Survey</td><td><span class="priority later">Auxiliary</span></td></tr>
+<tr><th scope="row">Moral Machine</th><td>Extreme harm trade-offs</td><td>Large international public dataset</td><td><span class="priority archive">Not prioritised</span></td></tr>
+<tr><th scope="row">MFQ-2</th><td>Expressed questionnaire profiles</td><td>Limited national means in the pilot archive</td><td><span class="priority archive">Archive</span></td></tr>
+</tbody></table></div>
+</details>
+</div>
+</section>
+<section class="major" id="evidence">
+<div class="wrap">
+<header class="section-head">
+<p class="section-kicker">Evidence to date</p>
+<h2>The starting point for the next phase.</h2>
+<p class="section-lead">Current research provides several starting points for the Observatory’s next phase of study.</p>
+</header>
+<div class="evidence-principles">
+<article class="principle"><div class="principle-head"><span class="principle-index">01</span><div><h3>Observable moral output is not moral competence</h3><p>A system can produce an acceptable answer without demonstrating that it recognized and integrated the morally relevant considerations. Human-like output also does not establish human-like psychological mechanisms.<a aria-label="Reference 1" class="cite" href="#ref-1">[1]</a><a aria-label="Reference 2" class="cite" href="#ref-2">[2]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> describe tested behaviour and avoid claims about possessed beliefs, character, or internal competence.</p></article>
+<article class="principle"><div class="principle-head"><span class="principle-index">02</span><div><h3>Normative behaviour is multidimensional and context-dependent</h3><p>Moral decisions can depend on interacting moral, non-moral, contextual, and irrelevant considerations. Evaluation therefore requires systematic variation rather than a collection of unrelated dilemmas.<a aria-label="Reference 2" class="cite" href="#ref-2">[2]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> define each domain and manipulate the relevant considerations explicitly.</p></article>
+<article class="principle"><div class="principle-head"><span class="principle-index">03</span><div><h3>Normative sensitivity and prompt robustness are different properties</h3><p>A response should sometimes change when moral substance changes, but should not change systematically because equivalent wording, order, labels, or formats were altered.<a aria-label="Reference 1" class="cite" href="#ref-1">[1]</a><a aria-label="Reference 2" class="cite" href="#ref-2">[2]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> pair relevant manipulations with irrelevant controls in every mature case study.</p></article>
+<article class="principle"><div class="principle-head"><span class="principle-index">04</span><div><h3>Pluralism requires distributions, not one average answer</h3><p>Legitimate judgements vary across domains, persons, groups, and cultures. Country means and universal optima conceal internal disagreement, minority positions, and overlapping distributions.<a aria-label="Reference 2" class="cite" href="#ref-2">[2]</a><a aria-label="Reference 5" class="cite" href="#ref-5">[5]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> evaluate coverage, concentration, and omissions rather than attribute a model to a country or rank it against one moral optimum.</p></article>
+<article class="principle"><div class="principle-head"><span class="principle-index">05</span><div><h3>Repeated generations are not synthetic people</h3><p>Human variation reflects differences among people, whereas repeated model outputs measure variability around a configuration’s conditional tendency. LLM studies can also produce inflated effects and completely uniform responses.<a aria-label="Reference 3" class="cite" href="#ref-3">[3]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> use repetitions for stability and concentration; use human participants for population distributions.</p></article>
+<article class="principle"><div class="principle-head"><span class="principle-index">06</span><div><h3>Questionnaire profiles may not predict contextual decisions</h3><p>Human-derived scales can be non-equivalent, socially desirable, format-sensitive, or contaminated when applied to LLMs. Studies comparing abstract moral-foundation responses with concrete vignettes report weak or mismatched relations, while prompting can shift both questionnaire scores and downstream behaviour.<a aria-label="Reference 1" class="cite" href="#ref-1">[1]</a><a aria-label="Reference 6" class="cite" href="#ref-6">[6]</a><a aria-label="Reference 7" class="cite" href="#ref-7">[7]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> keep expressed principles and applied decisions separate, then test their relationship directly.</p></article>
+<article class="principle"><div class="principle-head"><span class="principle-index">07</span><div><h3>Requested cultural perspectives can become stereotypes</h3><p>Cross-national prompting can move outputs towards a country aggregate without demonstrating nuanced cultural representation. Translation alone may also fail to move responses towards populations that speak the target language.<a aria-label="Reference 5" class="cite" href="#ref-5">[5]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> evaluate default behaviour, requested perspective, language, and explanatory content as separate conditions.</p></article>
+<article class="principle"><div class="principle-head"><span class="principle-index">08</span><div><h3>Cultural homogenization is a hypothesis that needs stronger measurement</h3><p>Recent studies report narrower or more Western-aligned moral profiles across cultural prompts, but the strength of that inference depends on the human baseline, construct validity, and treatment of repeated outputs.<a aria-label="Reference 5" class="cite" href="#ref-5">[5]</a><a aria-label="Reference 8" class="cite" href="#ref-8">[8]</a></p></div></div><p class="implication-line"><strong>Starting rule:</strong> test homogenization with matched human distributions and explicit coverage metrics rather than infer it from profile similarity alone.</p></article>
+</div>
+</div>
+</section>
+<section class="major" id="development">
+<div class="wrap">
+<header class="section-head">
+<p class="section-kicker">Research development</p>
+<h2>What the pilots tested and what was learned.</h2>
+<p class="section-lead">Earlier analyses remain visible as methodological development. They are not presented as a sequence of definitive discoveries.</p>
+</header>
+<div class="timeline">
+<article class="timeline-item exploratory"><span aria-hidden="true" class="timeline-dot"></span><div class="timeline-meta">Exploratory pilot · expressed profiles</div><h3>MFQ and national-mean comparisons</h3><p>Tested whether a moral-foundations questionnaire could yield stable, interpretable profiles and descriptive similarities to a limited set of national means.</p><p class="lesson"><strong>Learning:</strong> profiles were measurable but conditional on prompt and instrument; national-mean proximity cannot establish cultural or population representation.</p></article>
+<article class="timeline-item inconclusive"><span aria-hidden="true" class="timeline-dot"></span><div class="timeline-meta">Exploratory pilot · principles and choices</div><h3>Stated distributive criteria versus dilemmas</h3><p>Tested whether declared preferences for equality or proportionality predicted choices across seven dilemmas.</p><p class="lesson"><strong>Learning:</strong> the design did not contain enough independent and discriminating decisions to support the intended association. The claim was withdrawn; the research question remains.</p></article>
+<article class="timeline-item exploratory"><span aria-hidden="true" class="timeline-dot"></span><div class="timeline-meta">Method-development tests</div><h3>Prompt, language, mode, and repetition sensitivity</h3><p>Tested variants, English–Mandarin responses, reasoning modes, endpoints, and repeated generations.</p><p class="lesson"><strong>Learning:</strong> exact configurations must be separated; language studies require matched designs; repetitions measure stability rather than independent participants.</p></article>
+<article class="timeline-item"><span aria-hidden="true" class="timeline-dot"></span><div class="timeline-meta">Active case study · observable decisions</div><h3>Distributive-allocation experiment</h3><p>Moved from expressed profiles to a controlled allocation task involving equality, merit, and need.</p><p class="lesson"><strong>Learning:</strong> applied normative decisions can be measured reproducibly, but matched human distributions are still required before representation or disagreement compression can be estimated.</p></article>
+</div>
+</div>
+</section>
+<section class="major" id="coverage">
+<div class="wrap">
+<header class="section-head">
+<p class="section-kicker">Human reference coverage</p>
+<h2>What current evidence permits—and what the objective still requires.</h2>
+<p class="section-lead">The limitation is not a short list of illustrative identities. It is the absence of the human data structure needed to evaluate representation across people, groups, intersections, contexts, and cultures.</p>
+</header>
+<div class="coverage-grid">
+<article class="coverage-card"><span class="status external">Current evidence</span><h3>Descriptive aggregate comparison</h3><p>The active case can place model estimates alongside selected published point estimates.</p><ul class="coverage-list"><li><span>Swiss general-population estimate</span><span class="state partial">aggregate</span></li><li><span>University of Bern student estimates</span><span class="state partial">aggregate</span></li><li><span>Princeton graduate-student estimates</span><span class="state partial">aggregate</span></li><li><span>Selected gender-specific point estimates</span><span class="state partial">subgroup</span></li></ul></article>
+<article class="coverage-card"><span class="status unanswered">Required next</span><h3>Representation-ready reference data</h3><p>The general objective requires evidence that preserves human heterogeneity and its limits.</p><ul class="coverage-list"><li><span>Individual-level response distributions</span><span class="state none">missing</span></li><li><span>Sampling design, weights, and uncertainty</span><span class="state none">missing</span></li><li><span>Predefined subgroup and intersectional coverage</span><span class="state none">missing</span></li><li><span>Validated cross-language and cross-context equivalence</span><span class="state none">missing</span></li></ul></article>
+</div>
+<p class="coverage-warning"><strong>Interpretation rule:</strong> absence of comparable human evidence means “not currently assessable.” It does not establish that a system does or does not represent a population.</p>
+</div>
+</section>
+<section class="major" id="record">
+<div class="wrap">
+<header class="section-head"><p class="section-kicker">Research record</p><h2>The public narrative does not erase earlier work.</h2><p class="section-lead">Active findings, exploratory evidence, superseded interpretations, excluded configurations, and withdrawn claims remain separated and inspectable.</p></header>
+<div class="record-list">
+<details><summary>Active, exploratory, and withdrawn evidence</summary><div class="record-body"><ul><li><strong>Active:</strong> DSE allocation effects and exact-equality comparisons.</li><li><strong>Exploratory:</strong> MFQ profiles, prompt variants, matched language data, stated principles, choices, and repetition diagnostics.</li><li><strong>Inconclusive:</strong> historical version comparison and stated-versus-chosen association.</li><li><strong>Withdrawn:</strong> country attribution, mixed-configuration results, row-level pseudo-replication, and claims of demonstrated longitudinal drift.</li></ul></div></details>
+<details><summary>Excluded configuration</summary><div class="record-body"><p>DeepSeek Chat / <code>non_thinking</code> is excluded from every active and derived result because it is a distinct endpoint that was previously pooled with DeepSeek Reasoner as though both were repeated observations of one system. The original material remains archived for traceability.</p></div></details>
+<details><summary>Longitudinal status</summary><div class="record-body"><p>This publication is cross-sectional. Longitudinal monitoring is an intended function of the Observatory, but it has not yet been demonstrated through a purpose-built repeated study.</p></div></details>
+<details><summary>Source and instrument limitations</summary><div class="record-body"><ul><li>The DSE vignettes were reconstructed rather than copied verbatim from the original source.</li><li>The model task fixed the amount at CHF 18,000, whereas the original research varied amounts.</li><li>The human side contains aggregate point estimates without equivalent individual-level uncertainty.</li><li>The Swiss family reference contains a documented internal discrepancy retained in the project record.</li></ul></div></details>
+</div>
+</div>
+</section>
+<section class="major" id="methods">
+<div class="wrap">
+<header class="section-head"><p class="section-kicker">Methods, sources, and data</p><h2>Evidence is ordered from primary artifacts to public presentation.</h2><p class="section-lead">Collection records and exact configurations come first, followed by raw responses, analysis scripts, generated results, documentation, and this website.</p></header>
+<div class="record-list">
+<details open=""><summary>Download the research package</summary><div class="record-body"><p>The package contains raw data, analysis scripts, active and exploratory outputs, tests, provenance, correction records, licenses, and a SHA-256 manifest.</p><div class="download-row"><a class="button primary" download="" href="downloads/mvo_core_representation_v0.4.zip">Download data and code</a><a class="button secondary" download="" href="downloads/mvo_core_representation_v0.4.zip.sha256">SHA-256 checksum</a></div></div></details>
+<details><summary>Statistical units and uncertainty</summary><div class="record-body"><p>Allocation intervals resample complete vignette sets. Items or scenarios are the primary statistical units; repeated generations are reported as rows and used to study configuration stability. Human comparison values are published aggregate point estimates, not confidence intervals or individual distributions.</p></div></details>
+<details><summary>Exact configurations</summary><div class="record-body"><p>The active DSE includes <code>claude-opus-4-8</code>, <code>claude-fable-5</code>, <code>gpt-5.5</code>, <code>deepseek-v4-pro</code>, and <code>glm-5.2</code>. Results must not be generalized to provider families or later versions.</p></div></details>
+</div>
+<div class="bibliography" id="bibliography">
+<p class="section-label" style="margin-top:22px">Selected references used in Evidence to date and the research programme</p>
+<article class="reference-item" id="ref-1"><span class="reference-num">[1]</span><div><p>Ye, H., Jin, J., Xie, Y., Zhang, X., &amp; Song, G. (2025). <em>Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement</em> (Version 3, revised 11 March 2026). arXiv:2505.08245.</p><p class="reference-note">Used for construct equivalence, psychometric validity, prompt and language sensitivity, ecological validity, and standardization.</p><a href="https://arxiv.org/abs/2505.08245" rel="noopener">Publication record</a></div></article>
+<article class="reference-item" id="ref-2"><span class="reference-num">[2]</span><div><p>Haas, J., Bridgers, S., Manzini, A., Henke, B., May, J., Levine, S., Weidinger, L., Shanahan, M., Lum, K., Gabriel, I., &amp; Isaac, W. (2026). A roadmap for evaluating moral competence in large language models. <em>Nature, 650</em>, 565–573.</p><p class="reference-note">Used for performance–competence distinction, parametric evaluation, robustness, multidimensionality, and pluralistic ranges.</p><a href="https://doi.org/10.1038/s41586-025-10021-1" rel="noopener">DOI</a></div></article>
+<article class="reference-item" id="ref-3"><span class="reference-num">[3]</span><div><p>Cui, Z., Li, N., &amp; Zhou, H. (2025). A large-scale replication of scenario-based experiments in psychology and management using large language models. <em>Nature Computational Science, 5</em>, 627–634.</p><p class="reference-note">Used for the distinction between generative variation and human participants, effect-size inflation, uniform responses, and the limits of silicon replication.</p><a href="https://doi.org/10.1038/s43588-025-00840-7" rel="noopener">DOI</a></div></article>
+<article class="reference-item" id="ref-4"><span class="reference-num">[4]</span><div><p>Gilgen, S. (2022). <em>Disentangling Justice: Needs, Equality or Merit? On the Situation-Dependency of Distributive Justice.</em> Nomos.</p><p class="reference-note">Source of the reconstructed allocation task and selected published human aggregate estimates.</p><a href="https://doi.org/10.5771/9783748926955" rel="noopener">DOI</a></div></article>
+<article class="reference-item" id="ref-5"><span class="reference-num">[5]</span><div><p>Durmus, E., Nguyen, K., Liao, T. I., Schiefer, N., Askell, A., Bakhtin, A., Chen, C., Hatfield-Dodds, Z., Hernandez, D., Joseph, N., Lovitt, L., McCandlish, S., Sikder, O., Tamkin, A., Thamkul, J., Kaplan, J., Clark, J., &amp; Ganguli, D. (2023). <em>Towards Measuring the Representation of Subjective Global Opinions in Language Models</em> (Version 2, revised 12 April 2024). arXiv:2306.16388.</p><p class="reference-note">Used for global-opinion similarity, the limits of country averages, cross-national prompting, stereotype risk, and language effects.</p><a href="https://arxiv.org/abs/2306.16388" rel="noopener">Publication record</a></div></article>
+<article class="reference-item" id="ref-6"><span class="reference-num">[6]</span><div><p>Nunes, J. L., Almeida, G. F. C. F., de Araujo, M., &amp; Barbosa, S. D. J. (2024). Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations. <em>Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 7</em>(1), 1074–1087.</p><p class="reference-note">Used for the distinction between abstract questionnaire responses and concrete moral judgements.</p><a href="https://doi.org/10.1609/aies.v7i1.31704" rel="noopener">DOI</a></div></article>
+<article class="reference-item" id="ref-7"><span class="reference-num">[7]</span><div><p>Abdulhai, M., Serapio-García, G., Crepy, C., Valter, D., Canny, J., &amp; Jaques, N. (2024). Moral Foundations of Large Language Models. In <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</em> (pp. 17737–17752).</p><p class="reference-note">Used for prompt-conditioned moral-foundation profiles, context sensitivity, and downstream-task transfer.</p><a href="https://doi.org/10.18653/v1/2024.emnlp-main.982" rel="noopener">DOI</a></div></article>
+<article class="reference-item" id="ref-8"><span class="reference-num">[8]</span><div><p>Münker, S. (2025). Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires. <em>Proceedings of the 0th Symposium on Moral and Legal AI Alignment of the IACAP/AISB Conference</em>. arXiv:2507.10073.</p><p class="reference-note">Used as recent evidence reporting cross-cultural profile homogenization; its synthetic-population framing is not adopted by the Observatory.</p><a href="https://arxiv.org/abs/2507.10073" rel="noopener">Publication record</a></div></article>
+<article class="reference-item" id="ref-9"><span class="reference-num">[9]</span><div><p>Almås, I., Cappelen, A. W., Sørensen, E. Ø., &amp; Tungodden, B. (2022). Global evidence on the selfish rich inequality hypothesis. <em>Proceedings of the National Academy of Sciences, 119</em>(3), e2109690119.</p><p class="reference-note">Human base for the planned global attitudes audit. The public microdata contain country-specific ordinal responses on selfishness, illegal activity, unfair inequality, and government redistribution.</p><a href="https://doi.org/10.1073/pnas.2109690119" rel="noopener">DOI</a></div></article>
+<article class="reference-item" id="ref-10"><span class="reference-num">[10]</span><div><p>Almås, I., Cappelen, A. W., Sørensen, E. Ø., &amp; Tungodden, B. (2025). <em>Fairness Across the World</em>. NHH Department of Economics Discussion Paper No. 06/2025.</p><p class="reference-note">Candidate human base for the later global impartial-spectator study of luck, merit, efficiency costs, and inequality acceptance. It is distinct from the 2022 attitudes dataset.</p><a href="https://doi.org/10.2139/ssrn.5192932" rel="noopener">DOI</a></div></article></div>
+</div>
+</section>
+</main>
+<footer>
+<div class="wide">
+<div class="footer-grid"><div><div class="footer-brand">◆ Moral Values Observatory</div><p class="footer-mission">A methodological research programme for making normative representation in exact AI configurations publicly testable, comparable, and correctable.</p></div><nav aria-label="Footer" class="footer-links"><a href="#programme">From pilots to an observatory</a><a href="#case-study">Current case study</a><a href="#next">What next</a><a href="#evidence">Evidence to date</a><a href="#record">Research record</a><a href="#methods">Methods and data</a></nav></div>
+<div class="footer-legal">Sandra Malagón · contact@moralvaluesobservatory.org · Code: MIT · Data and documentation: CC BY-SA 4.0 · Research package v0.4 · Web pilot v2.3 · 28 July 2026</div>
+</div>
+</footer>
+<script>
+const DATA={"effects": {"performance": [{"id": "claude-opus-4-8", "label": "Opus 4.8", "value": 12.277, "lo": 11.2678, "hi": 13.3038, "rows": 719, "sets": 72}, {"id": "claude-fable-5", "label": "Fable 5", "value": 12.4587, "lo": 11.596, "hi": 13.3812, "rows": 720, "sets": 72}, {"id": "gpt-5.5", "label": "GPT 5.5", "value": 17.3715, "lo": 15.7795, "hi": 18.9254, "rows": 720, "sets": 72}, {"id": "deepseek-v4-pro", "label": "DeepSeek v4 Pro", "value": 15.2772, "lo": 13.5088, "hi": 17.0449, "rows": 666, "sets": 72}, {"id": "glm-5.2", "label": "GLM 5.2", "value": 20.7809, "lo": 18.3729, "hi": 23.0314, "rows": 719, "sets": 72}], "dedication": [{"id": "claude-opus-4-8", "label": "Opus 4.8", "value": 7.6396, "lo": 6.7973, "hi": 8.4699, "rows": 719, "sets": 72}, {"id": "claude-fable-5", "label": "Fable 5", "value": 8.2611, "lo": 7.4771, "hi": 9.0504, "rows": 720, "sets": 72}, {"id": "gpt-5.5", "label": "GPT 5.5", "value": 12.1584, "lo": 10.5919, "hi": 13.5941, "rows": 720, "sets": 72}, {"id": "deepseek-v4-pro", "label": "DeepSeek v4 Pro", "value": 10.5283, "lo": 9.0451, "hi": 12.0186, "rows": 666, "sets": 72}, {"id": "glm-5.2", "label": "GLM 5.2", "value": 10.7585, "lo": 8.6085, "hi": 12.7543, "rows": 719, "sets": 72}], "finances": [{"id": "claude-opus-4-8", "label": "Opus 4.8", "value": 11.4266, "lo": 10.2421, "hi": 12.8323, "rows": 319, "sets": 32}, {"id": "claude-fable-5", "label": "Fable 5", "value": 11.9634, "lo": 10.8573, "hi": 13.4103, "rows": 320, "sets": 32}, {"id": "gpt-5.5", "label": "GPT 5.5", "value": 18.7144, "lo": 16.9723, "hi": 20.7934, "rows": 320, "sets": 32}, {"id": "deepseek-v4-pro", "label": "DeepSeek v4 Pro", "value": 20.8512, "lo": 18.1865, "hi": 23.6432, "rows": 319, "sets": 32}, {"id": "glm-5.2", "label": "GLM 5.2", "value": 17.5982, "lo": 15.9415, "hi": 19.28, "rows": 318, "sets": 32}]}, "modelEqual": {"work": [{"id": "claude-opus-4-8", "label": "Opus 4.8", "value": 8.484, "lo": 4.312, "hi": 13.37, "rows": 719, "sets": 72}, {"id": "claude-fable-5", "label": "Fable 5", "value": 0.556, "lo": 0.0, "hi": 1.253, "rows": 720, "sets": 72}, {"id": "gpt-5.5", "label": "GPT 5.5", "value": 1.667, "lo": 0.139, "hi": 4.028, "rows": 720, "sets": 72}, {"id": "deepseek-v4-pro", "label": "DeepSeek v4 Pro", "value": 0.0, "lo": 0.0, "hi": 0.0, "rows": 666, "sets": 72}, {"id": "glm-5.2", "label": "GLM 5.2", "value": 0.417, "lo": 0.0, "hi": 1.253, "rows": 719, "sets": 72}], "family": [{"id": "claude-opus-4-8", "label": "Opus 4.8", "value": 14.107, "lo": 6.25, "hi": 23.751, "rows": 319, "sets": 32}, {"id": "claude-fable-5", "label": "Fable 5", "value": 4.688, "lo": 0.0, "hi": 12.5, "rows": 320, "sets": 32}, {"id": "gpt-5.5", "label": "GPT 5.5", "value": 1.25, "lo": 0.0, "hi": 3.75, "rows": 320, "sets": 32}, {"id": "deepseek-v4-pro", "label": "DeepSeek v4 Pro", "value": 3.135, "lo": 0.0, "hi": 9.434, "rows": 319, "sets": 32}, {"id": "glm-5.2", "label": "GLM 5.2", "value": 5.346, "lo": 0.94, "hi": 12.226, "rows": 318, "sets": 32}]}, "humanEqual": {"work": [{"label": "University of Bern students · overall, both genders", "value": 29.0, "page": "134", "figure": "Figure 4.21 and accompanying text"}, {"label": "Princeton University students · overall, both genders", "value": 17.0, "page": "134", "figure": "Figure 4.21 and accompanying text"}, {"label": "University of Bern students · women", "value": 30.0, "page": "134", "figure": "Figure 4.21"}, {"label": "University of Bern students · men", "value": 26.0, "page": "134", "figure": "Figure 4.21"}, {"label": "Princeton University students · women", "value": 18.0, "page": "134", "figure": "Figure 4.21"}, {"label": "Princeton University students · men", "value": 15.0, "page": "134", "figure": "Figure 4.21"}], "family": [{"label": "Swiss general population · women", "value": 74.0, "page": "117", "figure": "Figure 4.9"}, {"label": "Swiss general population · men", "value": 68.0, "page": "117", "figure": "Figure 4.9"}, {"label": "University of Bern students · women", "value": 73.0, "page": "135", "figure": "Figure 4.22"}, {"label": "University of Bern students · men", "value": 62.0, "page": "135", "figure": "Figure 4.22"}, {"label": "Princeton University students · women", "value": 59.0, "page": "135", "figure": "Figure 4.22"}, {"label": "Princeton University students · men", "value": 46.0, "page": "135", "figure": "Figure 4.22"}]}};
+const NS='http://www.w3.org/2000/svg';
+function el(name,attrs={},text=''){const e=document.createElementNS(NS,name);for(const [k,v] of Object.entries(attrs))e.setAttribute(k,v);if(text)e.textContent=text;return e}
+function effectChart(host,key){
+  const data=DATA.effects[key], merit=key!=='finances';
+  const max=Math.ceil(Math.max(...data.map(d=>d.hi))/5)*5+2;
+  const W=330,H=242,L=105,R=35,T=24,row=38,axisY=220;
+  const svg=el('svg',{viewBox:`0 0 ${W} ${H}`,role:'img','aria-label':`${key} effect estimates by exact configuration`});
+  const x=v=>L+(W-L-R)*v/max;
+  [0,5,10,15,20,25].filter(v=>v<=max).forEach(v=>{svg.append(el('line',{x1:x(v),y1:T-3,x2:x(v),y2:axisY,stroke:'var(--hair)','stroke-width':1}));svg.append(el('text',{x:x(v),y:axisY+16,'text-anchor':'middle',class:'axis-label'},`${v}`))});
+  data.forEach((d,i)=>{const y=T+i*row+14;svg.append(el('text',{x:L-9,y:y+3,'text-anchor':'end',class:'model-label'},d.label));svg.append(el('line',{x1:x(d.lo),y1:y,x2:x(d.hi),y2:y,stroke:merit?'var(--data-merit)':'var(--data-need)','stroke-width':3,'stroke-linecap':'round'}));const c=el('circle',{cx:x(d.value),cy:y,r:5.4,fill:merit?'var(--data-merit)':'var(--data-need)'});c.append(el('title',{},`${d.id}: ${d.value.toFixed(1)} percentage points; 95% interval ${d.lo.toFixed(1)} to ${d.hi.toFixed(1)}.`));svg.append(c);svg.append(el('text',{x:W-3,y:y+3,'text-anchor':'end',class:'value-label'},`${d.value.toFixed(1)}`))});
+  svg.append(el('text',{x:(L+W-R)/2,y:H-2,'text-anchor':'middle',class:'axis-label'},'percentage-point change in allocated share'));
+  host.replaceChildren(svg);
+}
+function equalChart(host,key){
+  const models=DATA.modelEqual[key],humans=DATA.humanEqual[key];
+  const W=470,H=278,L=114,R=26,T=30,axisY=257,row=32,max=80;
+  const svg=el('svg',{viewBox:`0 0 ${W} ${H}`,role:'img','aria-label':`${key} exact equal split comparison`});
+  const x=v=>L+(W-L-R)*v/max;
+  [0,20,40,60,80].forEach(v=>{svg.append(el('line',{x1:x(v),y1:T-14,x2:x(v),y2:axisY-12,stroke:'var(--hair)','stroke-width':1}));svg.append(el('text',{x:x(v),y:axisY+9,'text-anchor':'middle',class:'axis-label'},`${v}%`))});
+  svg.append(el('text',{x:L-8,y:T+4,'text-anchor':'end',class:'model-label'},'Human estimates'));
+  humans.forEach((d,i)=>{const c=el('circle',{cx:x(d.value),cy:T,r:5.3,fill:'var(--paper)',stroke:'var(--data-equality)','stroke-width':2});c.append(el('title',{},`${d.label}: ${d.value.toFixed(0)}% · p. ${d.page}, ${d.figure}`));svg.append(c)});
+  svg.append(el('line',{x1:L,y1:T+16,x2:W-R,y2:T+16,stroke:'var(--hair-strong)','stroke-dasharray':'3 4'}));
+  models.forEach((d,i)=>{const y=T+40+i*row;svg.append(el('text',{x:L-8,y:y+3,'text-anchor':'end',class:'model-label'},d.label));svg.append(el('line',{x1:x(d.lo),y1:y,x2:x(d.hi),y2:y,stroke:'var(--data-need)','stroke-width':3,'stroke-linecap':'round'}));const c=el('circle',{cx:x(d.value),cy:y,r:5.2,fill:'var(--data-need)'});c.append(el('title',{},`${d.id}: ${d.value.toFixed(1)}%; 95% interval ${d.lo.toFixed(1)}% to ${d.hi.toFixed(1)}%.`));svg.append(c);svg.append(el('text',{x:W-2,y:y+3,'text-anchor':'end',class:'value-label'},`${d.value.toFixed(1)}%`))});
+  host.replaceChildren(svg);
+}
+document.querySelectorAll('[data-effect]').forEach(h=>effectChart(h,h.dataset.effect));
+document.querySelectorAll('[data-equal]').forEach(h=>equalChart(h,h.dataset.equal));
+
+const menu=document.querySelector('.menu-button'),nav=document.getElementById('primary-nav');menu.addEventListener('click',()=>{const open=nav.classList.toggle('open');menu.setAttribute('aria-expanded',open)});nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{nav.classList.remove('open');menu.setAttribute('aria-expanded','false')}));
+const progress=document.getElementById('progress');function updateProgress(){const d=document.documentElement;const max=d.scrollHeight-d.clientHeight;progress.style.width=(max?100*d.scrollTop/max:0)+'%'}addEventListener('scroll',updateProgress,{passive:true});updateProgress();
+const links=[...nav.querySelectorAll('a')],sections=links.map(a=>document.querySelector(a.getAttribute('href'))).filter(Boolean);const io=new IntersectionObserver(entries=>{entries.filter(e=>e.isIntersecting).sort((a,b)=>b.intersectionRatio-a.intersectionRatio).slice(0,1).forEach(e=>links.forEach(a=>a.setAttribute('aria-current',a.getAttribute('href')==='#'+e.target.id?'true':'false')))},{rootMargin:'-25% 0px -65% 0px',threshold:[0,.1,.5]});sections.forEach(s=>io.observe(s));
+</script>
+</body></html>

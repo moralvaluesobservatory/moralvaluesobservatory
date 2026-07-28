@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+# The private Meindl administration file must never be committed,
+# under any of its version or suffix variants (e.g. _PRIVADO).
+instrumento_ola2_meindl*.csv
+private_materials/

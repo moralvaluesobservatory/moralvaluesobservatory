@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this repository, its data or its results, please cite it as below."
+title: "Moral Values Observatory: representation-oriented research core"
+type: dataset
+authors:
+  - family-names: "Malagón"
+    given-names: "Sandra"
+    email: "contact@moralvaluesobservatory.org"
+contact:
+  - family-names: "Malagón"
+    given-names: "Sandra"
+    email: "contact@moralvaluesobservatory.org"
+version: "0.4.0"
+date-released: "2026-07-28"
+abstract: >-
+  A versioned research core for pluralistic AI governance. The active release
+  reports a distributive-justice pilot for exact AI configurations and retains
+  exploratory and withdrawn work in a transparent research record. Version 0.4
+  documents the next planned experiment: a 60-country attitudes audit using
+  external human microdata, full ordinal distributions, joint response patterns,
+  prompt robustness, and exact configuration tracking. It reports no results
+  from that future study and does not redistribute the third-party human data.
+keywords:
+  - large language models
+  - distributive justice
+  - human reference data
+  - AI governance
+  - model evaluation
+  - reproducible research
+license: CC-BY-SA-4.0
+references:
+  - type: article
+    title: "Distributive Justice Beliefs are Guided by Whether People Think the Ultimate Goal of Society is Well-Being or Power"
+    authors:
+      - family-names: "Meindl"
+        given-names: "Peter"
+      - family-names: "Iyer"
+        given-names: "Ravi"
+      - family-names: "Graham"
+        given-names: "Jesse"
+    year: 2019
+    doi: "10.1080/01973533.2019.1663524"
+  - type: book
+    title: "Disentangling Justice: Needs, Equality or Merit? On the Situation-Dependency of Distributive Justice"
+    authors:
+      - family-names: "Gilgen"
+        given-names: "Sandra"
+    year: 2022
+    doi: "10.5771/9783748926955"

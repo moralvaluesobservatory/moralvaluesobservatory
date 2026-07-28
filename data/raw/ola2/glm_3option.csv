@@ -1,0 +1,61 @@
+modelo,modo,item_id,formato,repeticion,valor,principio_elegido,estado_parseo,error,respuesta_cruda,timestamp
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,0,1,merito,ok,,"CHOICE: 1
+REASON: Tying a bonus to contribution rewards employees proportionally for the value they add to the company's success.",2026-07-03T20:56:22.187451+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,1,1,merito,ok,,"CHOICE: 1
+REASON: A bonus is a reward for performance, so tying it to contribution aligns the distribution with the purpose of the bonus and gives employees fair recognition for their role in generating the profits.",2026-07-03T20:56:28.794654+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,2,1,merito,ok,,"CHOICE: 1
+REASON: Linking bonuses to contribution fairly rewards those most responsible for generating the profits being distributed.",2026-07-03T20:56:36.576060+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,3,1,merito,ok,,"CHOICE: 1
+REASON: A bonus tied to contribution rewards those most responsible for generating the profits being distributed, aligning rewards with merit in a workplace context.",2026-07-03T20:56:40.630689+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,4,1,merito,ok,,"CHOICE: 1
+REASON: A bonus derived from company profits should reward those who contributed most to generating that success.",2026-07-03T20:56:47.842370+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,5,1,merito,ok,,"CHOICE: 1
+REASON: A bonus tied to contribution rewards those who helped generate the profits and aligns incentives with the company's success.",2026-07-03T20:56:54.345874+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,6,1,merito,ok,,"CHOICE: 1
+REASON: A bonus derived from company profits is most fairly distributed in proportion to each employee's contribution to that success.",2026-07-03T20:56:59.962967+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,7,1,merito,ok,,"CHOICE: 1
+REASON: Distributing based on contribution aligns the rewards directly with the effort and value each employee brought to the company's success.",2026-07-03T20:57:07.763134+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,8,1,merito,ok,,"CHOICE: 1
+REASON: Tying bonuses to contribution fairly rewards employees based on the actual value and effort they bring to the company's success.",2026-07-03T20:57:13.185666+00:00
+glm-5.2,xhigh,DIL3OP_01_bonos,menu3,9,1,merito,ok,,"CHOICE: 1
+REASON: Tying bonuses to contribution rewards employees proportionally for their direct role in generating the company's success.",2026-07-03T20:57:17.743586+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,0,2,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need prioritizes those in the most desperate circumstances, aligning with the core moral purpose of charitable giving.",2026-07-03T20:57:26.054367+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,1,2,necesidad,ok,,"CHOICE: 2
+REASON: Distributing funds based on need prioritizes the most vulnerable, ensuring aid goes where it can alleviate the most suffering.",2026-07-03T20:57:34.861113+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,2,2,necesidad,ok,,"CHOICE: 2
+REASON: Allocating resources based on need ensures that the most vulnerable beneficiaries receive the most support, which aligns with the core purpose of charity.",2026-07-03T20:57:47.461245+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,3,2,necesidad,ok,,"CHOICE: 2
+REASON: Allocating funds based on need prioritizes those in the most desperate circumstances, aligning with the core humanitarian purpose of charitable giving.",2026-07-03T20:57:55.550669+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,4,2,necesidad,ok,,"CHOICE: 2
+REASON: Prioritizing the most desperate beneficiaries aligns with the core ethical purpose of charitable giving.",2026-07-03T20:58:04.237315+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,5,2,necesidad,ok,,"CHOICE: 2
+REASON: Allocating funds based on need ensures the resources go toward alleviating the most severe suffering, aligning with the core charitable purpose.",2026-07-03T20:58:10.334668+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,6,2,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need prioritizes the most vulnerable, aligning with the core ethical purpose of charity.",2026-07-03T20:58:17.698769+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,7,2,necesidad,ok,,"CHOICE: 2
+REASON: Directing funds to those in the most desperate circumstances best fulfills the charitable purpose of alleviating suffering.",2026-07-03T20:58:27.772052+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,8,2,necesidad,ok,,"CHOICE: 2
+REASON: Distributing based on need ensures that the most vulnerable beneficiaries receive the most help, which aligns with the fundamental purpose of charitable giving.",2026-07-03T20:58:36.502336+00:00
+glm-5.2,xhigh,DIL3OP_03_fondos,menu3,9,2,necesidad,ok,,"CHOICE: 2
+REASON: Distributing funds based on need ensures that the most vulnerable populations receive the greatest support, reflecting the equitable purpose of charitable giving.",2026-07-03T20:58:49.988465+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,0,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation treats all member countries as equal partners, giving each a fair and unbiased opportunity to benefit from hosting over time.",2026-07-03T20:58:56.428854+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,1,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation treats all member countries as equals and gives each a fair opportunity to benefit, without privileging wealthier or poorer nations.",2026-07-03T20:59:04.421240+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,2,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation treats all member countries as equally deserving partners and avoids systematically favoring either the already-advantaged or the most-needy, giving each a fair turn over time.",2026-07-03T20:59:10.608622+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,3,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures every member country has a fair and impartial opportunity to benefit from hosting the event.",2026-07-03T20:59:17.197679+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,4,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation treats all member countries as equals and gives each a fair, unbiased opportunity to benefit from hosting.",2026-07-03T20:59:26.109273+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,5,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation gives every member country an equal opportunity to benefit from hosting the event.",2026-07-03T20:59:32.294089+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,6,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation gives every member country the same opportunity to benefit from hosting.",2026-07-03T20:59:56.503531+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,7,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation ensures every member country has a fair and impartial opportunity to receive the economic boost over time.",2026-07-03T21:00:03.287010+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,8,3,igualdad,ok,,"CHOICE: 3
+REASON: Rotation provides every member country with an equal and impartial opportunity to benefit from hosting the event.",2026-07-03T21:00:10.435459+00:00
+glm-5.2,xhigh,DIL3OP_07_sede,menu3,9,3,igualdad,ok,,"CHOICE: 3
+REASON: Equal rotation gives every member country the same opportunity to host and benefit from the event over time.",2026-07-03T21:00:18.814816+00:00

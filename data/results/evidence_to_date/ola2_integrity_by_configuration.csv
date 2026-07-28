@@ -1,0 +1,7 @@
+label,family,configuration,dataset,generation_rows,parse_ok_rows,parse_rate,unique_items,source_model_label,source_modes
+Opus 4.8,Claude Opus,claude-opus-4-8,opus.csv,650,650,1.0,65,claude-opus-4-8,not_recorded
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,gpt.csv,650,650,1.0,65,gpt-5.5,low
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,gpt.csv,650,650,1.0,65,gpt-5.5,high
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,deepseek_reasoner.csv,650,649,0.998462,65,deepseek-v4-pro,thinking
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,glm.csv,650,641,0.986154,65,glm-5.2,xhigh
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,fable.csv,650,650,1.0,65,claude-fable-5,adaptive

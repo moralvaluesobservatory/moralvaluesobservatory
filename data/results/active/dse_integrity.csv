@@ -1,0 +1,6 @@
+dataset,configuration,rows,usable_rows,usable_rate,vignette_sets,repetitions_per_set_min,repetitions_per_set_max,amount_sum_failures,share_sum_failures,negative_amount_rows,duplicate_decision_rows
+dse_deepseek_v4pro_20260722_191602.csv,deepseek-v4-pro,1040,985,0.947115,72,5,10,0,0,0,0
+dse_fable_20260723_120850.csv,claude-fable-5,1040,1040,1.0,72,10,10,0,0,0,0
+dse_glm_20260722_200751.csv,glm-5.2,1040,1037,0.997115,72,9,10,0,0,0,0
+dse_gpt_20260722_170514.csv,gpt-5.5,1040,1040,1.0,72,10,10,0,0,0,0
+dse_opus_20260722_141246.csv,claude-opus-4-8,1040,1038,0.998077,72,9,10,0,0,0,0

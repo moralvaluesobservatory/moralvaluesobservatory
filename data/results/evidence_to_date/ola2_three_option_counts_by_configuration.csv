@@ -1,0 +1,21 @@
+label,configuration,item_id,principle,generation_rows
+Opus 4.8,claude-opus-4-8,DIL3OP_01_bonos,merito,10
+Opus 4.8,claude-opus-4-8,DIL3OP_03_fondos,necesidad,10
+Opus 4.8,claude-opus-4-8,DIL3OP_07_sede,igualdad,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL3OP_01_bonos,merito,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL3OP_03_fondos,necesidad,10
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL3OP_07_sede,igualdad,8
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,DIL3OP_07_sede,necesidad,2
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL3OP_01_bonos,merito,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL3OP_03_fondos,necesidad,10
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,DIL3OP_07_sede,igualdad,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL3OP_01_bonos,merito,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL3OP_03_fondos,necesidad,10
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL3OP_07_sede,igualdad,7
+DeepSeek Reasoner,deepseek-reasoner | thinking,DIL3OP_07_sede,necesidad,2
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL3OP_01_bonos,merito,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL3OP_03_fondos,necesidad,10
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,DIL3OP_07_sede,igualdad,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL3OP_01_bonos,merito,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL3OP_03_fondos,necesidad,10
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,DIL3OP_07_sede,igualdad,10

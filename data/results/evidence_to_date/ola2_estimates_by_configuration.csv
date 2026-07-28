@@ -1,0 +1,7 @@
+label,family,configuration,declared_proportionality_minus_equality,declared_ci_lo,declared_ci_hi,declared_ci_excludes_zero,declared_scale_items_total,proportionality_items,equality_items,contrast_items,chosen_proportional_fraction,chosen_ci_lo,chosen_ci_hi,chosen_dilemmas,chosen_interval_width,bootstrap_unit_declared,bootstrap_unit_chosen,evidence_status
+Opus 4.8,Claude Opus,claude-opus-4-8,0.8687,0.55,1.1562,True,36,16,4,20,0.5857,0.1857,0.8714,7,0.6857,item,dilemma,exploratory; no declared-versus-chosen association inferred
+GPT 5.5 — low reasoning,GPT,gpt-5.5 | reasoning=low,-0.3438,-1.4625,0.7812,False,36,16,4,20,0.5714,0.1429,0.8571,7,0.7143,item,dilemma,exploratory; no declared-versus-chosen association inferred
+GPT 5.5 — high reasoning,GPT,gpt-5.5 | reasoning=high,-0.4812,-1.85,0.7125,False,36,16,4,20,0.5714,0.1429,0.8571,7,0.7143,item,dilemma,exploratory; no declared-versus-chosen association inferred
+DeepSeek Reasoner,DeepSeek,deepseek-reasoner | thinking,1.325,0.9125,1.7625,True,36,16,4,20,0.4286,0.1429,0.7286,7,0.5857,item,dilemma,exploratory; no declared-versus-chosen association inferred
+GLM 5.2 — xhigh,GLM,glm-5.2 | reasoning=xhigh,1.229,0.876,1.5742,True,36,16,4,20,0.5571,0.1429,0.8571,7,0.7143,item,dilemma,exploratory; no declared-versus-chosen association inferred
+Fable 5 — adaptive,Claude Fable,claude-fable-5 | reasoning=adaptive,0.3937,-0.9064,1.4937,False,36,16,4,20,0.4286,0.1429,0.8571,7,0.7143,item,dilemma,exploratory; no declared-versus-chosen association inferred

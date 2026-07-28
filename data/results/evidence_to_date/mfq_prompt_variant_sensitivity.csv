@@ -1,0 +1,7 @@
+label,configuration,variants_tested,distinct_nearest_national_means,same_nearest_national_mean_across_variants,countries_observed,evidence_status,nearest_lente_A,nearest_canonica,nearest_lente_B,nearest_lente_C
+Opus 4.8,opus-4.8,4,2,False,Ireland|Switzerland,prompt_variant_sensitivity,Ireland,Switzerland,Ireland,Switzerland
+GPT 5.5 — low reasoning,gpt-5.5 | reasoning=low,4,2,False,Ireland|Switzerland,prompt_variant_sensitivity,Ireland,Switzerland,Ireland,Ireland
+GPT 5.5 — high reasoning,gpt-5.5 | reasoning=high,4,2,False,Ireland|Switzerland,prompt_variant_sensitivity,Ireland,Switzerland,Ireland,Switzerland
+DeepSeek Reasoner,deepseek-reasoner | thinking,4,2,False,Belgium|Ireland,prompt_variant_sensitivity,Belgium,Ireland,Ireland,Ireland
+GLM 5.2 — xhigh,glm-5.2 | reasoning=xhigh,4,2,False,Ireland|Switzerland,prompt_variant_sensitivity,Switzerland,Ireland,Ireland,Ireland
+Fable 5 — adaptive,claude-fable-5 | reasoning=adaptive,4,2,False,New Zealand|Switzerland,prompt_variant_sensitivity,New Zealand,Switzerland,New Zealand,Switzerland

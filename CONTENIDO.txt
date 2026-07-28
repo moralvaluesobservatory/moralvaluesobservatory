@@ -1,0 +1,74 @@
+QUÉ HAY EN ESTA CARPETA
+=======================
+
+Núcleo corregido y reorganizado del Moral Values Observatory. Versión 0.4,
+28 de julio de 2026. Incluye la web pública en docs/index.html y el diseño del
+siguiente experimento, pero no contiene resultados nuevos de ese estudio.
+
+ORDEN DE LECTURA
+----------------
+1. docs/MISSION.md
+2. docs/CURRENT_SCOPE.md
+3. docs/CASE_STUDY_01_DSE.md
+4. docs/NEXT_EXPERIMENT_FAW_ATTITUDES.md
+5. docs/RESEARCH_PROGRAMME.md
+6. docs/EVIDENCE_TO_DATE.md
+7. docs/index.html
+
+QUÉ ES ACTIVO
+-------------
+data/results/active/
+    Caso 01: justicia distributiva DSE. Sigue siendo el único estudio empírico
+    activo de esta versión.
+
+QUÉ VIENE DESPUÉS
+-----------------
+docs/NEXT_EXPERIMENT_FAW_ATTITUDES.md
+    Auditoría global de actitudes sobre riqueza, desigualdad y redistribución,
+    basada en microdatos humanos externos de 60 países. Los datos humanos de
+    terceros no se redistribuyen.
+
+QUÉ ES EVIDENCIA HASTA LA FECHA
+-------------------------------
+data/results/evidence_to_date/
+    MFQ, sensibilidad al prompt, comparación lingüística corregida, Ola 2 por
+    configuración y diagnósticos de repeticiones. Son resultados exploratorios
+    o lecciones metodológicas, no el núcleo del caso activo.
+
+QUÉ ES REGISTRO DE INVESTIGACIÓN
+--------------------------------
+data/results/research_record/ y research_record/
+    Comparaciones históricas inconclusas, resultados retirados, archivos
+    originales excluidos y fotografía del paquete anterior.
+
+DECISIONES IMPORTANTES DE ESTA VERSIÓN
+--------------------------------------
+- El próximo experimento es FAW Attitudes Audit, no DSE 2.0.
+- El conjunto de actitudes de 2022 se separa del experimento de espectador
+  imparcial Fairness Across the World de 2025.
+- Las repeticiones de modelos miden estabilidad, no personas sintéticas.
+- La comparación principal usará masa humana en la categoría seleccionada,
+  distancia ordinal y tipicidad de celdas conjuntas.
+- Las condiciones con persona, sin país y de estimación poblacional se analizan
+  por separado.
+- DSE sigue siendo el único resultado activo.
+- DeepSeek Chat / non_thinking queda excluido de todo resultado derivado.
+- DeepSeek Reasoner se analiza como configuración independiente.
+- GPT low y high se analizan por separado.
+- Lo longitudinal todavía no está medido.
+
+CÓMO EJECUTARLO
+---------------
+    python -m pip install -r requirements.txt
+    python scripts/analysis/run_all.py
+    python -m pytest tests/ -q
+
+GITHUB PAGES
+------------
+Configurar GitHub Pages para publicar desde la rama main y la carpeta /docs.
+
+LICENCIAS
+---------
+Código: MIT. Datos y documentación propios: CC BY-SA 4.0. Los instrumentos,
+publicaciones y datos humanos de terceros no se redistribuyen salvo permiso
+expreso documentado.
